@@ -1,0 +1,4208 @@
+country,code,name,latitude,longitude,cities
+AD,7,Andorra la Vella,0,0,1
+AD,2,Canillo,0,0,1
+AD,3,Encamp,0,0,1
+AD,8,Escaldes-Engordany,0,0,1
+AD,4,La Massana,0,0,1
+AD,5,Ordino,0,0,1
+AD,6,Sant Julia de Loria,42.465031,1.491064,0
+AE,1,Abu Dhabi,0,0,5
+AE,2,Ajman,25.41222,55.434738,0
+AE,3,Dubai,0,0,2
+AE,4,Fujairah,0,0,1
+AE,5,Ras Al Khaimah,0,0,4
+AE,6,Sharjah,0,0,2
+AE,7,Umm Al Quwain,0,0,1
+AF,1,Badakhshan,36.962134,72.48409,0
+AF,2,Badghis,35.267697,63.88498,0
+AF,3,Baghlan,36.1276,68.6891,0
+AF,30,Balkh,36.7597,66.8897,0
+AF,5,Bamian,0,0,1
+AF,6,Farah,32.3754,62.1123,0
+AF,7,Faryab,36.186405,64.849624,0
+AF,8,Ghazni,33.5533,68.426,0
+AF,9,Ghowr,34.154854,64.905668,0
+AF,10,Helmand,31.791489,64.565208,0
+AF,11,Herat,0,0,1
+AF,31,Jowzjan,36.701094,65.9608,0
+AF,13,Kabol,0,0,1
+AF,23,Kandahar,0,0,1
+AF,14,Kapisa,34.871027,69.729433,0
+AF,37,Khowst,33.3394,69.9148,0
+AF,15,Konar,35.025774,71.170784,0
+AF,24,Kondoz,0,0,1
+AF,16,Laghman,34.796748,70.311782,0
+AF,17,Lowgar,33.943638,69.204366,0
+AF,18,Nangarhar,0,0,1
+AF,19,Nimruz,30.801132,62.212044,0
+AF,38,Nurestan,34.93742,70.375687,0
+AF,20,Oruzgan,32.93021,66.636429,0
+AF,21,Paktia,33.682466,69.481928,0
+AF,29,Paktika,32.493147,68.764845,0
+AF,22,Parvan,0,0,2
+AF,32,Samangan,35.935035,67.898998,0
+AF,33,Sar-e Pol,0,0,1
+AF,26,Takhar,0,0,1
+AF,27,Vardak,34.19443,68.270509,0
+AF,28,Zabol,32.248099,67.183598,0
+AG,1,Barbuda,17.637099,-61.809593,0
+AG,3,Saint George,0,0,1
+AG,4,Saint John,0,0,5
+AG,5,Saint Mary,0,0,2
+AG,6,Saint Paul,0,0,1
+AG,7,Saint Peter,0,0,1
+AG,8,Saint Philip,0,0,0
+AL,40,Berat,40.707495,19.972282,0
+AL,41,Diber,0,0,1
+AL,42,Durres,41.330831,19.442902,0
+AL,43,Elbasan,0,0,1
+AL,44,Fier,0,0,1
+AL,45,Gjirokaster,40.075965,20.150654,0
+AL,46,Korce,40.623001,20.785239,0
+AL,47,Kukes,42.065326,20.440384,0
+AL,48,Lezhe,0,0,1
+AL,49,Shkoder,42.066251,19.522997,0
+AL,50,Tirane,0,0,1
+AL,51,Vlore,40.473662,19.488411,0
+AM,1,Aragatsotn,0,0,0
+AM,2,Ararat,0,0,3
+AM,3,Armavir,0,0,2
+AM,4,Geghark'unik',0,0,0
+AM,5,Kotayk',0,0,6
+AM,6,Lorri,0,0,3
+AM,7,Shirak,0,0,1
+AM,8,Syunik',0,0,1
+AM,9,Tavush,0,0,0
+AM,10,Vayots' Dzor,0,0,0
+AM,11,Yerevan,0,0,1
+AO,19,Bengo,-9.016666,13.920003,0
+AO,1,Benguela,0,0,1
+AO,2,Bie,-12.4,17.4319,0
+AO,3,Cabinda,-5.5616,12.185,0
+AO,4,Cuando Cubango,-15.95284,19.759604,0
+AO,5,Cuanza Norte,-8.85,14.925,0
+AO,6,Cuanza Sul,0,0,2
+AO,7,Cunene,-16.316481,15.28353,0
+AO,8,Huambo,-12.7677,15.738,0
+AO,9,Huila,0,0,1
+AO,20,Luanda,-8.8135,13.2319,0
+AO,17,Lunda Norte,0,0,1
+AO,18,Lunda Sul,-9.958333,20.389265,0
+AO,12,Malanje,0,0,1
+AO,14,Moxico,-11.85,20.033333,0
+AO,15,Uige,-7.602778,15.02775,0
+AO,16,Zaire,0,0,1
+AR,1,Buenos Aires,0,0,205
+AR,2,Catamarca,0,0,1
+AR,3,Chaco,0,0,1
+AR,4,Chubut,0,0,4
+AR,5,Cordoba,0,0,32
+AR,6,Corrientes,0,0,3
+AR,7,Distrito Federal,0,0,19
+AR,8,Entre Rios,0,0,8
+AR,9,Formosa,0,0,1
+AR,10,Jujuy,0,0,2
+AR,11,La Pampa,0,0,4
+AR,12,La Rioja,0,0,1
+AR,13,Mendoza,0,0,5
+AR,14,Misiones,0,0,3
+AR,15,Neuquen,0,0,4
+AR,16,Rio Negro,0,0,11
+AR,17,Salta,0,0,2
+AR,18,San Juan,0,0,3
+AR,19,San Luis,0,0,3
+AR,20,Santa Cruz,0,0,4
+AR,21,Santa Fe,0,0,34
+AR,22,Santiago del Estero,0,0,15
+AR,23,Tierra del Fuego,0,0,2
+AR,24,Tucuman,0,0,4
+AT,1,Burgenland,0,0,211
+AT,2,Karnten,0,0,486
+AT,3,Niederosterreich,0,0,1218
+AT,4,Oberosterreich,0,0,905
+AT,5,Salzburg,0,0,351
+AT,6,Steiermark,0,0,821
+AT,7,Tirol,0,0,485
+AT,8,Vorarlberg,0,0,113
+AT,9,Wien,0,0,15
+AU,1,Australian Capital Territory,0,0,9
+AU,2,New South Wales,0,0,770
+AU,3,Northern Territory,0,0,12
+AU,4,Queensland,0,0,488
+AU,5,South Australia,0,0,226
+AU,6,Tasmania,0,0,127
+AU,7,Victoria,0,0,657
+AU,8,Western Australia,0,0,203
+AZ,1,Abseron,0,0,1
+AZ,2,Agcabadi,0,0,0
+AZ,3,Agdam,39.9837,46.928612,0
+AZ,4,Agdas,0,0,0
+AZ,5,Agstafa,0,0,0
+AZ,6,Agsu,0,0,0
+AZ,7,Ali Bayramli,0,0,0
+AZ,8,Astara,38.44,48.8752,0
+AZ,9,Baki,0,0,4
+AZ,10,Balakan,0,0,0
+AZ,11,Barda,40.38316,47.118622,0
+AZ,12,Beylaqan,0,0,1
+AZ,13,Bilasuvar,0,0,0
+AZ,14,Cabrayil,0,0,0
+AZ,15,Calilabad,0,0,0
+AZ,16,Daskasan,0,0,0
+AZ,17,Davaci,0,0,0
+AZ,18,Fuzuli,0,0,1
+AZ,19,Gadabay,0,0,0
+AZ,20,Ganca,0,0,0
+AZ,21,Goranboy,0,0,1
+AZ,22,Goycay,0,0,0
+AZ,23,Haciqabul,0,0,0
+AZ,24,Imisli,0,0,0
+AZ,25,Ismayilli,0,0,1
+AZ,26,Kalbacar,0,0,0
+AZ,27,Kurdamir,0,0,0
+AZ,28,Lacin,0,0,0
+AZ,29,Lankaran,0,0,0
+AZ,31,Lerik,38.76685,48.405731,0
+AZ,32,Masalli,0,0,0
+AZ,33,Mingacevir,0,0,0
+AZ,34,Naftalan,0,0,0
+AZ,35,Naxcivan,0,0,1
+AZ,36,Neftcala,0,0,0
+AZ,37,Oguz,0,0,0
+AZ,38,Qabala,0,0,0
+AZ,39,Qax,0,0,0
+AZ,40,Qazax,0,0,0
+AZ,41,Qobustan,0,0,0
+AZ,42,Quba,0,0,0
+AZ,43,Qubadli,0,0,0
+AZ,44,Qusar,0,0,0
+AZ,45,Saatli,0,0,0
+AZ,46,Sabirabad,40.005211,48.471931,0
+AZ,47,Saki,0,0,0
+AZ,49,Salyan,0,0,1
+AZ,50,Samaxi,0,0,0
+AZ,51,Samkir,0,0,0
+AZ,52,Samux,0,0,0
+AZ,53,Siyazan,0,0,0
+AZ,54,Sumqayit,0,0,1
+AZ,55,Susa,0,0,0
+AZ,57,Tartar,0,0,0
+AZ,58,Tovuz,0,0,0
+AZ,59,Ucar,0,0,0
+AZ,60,Xacmaz,0,0,0
+AZ,61,Xankandi,39.812351,46.751671,0
+AZ,62,Xanlar,0,0,0
+AZ,63,Xizi,0,0,0
+AZ,64,Xocali,0,0,0
+AZ,65,Xocavand,0,0,0
+AZ,66,Yardimli,0,0,0
+AZ,67,Yevlax,0,0,0
+AZ,69,Zangilan,0,0,0
+AZ,70,Zaqatala,0,0,0
+AZ,71,Zardab,0,0,0
+BA,1,Federation of Bosnia and Herzegovina,0,0,62
+BA,2,Republika Srpska,0,0,28
+BB,1,Christ Church,0,0,3
+BB,2,Saint Andrew,0,0,0
+BB,3,Saint George,0,0,2
+BB,4,Saint James,0,0,4
+BB,5,Saint John,0,0,1
+BB,6,Saint Joseph,13.20232,-59.52676,0
+BB,7,Saint Lucy,0,0,3
+BB,8,Saint Michael,0,0,6
+BB,9,Saint Peter,0,0,1
+BB,10,Saint Philip,0,0,1
+BB,11,Saint Thomas,0,0,1
+BD,22,Bagerhat,22.65707,89.80368,0
+BD,4,Bandarban,22.1619,92.1803,0
+BD,25,Barguna,0,0,0
+BD,1,Barisal,22.400712,90.42992,0
+BD,23,Bhola,22.679489,90.643913,0
+BD,24,Bogra,24.8444,89.3784,0
+BD,26,Brahmanbaria,0,0,0
+BD,27,Chandpur,23.222309,90.650513,0
+BD,28,Chapai Nawabganj,0,0,0
+BD,29,Chattagram,0,0,0
+BD,30,Chuadanga,23.640779,88.685478,0
+BD,5,Comilla,23.4358,91.189,0
+BD,31,Cox's Bazar,0,0,0
+BD,32,Dhaka,23.70548,90.411295,0
+BD,33,Dinajpur,25.6255,88.6404,0
+BD,34,Faridpur,23.440359,89.512733,0
+BD,35,Feni,22.991859,91.389702,0
+BD,36,Gaibandha,0,0,0
+BD,37,Gazipur,22.43,89.18,0
+BD,38,Gopalganj,0,0,0
+BD,39,Habiganj,24.379789,91.409088,0
+BD,40,Jaipurhat,0,0,0
+BD,41,Jamalpur,24.9162,89.9426,0
+BD,42,Jessore,23.1833,89.1666,0
+BD,43,Jhalakati,0,0,0
+BD,44,Jhenaidah,0,0,0
+BD,45,Khagrachari,0,0,0
+BD,46,Khulna,22.912098,89.279507,0
+BD,47,Kishorganj,24.4258,90.7846,0
+BD,48,Kurigram,0,0,0
+BD,49,Kushtia,23.9345,88.9936,0
+BD,50,Laksmipur,0,0,0
+BD,51,Lalmonirhat,0,0,0
+BD,52,Madaripur,23.1654,90.1986,0
+BD,53,Magura,26.28,88.51,0
+BD,54,Manikganj,0,0,0
+BD,55,Meherpur,23.7712,88.6425,0
+BD,56,Moulavibazar,0,0,0
+BD,57,Munshiganj,23.549971,90.525223,0
+BD,12,Mymensingh,24.7557,90.3981,0
+BD,58,Naogaon,24.80452,88.935257,0
+BD,59,Narail,23.16,89.5,0
+BD,60,Narayanganj,23.619,90.4979,0
+BD,61,Narsingdi,0,0,0
+BD,62,Nator,24.4145,88.9915,0
+BD,63,Netrakona,24.886101,90.729134,0
+BD,64,Nilphamari,25.93454,88.849564,0
+BD,13,Noakhali,22.81008,91.099747,0
+BD,65,Pabna,24.0048,89.2579,0
+BD,66,Panchagar,0,0,0
+BD,67,Parbattya Chattagram,0,0,0
+BD,15,Patuakhali,22.355881,90.242104,0
+BD,68,Pirojpur,22.573521,89.987373,0
+BD,69,Rajbari,23.754089,89.65197,0
+BD,70,Rajshahi,25.228028,88.954334,0
+BD,71,Rangpur,25.75,89.2333,0
+BD,72,Satkhira,22.704399,89.082939,0
+BD,73,Shariyatpur,0,0,0
+BD,74,Sherpur,25.0164,90.0143,0
+BD,75,Sirajganj,24.455391,89.699951,0
+BD,76,Sunamganj,25.04562,91.387154,0
+BD,77,Sylhet,24.589978,91.726587,0
+BD,78,Tangail,24.2447,89.9243,0
+BD,79,Thakurgaon,26.016667,88.466667,0
+BE,1,Antwerpen,0,0,137
+BE,2,Brabant,0,0,190
+BE,10,Brabant Wallon,50.666348,4.555613,0
+BE,11,Brussels Hoofdstedelijk Gewest,0,0,2
+BE,3,Hainaut,0,0,124
+BE,4,Liege,0,0,118
+BE,5,Limbug,0,0,72
+BE,6,Luxembourg,0,0,51
+BE,7,Namur,0,0,67
+BE,8,Oost-Vlaanderen,0,0,148
+BE,12,Vlaams-Brabant,0,0,3
+BE,9,West-Vlaanderen,0,0,122
+BF,45,Bale,13.7,-0.616667,0
+BF,15,Bam,0,0,0
+BF,46,Banwa,0,0,0
+BF,47,Bazega,0,0,0
+BF,48,Bougouriba,0,0,0
+BF,49,Boulgou,12.51166,0.832415,0
+BF,19,Boulkiemde,0,0,0
+BF,20,Ganzourgou,0,0,0
+BF,21,Gnagna,0,0,0
+BF,50,Gourma,12.933333,0.733333,0
+BF,51,Houet,0,0,0
+BF,52,Ioba,0,0,0
+BF,53,Kadiogo,0,0,1
+BF,54,Kenedougou,0,0,0
+BF,55,Komoe,0,0,0
+BF,56,Komondjari,0,0,0
+BF,57,Kompienga,0,0,0
+BF,58,Kossi,0,0,0
+BF,59,Koulpelogo,0,0,0
+BF,28,Kouritenga,0,0,0
+BF,60,Kourweogo,0,0,0
+BF,61,Leraba,10.06782,-4.799133,0
+BF,62,Loroum,0,0,0
+BF,63,Mouhoun,0,0,0
+BF,64,Namentenga,0,0,0
+BF,65,Naouri,12.133333,0.583333,0
+BF,66,Nayala,0,0,0
+BF,67,Noumbiel,0,0,0
+BF,68,Oubritenga,0,0,0
+BF,33,Oudalan,0,0,0
+BF,34,Passore,0,0,0
+BF,69,Poni,0,0,0
+BF,36,Sanguie,0,0,0
+BF,70,Sanmatenga,0,0,0
+BF,71,Seno,14.366667,-0.566667,0
+BF,72,Sissili,0,0,0
+BF,40,Soum,0,0,0
+BF,73,Sourou,11.416667,-1.866667,0
+BF,42,Tapoa,12.484337,2.399365,0
+BF,74,Tuy,0,0,0
+BF,75,Yagha,10.466667,-2.783333,0
+BF,76,Yatenga,0,0,0
+BF,77,Ziro,0,0,0
+BF,78,Zondoma,0,0,0
+BF,44,Zoundweogo,0,0,0
+BG,38,Blagoevgrad,0,0,11
+BG,39,Burgas,0,0,31
+BG,40,Dobrich,0,0,6
+BG,41,Gabrovo,0,0,3
+BG,42,Grad Sofiya,0,0,9
+BG,43,Khaskovo,0,0,15
+BG,44,Kurdzhali,0,0,4
+BG,45,Kyustendil,0,0,6
+BG,46,Lovech,0,0,18
+BG,33,Mikhaylovgrad,0,0,2
+BG,47,Montana,0,0,4
+BG,48,Pazardzhik,0,0,13
+BG,49,Pernik,0,0,3
+BG,50,Pleven,0,0,5
+BG,51,Plovdiv,0,0,23
+BG,52,Razgrad,0,0,13
+BG,53,Ruse,0,0,5
+BG,54,Shumen,0,0,5
+BG,55,Silistra,0,0,3
+BG,56,Sliven,0,0,2
+BG,57,Smolyan,0,0,7
+BG,58,Sofiya,0,0,23
+BG,59,Stara Zagora,0,0,6
+BG,60,Turgovishte,0,0,3
+BG,61,Varna,0,0,26
+BG,62,Veliko Turnovo,0,0,8
+BG,63,Vidin,0,0,1
+BG,64,Vratsa,0,0,5
+BG,65,Yambol,0,0,3
+BH,1,Al Hadd,0,0,0
+BH,2,Al Manamah,0,0,1
+BH,8,Al Mintaqah al Gharbiyah,26.04178,50.497529,0
+BH,11,Al Mintaqah al Wusta,26.178315,50.532508,0
+BH,10,Al Mintaqah ash Shamaliyah,0,0,1
+BH,3,Al Muharraq,0,0,1
+BH,13,Ar Rifa,26.1298,50.537,0
+BH,5,Jidd Hafs,0,0,1
+BH,12,Madinat,0,0,1
+BH,14,Madinat Hamad,26.100456,50.512521,0
+BH,9,Mintaqat Juzur Hawar,0,0,0
+BH,6,Sitrah,26.161012,50.625151,0
+BI,9,Bubanza,-3.133502,29.386686,0
+BI,2,Bujumbura,0,0,1
+BI,10,Bururi,-3.882269,29.641667,0
+BI,11,Cankuzo,-3.15,30.603676,0
+BI,12,Cibitoke,-2.833333,29.225,0
+BI,13,Gitega,-3.441667,29.916666,0
+BI,14,Karuzi,-3.125,30.125,0
+BI,15,Kayanza,-3.025,29.641667,0
+BI,16,Kirundo,-2.55,30.158333,0
+BI,17,Makamba,-4.191667,29.825,0
+BI,22,Muramvya,-3.383333,29.691666,0
+BI,18,Muyinga,-2.708333,30.3,0
+BI,23,Mwaro,0,0,0
+BI,19,Ngozi,-2.9,29.875,0
+BI,20,Rutana,-3.825,30.166666,0
+BI,21,Ruyigi,-3.455418,30.358333,0
+BJ,1,Atakora,0,0,0
+BJ,2,Atlantique,0,0,0
+BJ,3,Borgou,0,0,0
+BJ,4,Mono,0,0,0
+BJ,5,Oueme,0,0,1
+BJ,6,Zou,0,0,0
+BM,1,Devonshire,33.73958,-116.309267,0
+BM,2,Hamilton,32.329337,-64.706,0
+BM,4,Paget,0,0,0
+BM,5,Pembroke,37.289949,-77.432914,0
+BM,6,Saint George,0,0,1
+BM,7,Saint George's,0,0,0
+BM,8,Sandys,0,0,0
+BM,9,Smiths,0,0,0
+BM,10,Southampton,37.237342,-77.376659,0
+BM,11,Warwick,37.45889,-77.42306,0
+BN,7,Alibori,0,0,0
+BN,8,Belait,4.449758,114.318703,0
+BN,9,Brunei and Muara,0,0,0
+BN,11,Collines,0,0,0
+BN,13,Donga,0,0,0
+BN,12,Kouffo,0,0,0
+BN,14,Littoral,0,0,0
+BN,16,Oueme,0,0,0
+BN,17,Plateau,0,0,0
+BN,10,Temburong,0,0,0
+BN,15,Tutong,4.805784,114.646698,0
+BN,18,Zou,0,0,0
+BO,1,Chuquisaca,0,0,1
+BO,2,Cochabamba,0,0,2
+BO,3,El Beni,0,0,3
+BO,4,La Paz,0,0,1
+BO,5,Oruro,0,0,1
+BO,6,Pando,-11.088623,-67.423198,0
+BO,7,Potosi,0,0,2
+BO,8,Santa Cruz,0,0,2
+BO,9,Tarija,0,0,2
+BR,1,Acre,0,0,4
+BR,2,Alagoas,0,0,18
+BR,3,Amapa,0,0,1
+BR,4,Amazonas,0,0,9
+BR,5,Bahia,0,0,65
+BR,6,Ceara,0,0,23
+BR,7,Distrito Federal,0,0,2
+BR,8,Espirito Santo,0,0,25
+BR,29,Goias,0,0,16
+BR,13,Maranhao,0,0,11
+BR,14,Mato Grosso,0,0,4
+BR,11,Mato Grosso do Sul,0,0,23
+BR,15,Minas Gerais,0,0,121
+BR,16,Para,0,0,14
+BR,17,Paraiba,0,0,19
+BR,18,Parana,0,0,63
+BR,30,Pernambuco,0,0,36
+BR,20,Piaui,0,0,9
+BR,21,Rio de Janeiro,0,0,51
+BR,22,Rio Grande do Norte,0,0,19
+BR,23,Rio Grande do Sul,0,0,75
+BR,24,Rondonia,0,0,8
+BR,25,Roraima,0,0,4
+BR,26,Santa Catarina,0,0,49
+BR,27,Sao Paulo,0,0,231
+BR,28,Sergipe,0,0,9
+BR,31,Tocantins,0,0,6
+BS,24,Acklins and Crooked Islands,0,0,0
+BS,5,Bimini,25.700378,-79.26474,0
+BS,6,Cat Island,24.403209,-75.525948,0
+BS,10,Exuma,23.56913,-75.845447,0
+BS,25,Freeport,0,0,1
+BS,26,Fresh Creek,0,0,0
+BS,27,Governor's Harbour,0,0,1
+BS,28,Green Turtle Cay,0,0,0
+BS,22,Harbour Island,0,0,1
+BS,29,High Rock,0,0,0
+BS,13,Inagua,20.977222,-73.665276,0
+BS,30,Kemps Bay,23.866667,-77.516667,0
+BS,15,Long Island,23.271651,-75.085708,0
+BS,31,Marsh Harbour,0,0,1
+BS,16,Mayaguana,22.379528,-73.0135,0
+BS,23,New Providence,0,0,1
+BS,32,Nichollstown and Berry Islands,0,0,0
+BS,18,Ragged Island,22.22731,-75.730793,0
+BS,33,Rock Sound,24.96731,-76.183823,0
+BS,35,San Salvador and Rum Cay,0,0,0
+BS,34,Sandy Point,26.004639,-77.395483,0
+BT,5,Bumthang,27.682259,90.630643,0
+BT,6,Chhukha,0,0,0
+BT,7,Chirang,0,0,0
+BT,8,Daga,0,0,0
+BT,9,Geylegphug,0,0,0
+BT,10,Ha,0,0,0
+BT,11,Lhuntshi,0,0,0
+BT,12,Mongar,27.129152,91.167156,0
+BT,13,Paro,27.513568,89.357058,0
+BT,14,Pemagatsel,0,0,0
+BT,15,Punakha,27.680425,89.895182,0
+BT,16,Samchi,0,0,0
+BT,17,Samdrup,26.81,91.56,0
+BT,18,Shemgang,0,0,0
+BT,19,Tashigang,27.379431,91.879189,0
+BT,20,Thimphu,0,0,1
+BT,21,Tongsa,27.499969,90.503357,0
+BT,22,Wangdi Phodrang,27.53841,89.892951,0
+BW,1,Central,-21.483334,26.422628,0
+BW,2,Chobe,-18.308334,24.883333,0
+BW,3,Ghanzi,-21.703975,21.64618,0
+BW,4,Kgalagadi,-25.075,22.075,0
+BW,5,Kgatleng,-24.216667,26.35,0
+BW,6,Kweneng,-24.030063,24.5,0
+BW,7,Ngamiland,-19.244866,23.1,0
+BW,8,North-East,0,0,2
+BW,9,South-East,0,0,2
+BW,10,Southern,-25.008333,24.396088,0
+BY,1,Brestskaya Voblasts',0,0,7
+BY,2,Homyel'skaya Voblasts',0,0,9
+BY,3,Hrodzyenskaya Voblasts',0,0,10
+BY,6,Mahilyowskaya Voblasts',0,0,12
+BY,4,Minsk,0,0,10
+BY,5,Minskaya Voblasts',0,0,0
+BY,7,Vitsyebskaya Voblasts',0,0,15
+BZ,1,Belize,0,0,6
+BZ,2,Cayo,0,0,6
+BZ,3,Corozal,0,0,2
+BZ,4,Orange Walk,17.779726,-88.718411,0
+BZ,5,Stann Creek,0,0,1
+BZ,6,Toledo,0,0,1
+CA,1,Alberta,54.500981,-114.99992,0
+CA,2,British Columbia,54.115749,-126.55071,0
+CA,3,Manitoba,54.503629,-95.494255,0
+CA,4,New Brunswick,46.285875,-66.256015,0
+CA,5,Newfoundland and Labrador,53.337125,-60.21835,0
+CA,13,Northwest Territories,69.36212,-119.240445,0
+CA,7,Nova Scotia,45.543425,-61.63183,0
+CA,14,Nunavut,67.136865,-91.092025,0
+CA,8,Ontario,49.26788,-84.74493,0
+CA,9,Prince Edward Island,46.634645,-63.05213,0
+CA,10,Quebec,46.81274,-71.21935,0
+CA,11,Saskatchewan,54.50071,-105.68423,0
+CA,12,Yukon Territory,64.8369,-132.39536,0
+CD,1,Bandundu,-3.307778,17.383333,0
+CD,8,Bas-Congo,-5.183388,14.258333,0
+CD,2,Equateur,1.358334,20.290649,0
+CD,3,Kasai-Occidental,-5.149982,21.736541,0
+CD,4,Kasai-Oriental,-4.856722,24.058333,0
+CD,5,Katanga,-9.179045,26.191997,0
+CD,6,Kinshasa,-4.491666,15.828001,0
+CD,7,Kivu,0,0,0
+CD,10,Maniema,-1.167485,28.61903,0
+CD,11,Nord-Kivu,0,0,0
+CD,9,Orientale,1.505395,26.888719,0
+CD,12,Sud-Kivu,0,0,0
+CF,1,Bamingui-Bangoran,8.202459,20.274489,0
+CF,18,Bangui,0,0,1
+CF,2,Basse-Kotto,4.924944,21.35,0
+CF,5,Haut-Mbomou,6.072541,26.041666,0
+CF,3,Haute-Kotto,7.03974,22.515856,0
+CF,6,Kemo,5.711471,19.475,0
+CF,7,Lobaye,4.251303,17.727095,0
+CF,4,Mambere-Kadei,4.522075,15.908333,0
+CF,8,Mbomou,5.247212,23.4,0
+CF,15,Nana-Grebizi,6.973257,19.425,0
+CF,9,Nana-Mambere,5.773557,15.54668,0
+CF,17,Ombella-Mpoko,4.916667,17.833333,0
+CF,11,Ouaka,6.143173,20.76937,0
+CF,12,Ouham,7.067532,17.861185,0
+CF,13,Ouham-Pende,6.683333,16.108816,0
+CF,16,Sangha-Mbaere,3.300875,16.3,0
+CF,14,Vakaga,9.643518,22.147255,0
+CG,1,Bouenza,-4.15,13.516667,0
+CG,12,Brazzaville,0,0,1
+CG,3,Cuvette,-0.466667,15.682525,0
+CG,4,Kouilou,0,0,1
+CG,5,Lekoumou,-3.171705,13.475,0
+CG,6,Likouala,1.401412,17.74006,0
+CG,7,Niari,-3.384698,12.568701,0
+CG,8,Plateaux,-1.941667,15.441667,0
+CG,11,Pool,-3.907402,15.082881,0
+CG,10,Sangha,0,0,1
+CH,1,Aargau,0,0,168
+CH,2,Ausser-Rhoden,0,0,20
+CH,3,Basel-Landschaft,0,0,15
+CH,4,Basel-Stadt,0,0,12
+CH,5,Bern,0,0,103
+CH,6,Fribourg,0,0,33
+CH,7,Geneve,0,0,46
+CH,8,Glarus,0,0,14
+CH,9,Graubunden,0,0,71
+CH,10,Inner-Rhoden,0,0,14
+CH,26,Jura,0,0,12
+CH,11,Luzern,0,0,32
+CH,12,Neuchatel,0,0,26
+CH,13,Nidwalden,0,0,7
+CH,14,Obwalden,0,0,21
+CH,15,Sankt Gallen,0,0,39
+CH,16,Schaffhausen,0,0,21
+CH,17,Schwyz,0,0,11
+CH,18,Solothurn,0,0,22
+CH,19,Thurgau,0,0,24
+CH,20,Ticino,0,0,76
+CH,21,Uri,0,0,11
+CH,22,Valais,0,0,48
+CH,23,Vaud,0,0,77
+CH,24,Zug,0,0,18
+CH,25,Zurich,0,0,86
+CI,1,Abengourou,6.72909,-3.491421,0
+CI,61,Abidjan,0,0,3
+CI,62,Aboisso,5.466667,-3.2,0
+CI,63,Adiake,5.2908,-3.3267,0
+CI,5,Adzope,6.096143,-3.868163,0
+CI,6,Agboville,5.927773,-4.222393,0
+CI,64,Alepe,0,0,0
+CI,36,Bangolo,7.033248,-7.144255,0
+CI,37,Beoumi,7.775733,-5.391067,0
+CI,7,Biankouma,7.7344,-7.6128,0
+CI,65,Bocanda,7.0481,-4.5284,0
+CI,38,Bondoukou,7.083333,-5.05,0
+CI,27,Bongouanou,6.65,-4.2,0
+CI,39,Bouafle,6.98166,-5.750575,0
+CI,40,Bouake,9.616667,-7.416667,0
+CI,11,Bouna,9.269945,-2.994693,0
+CI,12,Boundiali,9.52211,-6.488623,0
+CI,3,Dabakala,8.3611,-4.424,0
+CI,66,Dabou,5.313541,-4.383539,0
+CI,41,Daloa,6.87775,-6.4472,0
+CI,14,Danane,7.260198,-8.150842,0
+CI,42,Daoukro,7.0591,-3.9631,0
+CI,67,Dimbokro,6.645828,-4.706601,0
+CI,16,Divo,5.843325,-5.36144,0
+CI,44,Duekoue,6.7426,-7.3372,0
+CI,17,Ferkessedougou,9.594077,-5.202254,0
+CI,18,Gagnoa,6.137461,-5.908112,0
+CI,68,Grand-Bassam,5.196354,-3.745698,0
+CI,45,Grand-Lahou,5.182858,-4.999068,0
+CI,69,Guiglo,6.55,-7.483333,0
+CI,28,Issia,6.4801,-6.5866,0
+CI,70,Jacqueville,5.2,-4.416667,0
+CI,20,Katiola,9.65,-7.616667,0
+CI,21,Korhogo,9.449102,-5.642024,0
+CI,29,Lakota,5.85,-5.683333,0
+CI,47,Man,7.404119,-7.550929,0
+CI,30,Mankono,8.45,-6.866667,0
+CI,48,Mbahiakro,7.4557,-4.3469,0
+CI,23,Odienne,9.509565,-7.574298,0
+CI,31,Oume,6.3779,-5.4256,0
+CI,49,Sakassou,6.542578,-4.827003,0
+CI,50,San Pedro,4.745555,-6.661667,0
+CI,51,Sassandra,0,0,1
+CI,25,Seguela,7.966667,-6.666667,0
+CI,52,Sinfra,6.620751,-5.914704,0
+CI,32,Soubre,5.781,-6.6032,0
+CI,53,Tabou,4.4173,-7.3593,0
+CI,54,Tanda,7.8018,-3.1678,0
+CI,55,Tiassale,5.9327,-4.9867,0
+CI,71,Tiebissou,7.716667,-4.666667,0
+CI,33,Tingrela,10.4696,-6.4084,0
+CI,26,Touba,9.723194,-7.395185,0
+CI,72,Toulepleu,6.576575,-8.420091,0
+CI,56,Toumodi,7.433333,-5.616667,0
+CI,57,Vavoua,7.3713,-6.4837,0
+CI,73,Yamoussoukro,6.84025,-5.3239,0
+CI,34,Zuenoula,7.433333,-6.05,0
+CL,2,Aisen del General Carlos Ibanez del Campo,0,0,1
+CL,3,Antofagasta,0,0,5
+CL,4,Araucania,0,0,7
+CL,5,Atacama,0,0,7
+CL,6,Bio-Bio,0,0,7
+CL,7,Coquimbo,0,0,9
+CL,8,Libertador General Bernardo O'Higgins,0,0,7
+CL,9,Los Lagos,0,0,10
+CL,10,Magallanes y de la Antartica Chilena,0,0,2
+CL,11,Maule,0,0,5
+CL,12,Region Metropolitana,0,0,16
+CL,13,Tarapaca,0,0,2
+CL,1,Valparaiso,0,0,12
+CM,10,Adamaoua,0,0,0
+CM,11,Centre,0,0,1
+CM,4,Est,4.008334,14.11337,0
+CM,12,Extreme-Nord,0,0,1
+CM,5,Littoral,0,0,2
+CM,13,Nord,8.666667,13.915753,0
+CM,7,Nord-Ouest,0,0,1
+CM,8,Ouest,0,0,2
+CM,14,Sud,2.916667,11.615155,0
+CM,9,Sud-Ouest,0,0,3
+CN,1,Anhui,0,0,162
+CN,22,Beijing,0,0,43
+CN,33,Chongqing,0,0,63
+CN,7,Fujian,0,0,481
+CN,15,Gansu,0,0,51
+CN,30,Guangdong,22.878949,113.447452,296
+CN,16,Guangxi,0,0,104
+CN,18,Guizhou,0,0,159
+CN,31,Hainan,0,0,126
+CN,10,Hebei,39.344369,116.662459,145
+CN,8,Heilongjiang,0,0,105
+CN,9,Henan,0,0,127
+CN,12,Hubei,0,0,84
+CN,11,Hunan,0,0,401
+CN,4,Jiangsu,0,0,135
+CN,3,Jiangxi,0,0,198
+CN,5,Jilin,0,0,73
+CN,19,Liaoning,0,0,79
+CN,20,Nei Mongol,0,0,23
+CN,21,Ningxia,0,0,18
+CN,6,Qinghai,0,0,16
+CN,26,Shaanxi,0,0,134
+CN,25,Shandong,0,0,252
+CN,23,Shanghai,0,0,22
+CN,24,Shanxi,0,0,169
+CN,32,Sichuan,0,0,142
+CN,28,Tianjin,0,0,26
+CN,13,Xinjiang,0,0,20
+CN,14,Xizang,0,0,8
+CN,29,Yunnan,0,0,76
+CN,2,Zhejiang,0,0,259
+CO,1,Amazonas,-2.035092,-71.879177,0
+CO,2,Antioquia,0,0,11
+CO,3,Arauca,6.540525,-70.929477,0
+CO,4,Atlantico,0,0,6
+CO,35,Bolivar,8.89113,-74.785027,0
+CO,36,Boyaca,5.83475,-73.328693,0
+CO,37,Caldas,5.28265,-75.301853,0
+CO,8,Caqueta,1.107,-73.894897,1
+CO,32,Casanare,0,0,2
+CO,9,Cauca,0,0,1
+CO,10,Cesar,0,0,1
+CO,11,Choco,6.339892,-76.952061,0
+CO,12,Cordoba,0,0,1
+CO,33,Cundinamarca,0,0,22
+CO,34,Distrito Especial,0,0,0
+CO,15,Guainia,0,0,0
+CO,14,Guaviare,1.752,-71.829002,0
+CO,16,Huila,0,0,5
+CO,17,La Guajira,11.422254,-72.398506,0
+CO,38,Magdalena,10.153941,-74.279499,0
+CO,19,Meta,0,0,4
+CO,20,Narino,0,0,5
+CO,21,Norte de Santander,0,0,4
+CO,22,Putumayo,0,0,2
+CO,23,Quindio,0,0,1
+CO,24,Risaralda,0,0,4
+CO,25,San Andres y Providencia,12.938668,-81.53886,0
+CO,26,Santander,0,0,11
+CO,27,Sucre,0,0,3
+CO,28,Tolima,0,0,9
+CO,29,Valle del Cauca,0,0,14
+CO,30,Vaupes,0.3853,-70.577064,0
+CO,31,Vichada,4.505044,-69.259456,0
+CR,1,Alajuela,0,0,14
+CR,2,Cartago,0,0,6
+CR,3,Guanacaste,0,0,12
+CR,4,Heredia,0,0,6
+CR,6,Limon,0,0,1
+CR,7,Puntarenas,0,0,10
+CR,8,San Jose,0,0,19
+CU,5,Camaguey,0,0,1
+CU,7,Ciego de Avila,0,0,1
+CU,8,Cienfuegos,0,0,1
+CU,2,Ciudad de la Habana,0,0,1
+CU,9,Granma,0,0,2
+CU,10,Guantanamo,20.14303,-75.209007,0
+CU,12,Holguin,20.808333,-75.72327,0
+CU,4,Isla de la Juventud,21.668465,-82.876911,0
+CU,11,La Habana,0,0,1
+CU,13,Las Tunas,0,0,2
+CU,3,Matanzas,0,0,3
+CU,1,Pinar del Rio,0,0,1
+CU,14,Sancti Spiritus,21.954473,-79.518886,0
+CU,15,Santiago de Cuba,0,0,1
+CU,16,Villa Clara,0,0,1
+CV,1,Boa Vista,16.096086,-22.817226,0
+CV,2,Brava,14.850144,-24.719832,0
+CV,4,Maio,15.13626,-23.22175,0
+CV,13,Mosteiros,15,-24.433333,0
+CV,5,Paul,0,0,0
+CV,14,Praia,14.9218,-23.508695,0
+CV,7,Ribeira Grande,0,0,0
+CV,8,Sal,16.717597,-22.932311,0
+CV,15,Santa Catarina,0,0,0
+CV,16,Santa Cruz,15.133333,-23.566667,0
+CV,17,Sao Domingos,0,0,1
+CV,18,Sao Filipe,14.958304,-23.532255,0
+CV,19,Sao Miguel,0,0,0
+CV,10,Sao Nicolau,0,0,0
+CV,11,Sao Vicente,0,0,0
+CV,20,Tarrafal,15.2732,-23.76123,0
+CY,1,Famagusta,0,0,15
+CY,2,Kyrenia,0,0,3
+CY,3,Larnaca,0,0,12
+CY,5,Limassol,0,0,17
+CY,4,Nicosia,0,0,23
+CY,6,Paphos,0,0,12
+CZ,3,Blansko,49.450699,16.606538,0
+CZ,4,Breclav,48.838985,16.756269,0
+CZ,52,Hlavni Mesto Praha,0,0,111
+CZ,20,Hradec Kralove,0,0,6
+CZ,21,Jablonec nad Nisou,0,0,9
+CZ,23,Jiein,0,0,6
+CZ,24,Jihlava,0,0,1
+CZ,79,Jihocesky Kraj,0,0,66
+CZ,78,Jihomoravsky Kraj,0,0,93
+CZ,81,Karlovarsky Kraj,0,0,62
+CZ,30,Kolin,0,0,26
+CZ,82,Kralovehradecky Kraj,0,0,17
+CZ,33,Liberec,0,0,28
+CZ,83,Liberecky Kraj,0,0,13
+CZ,36,Melnik,0,0,1
+CZ,37,Mlada Boleslav,0,0,3
+CZ,85,Moravskoslezsky Kraj,0,0,86
+CZ,39,Nachod,0,0,10
+CZ,41,Nymburk,0,0,3
+CZ,84,Olomoucky Kraj,0,0,86
+CZ,45,Pardubice,0,0,22
+CZ,86,Pardubicky Kraj,0,0,32
+CZ,87,Plzensky Kraj,0,0,94
+CZ,61,Semily,0,0,6
+CZ,88,Stredocesky Kraj,0,0,118
+CZ,70,Trutnov,0,0,9
+CZ,89,Ustecky Kraj,0,0,72
+CZ,80,Vysocina,0,0,52
+CZ,90,Zlinsky Kraj,0,0,54
+DE,1,Baden-Württemberg,0,0,1018
+DE,2,Bayern,0,0,1488
+DE,16,Berlin,0,0,25
+DE,11,Brandenburg,0,0,418
+DE,3,Bremen,0,0,8
+DE,4,Hamburg,0,0,22
+DE,5,Hessen,0,0,369
+DE,12,Mecklenburg-Vorpommern,0,0,276
+DE,6,Niedersachsen,0,0,698
+DE,7,Nordrhein-Westfalen,0,0,995
+DE,8,Rheinland-Pfalz,0,0,701
+DE,9,Saarland,0,0,67
+DE,13,Sachsen,0,0,384
+DE,14,Sachsen-Anhalt,0,0,244
+DE,10,Schleswig-Holstein,0,0,403
+DE,15,Thuringen,0,0,249
+DJ,2,Dikhil,11.099622,42.348721,0
+DJ,3,Djibouti,11.5806,43.1425,0
+DJ,4,Obock,11.9642,43.2725,0
+DJ,5,Tadjoura,11.7766,42.8221,0
+DK,1,Arhus,0,0,92
+DK,2,Bornholm,0,0,6
+DK,3,Frederiksborg,0,0,25
+DK,4,Fyn,0,0,58
+DK,5,Kobenhavn,0,0,25
+DK,7,Nordjylland,0,0,80
+DK,8,Ribe,0,0,35
+DK,9,Ringkobing,0,0,46
+DK,10,Roskilde,0,0,26
+DK,11,Sonderjylland,0,0,55
+DK,6,Staden Kobenhavn,0,0,7
+DK,12,Storstrom,0,0,48
+DK,13,Vejle,0,0,44
+DK,14,Vestsjalland,0,0,26
+DK,15,Viborg,0,0,34
+DM,2,Saint Andrew,15.5571,-61.314098,0
+DM,3,Saint David,15.433333,-61.266667,0
+DM,4,Saint George,0,0,1
+DM,5,Saint John,15.56953,-61.455132,0
+DM,6,Saint Joseph,15.433333,-61.45,0
+DM,7,Saint Luke,0,0,0
+DM,8,Saint Mark,0,0,0
+DM,9,Saint Patrick,15.284935,-61.286041,0
+DM,10,Saint Paul,0,0,1
+DM,11,Saint Peter,0,0,0
+DO,1,Azua,18.624858,-70.763495,0
+DO,2,Baoruco,18.494061,-71.311864,0
+DO,3,Barahona,0,0,1
+DO,4,Dajabon,19.44998,-71.628043,0
+DO,5,Distrito Nacional,0,0,2
+DO,6,Duarte,19.260834,-70.00056,0
+DO,28,El Seibo,0,0,1
+DO,11,Elias Pina,18.87628,-71.706543,0
+DO,8,Espaillat,0,0,1
+DO,29,Hato Mayor,0,0,1
+DO,9,Independencia,18.432037,-71.605446,0
+DO,10,La Altagracia,18.536392,-68.617096,0
+DO,12,La Romana,0,0,1
+DO,30,La Vega,0,0,2
+DO,14,Maria Trinidad Sanchez,0,0,2
+DO,31,Monsenor Nouel,0,0,1
+DO,15,Monte Cristi,19.850609,-71.645294,0
+DO,32,Monte Plata,0,0,2
+DO,16,Pedernales,17.905631,-71.51482,0
+DO,17,Peravia,18.350542,-70.368385,0
+DO,18,Puerto Plata,0,0,2
+DO,19,Salcedo,0,0,2
+DO,20,Samana,0,0,1
+DO,33,San Cristobal,0,0,4
+DO,23,San Juan,0,0,1
+DO,24,San Pedro De Macoris,0,0,2
+DO,21,Sanchez Ramirez,0,0,1
+DO,25,Santiago,0,0,2
+DO,26,Santiago Rodriguez,19.396625,-71.316328,0
+DO,27,Valverde,0,0,1
+DZ,34,Adrar,0,0,1
+DZ,35,Ain Defla,36.067322,4.555303,0
+DZ,36,Ain Temouchent,35.2891,-1.1425,0
+DZ,1,Alger,0,0,4
+DZ,37,Annaba,36.89875,7.75635,0
+DZ,3,Batna,0,0,1
+DZ,38,Bechar,31.60875,-2.2168,0
+DZ,18,Bejaia,0,0,1
+DZ,19,Biskra,0,0,2
+DZ,20,Blida,0,0,1
+DZ,39,Bordj Bou Arreridj,36.05912,4.630318,0
+DZ,21,Bouira,0,0,1
+DZ,40,Boumerdes,36.726484,3.709856,0
+DZ,41,Chlef,0,0,2
+DZ,4,Constantine,0,0,2
+DZ,22,Djelfa,0,0,1
+DZ,42,El Bayadh,32.572275,0.950011,0
+DZ,43,El Oued,33.368309,6.867369,0
+DZ,44,El Tarf,36.662735,8.203498,0
+DZ,45,Ghardaia,32.4933,3.675419,0
+DZ,23,Guelma,36.4658,7.4339,0
+DZ,46,Illizi,26.56481,8.922689,0
+DZ,24,Jijel,0,0,1
+DZ,47,Khenchela,35.43525,7.1403,0
+DZ,25,Laghouat,0,0,1
+DZ,27,M'sila,35.702,4.5471,0
+DZ,26,Mascara,0,0,3
+DZ,6,Medea,36.262874,2.760296,0
+DZ,48,Mila,36.217729,6.200075,0
+DZ,7,Mostaganem,0,0,1
+DZ,49,Naama,33.199561,-0.800004,0
+DZ,9,Oran,0,0,2
+DZ,50,Ouargla,0,0,1
+DZ,29,Oum el Bouaghi,35.790001,7.055849,0
+DZ,51,Relizane,0,0,2
+DZ,10,Saida,34.830576,0.1518,0
+DZ,12,Setif,36.18795,5.4091,0
+DZ,30,Sidi Bel Abbes,35.199926,-0.635242,0
+DZ,31,Skikda,0,0,1
+DZ,52,Souk Ahras,36.28376,7.955379,0
+DZ,53,Tamanghasset,0,0,0
+DZ,33,Tebessa,35.410219,8.1215,0
+DZ,13,Tiaret,0,0,1
+DZ,54,Tindouf,0,0,1
+DZ,55,Tipaza,0,0,2
+DZ,56,Tissemsilt,35.75276,1.86724,0
+DZ,14,Tizi Ouzou,0,0,1
+DZ,15,Tlemcen,0,0,1
+EC,2,Azuay,0,0,2
+EC,3,Bolivar,0,0,1
+EC,4,Canar,0,0,2
+EC,5,Carchi,0,0,1
+EC,6,Chimborazo,0,0,1
+EC,7,Cotopaxi,0,0,1
+EC,8,El Oro,0,0,1
+EC,9,Esmeraldas,0,0,1
+EC,1,Galapagos,0,0,1
+EC,10,Guayas,0,0,8
+EC,11,Imbabura,0,0,2
+EC,12,Loja,0,0,1
+EC,13,Los Rios,0,0,3
+EC,14,Manabi,0,0,3
+EC,15,Morona-Santiago,-2.518864,-77.854122,0
+EC,23,Napo,-0.754009,-76.797336,0
+EC,24,Orellana,-0.794787,-76.426547,0
+EC,17,Pastaza,0,0,1
+EC,18,Pichincha,0,0,4
+EC,22,Sucumbios,0.00139,-76.604355,0
+EC,19,Tungurahua,0,0,1
+EC,20,Zamora-Chinchipe,-4.167306,-78.887458,0
+EE,1,Harjumaa,0,0,53
+EE,2,Hiiumaa,0,0,2
+EE,3,Ida-Virumaa,0,0,7
+EE,4,Jarvamaa,0,0,9
+EE,5,Jogevamaa,0,0,6
+EE,6,Kohtla-Jarve,59.398711,27.250498,0
+EE,8,Laane-Virumaa,0,0,19
+EE,7,Laanemaa,0,0,19
+EE,9,Narva,59.374251,28.182294,0
+EE,10,Parnu,58.386015,24.498637,0
+EE,11,Parnumaa,0,0,17
+EE,12,Polvamaa,0,0,6
+EE,13,Raplamaa,0,0,15
+EE,14,Saaremaa,0,0,6
+EE,15,Sillamae,59.400758,27.745486,0
+EE,16,Tallinn,59.439232,24.758619,0
+EE,17,Tartu,58.370846,26.714761,0
+EE,18,Tartumaa,0,0,19
+EE,19,Valgamaa,0,0,6
+EE,20,Viljandimaa,0,0,8
+EE,21,Vorumaa,0,0,7
+EG,1,Ad Daqahliyah,0,0,5
+EG,2,Al Bahr al Ahmar,0,0,1
+EG,3,Al Buhayrah,0,0,6
+EG,4,Al Fayyum,0,0,2
+EG,5,Al Gharbiyah,0,0,2
+EG,6,Al Iskandariyah,0,0,1
+EG,7,Al Isma'iliyah,0,0,1
+EG,8,Al Jizah,0,0,3
+EG,9,Al Minufiyah,0,0,2
+EG,10,Al Minya,0,0,1
+EG,11,Al Qahirah,0,0,9
+EG,12,Al Qalyubiyah,0,0,4
+EG,13,Al Wadi al Jadid,25.782845,30.401712,0
+EG,15,As Suways,0,0,1
+EG,14,Ash Sharqiyah,0,0,9
+EG,16,Aswan,0,0,1
+EG,17,Asyut,0,0,2
+EG,18,Bani Suwayf,29.048205,30.628919,0
+EG,19,Bur Sa'id,0,0,1
+EG,20,Dumyat,0,0,1
+EG,26,Janub Sina',28.727204,33.688162,0
+EG,21,Kafr ash Shaykh,0,0,3
+EG,22,Matruh,0,0,1
+EG,23,Qina,0,0,2
+EG,27,Shamal Sina',30.3877,33.815547,0
+EG,24,Suhaj,0,0,1
+ES,51,Andalucia,0,0,190
+ES,52,Aragon,0,0,89
+ES,34,Asturias,0,0,80
+ES,53,Canarias,0,0,77
+ES,39,Cantabria,0,0,65
+ES,55,Castilla y Leon,0,0,110
+ES,54,Castilla-La Mancha,0,0,104
+ES,56,Catalonia,0,0,224
+ES,60,Comunidad Valenciana,0,0,175
+ES,57,Extremadura,0,0,39
+ES,58,Galicia,0,0,131
+ES,7,Islas Baleares,0,0,36
+ES,27,La Rioja,0,0,21
+ES,29,Madrid,0,0,59
+ES,31,Murcia,0,0,36
+ES,32,Navarra,0,0,48
+ES,59,Pais Vasco,0,0,107
+ET,10,Addis Abeba,0,0,2
+ET,44,Adis Abeba,9.022736,38.746799,0
+ET,14,Afar,0,0,0
+ET,46,Amara,8.8,34.733333,0
+ET,2,Amhara,0,0,0
+ET,13,Benishangul,0,0,0
+ET,47,Binshangul Gumuz,0,0,0
+ET,48,Dire Dawa,9.589229,41.87019,0
+ET,49,Gambela Hizboch,0,0,0
+ET,8,Gambella,8.128333,34.562778,0
+ET,50,Hareri Hizb,0,0,0
+ET,51,Oromiya,0,0,0
+ET,7,Somali,0,0,0
+ET,11,Southern,0,0,0
+ET,52,Sumale,0,0,0
+ET,12,Tigray,13.666667,39.683333,0
+ET,54,YeDebub Biheroch Bihereseboch na Hizboch,0,0,0
+FI,1,Pirkanmaa,0,0,17
+FI,14,Eastern Finland,0,0,135
+FI,6,Lapland,0,0,61
+FI,8,Oulu,0,0,186
+FI,13,Southern Finland,0,0,296
+FI,15,Western Finland,0,0,428
+FJ,1,Central,0,0,10
+FJ,2,Eastern,0,0,0
+FJ,3,Northern,0,0,0
+FJ,4,Rotuma,-12.5,177.083333,0
+FJ,5,Western,0,0,6
+FM,3,Chuuk,0,0,0
+FM,1,Kosrae,0,0,0
+FM,2,Pohnpei,0,0,0
+FM,4,Yap,0,0,0
+FR,C1,Alsace,0,0,292
+FR,97,Aquitaine,0,0,466
+FR,98,Auvergne,0,0,443
+FR,99,Basse-Normandie,0,0,285
+FR,A1,Bourgogne,0,0,522
+FR,A2,Bretagne,0,0,467
+FR,A3,Centre,0,0,769
+FR,A4,Champagne-Ardenne,0,0,210
+FR,A5,Corse,0,0,101
+FR,A6,Franche-Comte,0,0,247
+FR,A7,Haute-Normandie,0,0,232
+FR,A8,Ile-de-France,0,0,381
+FR,A9,Languedoc-Roussillon,0,0,267
+FR,B1,Limousin,0,0,264
+FR,B2,Lorraine,0,0,350
+FR,B3,Midi-Pyrenees,0,0,461
+FR,B4,Nord-Pas-de-Calais,0,0,381
+FR,B5,Pays de la Loire,0,0,250
+FR,B6,Picardie,0,0,322
+FR,B7,Poitou-Charentes,0,0,422
+FR,B8,Provence-Alpes-Cote d'Azur,0,0,369
+FR,B9,Rhone-Alpes,0,0,1004
+GA,1,Estuaire,0,0,1
+GA,2,Haut-Ogooue,-1.158333,13.625,0
+GA,3,Moyen-Ogooue,-0.460345,10.518148,0
+GA,4,Ngounie,-1.801056,11.246085,0
+GA,5,Nyanga,-3.083334,10.889559,0
+GA,6,Ogooue-Ivindo,0.341953,12.857685,0
+GA,7,Ogooue-Lolo,-0.937319,12.60437,0
+GA,8,Ogooue-Maritime,0,0,1
+GA,9,Woleu-Ntem,1.258931,11.825,0
+GB,T5,Aberdeen City,0,0,8
+GB,T6,Aberdeenshire,0,0,57
+GB,T7,Angus,0,0,18
+GB,Q6,Antrim,0,0,11
+GB,Q7,Ards,0,0,2
+GB,T8,Argyll and Bute,0,0,22
+GB,Q8,Armagh,0,0,1
+GB,1,Avon,51.414792,-2.601525,0
+GB,Q9,Ballymena,0,0,5
+GB,R1,Ballymoney,0,0,2
+GB,R2,Banbridge,0,0,3
+GB,A1,Barking and Dagenham,0,0,1
+GB,A2,Barnet,0,0,1
+GB,A3,Barnsley,0,0,7
+GB,A4,Bath and North East Somerset,0,0,15
+GB,A5,Bedfordshire,0,0,39
+GB,R3,Belfast,0,0,5
+GB,3,Berkshire,0,0,29
+GB,A6,Bexley,0,0,1
+GB,A7,Birmingham,0,0,7
+GB,A8,Blackburn with Darwen,0,0,2
+GB,A9,Blackpool,0,0,3
+GB,X2,Blaenau Gwent,0,0,10
+GB,B1,Bolton,0,0,7
+GB,B2,Bournemouth,0,0,1
+GB,B3,Bracknell Forest,0,0,5
+GB,B4,Bradford,0,0,2
+GB,B5,Brent,0,0,1
+GB,X3,Bridgend,0,0,11
+GB,B6,Brighton and Hove,0,0,1
+GB,B7,"Bristol, City of",0,0,7
+GB,B8,Bromley,0,0,9
+GB,B9,Buckinghamshire,0,0,88
+GB,C1,Bury,0,0,7
+GB,X4,Caerphilly,0,0,25
+GB,C2,Calderdale,0,0,3
+GB,C3,Cambridgeshire,0,0,51
+GB,C4,Camden,0,0,1
+GB,X5,Cardiff,0,0,11
+GB,X7,Carmarthenshire,0,0,30
+GB,R4,Carrickfergus,0,0,5
+GB,R5,Castlereagh,0,0,3
+GB,79,Central,54.96932,-1.615655,0
+GB,X6,Ceredigion,0,0,13
+GB,C5,Cheshire,0,0,103
+GB,U1,Clackmannanshire,0,0,7
+GB,7,Cleveland,54.525579,-1.189651,0
+GB,90,Clwyd,0,0,5
+GB,R6,Coleraine,0,0,2
+GB,X8,Conwy,0,0,11
+GB,R7,Cookstown,0,0,8
+GB,C6,Cornwall,0,0,91
+GB,C7,Coventry,0,0,7
+GB,R8,Craigavon,0,0,5
+GB,C8,Croydon,0,0,1
+GB,C9,Cumbria,0,0,142
+GB,D1,Darlington,0,0,4
+GB,X9,Denbighshire,0,0,9
+GB,D2,Derby,0,0,8
+GB,D3,Derbyshire,0,0,73
+GB,S6,Derry,0,0,13
+GB,D4,Devon,0,0,117
+GB,D5,Doncaster,0,0,9
+GB,D6,Dorset,0,0,86
+GB,R9,Down,0,0,21
+GB,D7,Dudley,0,0,1
+GB,U2,Dumfries and Galloway,0,0,72
+GB,U3,Dundee City,0,0,1
+GB,S1,Dungannon,0,0,9
+GB,D8,Durham,0,0,79
+GB,91,Dyfed,52.129642,-4.357746,0
+GB,D9,Ealing,0,0,1
+GB,U4,East Ayrshire,0,0,10
+GB,U5,East Dunbartonshire,0,0,10
+GB,U6,East Lothian,0,0,18
+GB,U7,East Renfrewshire,0,0,8
+GB,E1,East Riding of Yorkshire,0,0,1
+GB,E2,East Sussex,0,0,58
+GB,U8,"Edinburgh, City of",0,0,4
+GB,W8,Eilean Siar,0,0,19
+GB,E3,Enfield,0,0,1
+GB,E4,Essex,0,0,238
+GB,U9,Falkirk,0,0,14
+GB,S2,Fermanagh,0,0,10
+GB,V1,Fife,0,0,51
+GB,Y1,Flintshire,0,0,13
+GB,E5,Gateshead,0,0,2
+GB,V2,Glasgow City,0,0,5
+GB,E6,Gloucestershire,0,0,115
+GB,82,Grampian,52.87985,-1.495505,0
+GB,17,Greater London,0,0,1
+GB,18,Greater Manchester,53.442362,-2.23348,0
+GB,E7,Greenwich,0,0,1
+GB,92,Gwent,51.774147,-3.006797,0
+GB,Y2,Gwynedd,0,0,19
+GB,E8,Hackney,0,0,1
+GB,E9,Halton,0,0,1
+GB,F1,Hammersmith and Fulham,0,0,1
+GB,F2,Hampshire,0,0,137
+GB,F3,Haringey,0,0,1
+GB,F4,Harrow,0,0,1
+GB,F5,Hartlepool,0,0,2
+GB,F6,Havering,0,0,5
+GB,20,Hereford and Worcester,52.134277,-2.450174,0
+GB,F7,Herefordshire,0,0,27
+GB,F8,Hertford,0,0,58
+GB,V3,Highland,0,0,70
+GB,F9,Hillingdon,0,0,1
+GB,G1,Hounslow,0,0,1
+GB,22,Humberside,53.583093,-0.349013,0
+GB,V4,Inverclyde,0,0,7
+GB,X1,Isle of Anglesey,0,0,11
+GB,G2,Isle of Wight,0,0,26
+GB,G3,Islington,0,0,1
+GB,G4,Kensington and Chelsea,0,0,1
+GB,G5,Kent,0,0,232
+GB,G6,"Kingston upon Hull, City of",0,0,2
+GB,G7,Kingston upon Thames,0,0,2
+GB,G8,Kirklees,0,0,5
+GB,G9,Knowsley,0,0,2
+GB,H1,Lambeth,0,0,1
+GB,H2,Lancashire,0,0,193
+GB,S3,Larne,0,0,4
+GB,H3,Leeds,0,0,6
+GB,H4,Leicester,0,0,11
+GB,H5,Leicestershire,0,0,60
+GB,H6,Lewisham,0,0,1
+GB,S4,Limavady,0,0,3
+GB,H7,Lincolnshire,0,0,56
+GB,S5,Lisburn,0,0,4
+GB,H8,Liverpool,0,0,3
+GB,H9,"London, City of",0,0,1
+GB,84,Lothian,55.886686,-3.608939,0
+GB,I1,Luton,0,0,1
+GB,S7,Magherafelt,0,0,2
+GB,I2,Manchester,0,0,2
+GB,I3,Medway,0,0,1
+GB,28,Merseyside,0,0,2
+GB,Y3,Merthyr Tydfil,0,0,4
+GB,I4,Merton,0,0,1
+GB,94,Mid Glamorgan,51.65536,-3.400905,0
+GB,I5,Middlesbrough,0,0,3
+GB,V5,Midlothian,0,0,21
+GB,I6,Milton Keynes,0,0,4
+GB,Y4,Monmouthshire,0,0,18
+GB,V6,Moray,0,0,22
+GB,S8,Moyle,0,0,3
+GB,Y5,Neath Port Talbot,0,0,18
+GB,I7,Newcastle upon Tyne,0,0,9
+GB,I8,Newham,0,0,13
+GB,Y6,Newport,0,0,8
+GB,S9,Newry and Mourne,0,0,4
+GB,T1,Newtownabbey,0,0,2
+GB,I9,Norfolk,0,0,175
+GB,V7,North Ayrshire,0,0,10
+GB,T2,North Down,0,0,1
+GB,J2,North East Lincolnshire,0,0,1
+GB,V8,North Lanarkshire,0,0,12
+GB,J3,North Lincolnshire,0,0,11
+GB,J4,North Somerset,0,0,15
+GB,J5,North Tyneside,0,0,2
+GB,J7,North Yorkshire,0,0,5
+GB,J1,Northamptonshire,0,0,79
+GB,J6,Northumberland,0,0,76
+GB,J8,Nottingham,0,0,16
+GB,J9,Nottinghamshire,0,0,61
+GB,K1,Oldham,0,0,5
+GB,T3,Omagh,0,0,7
+GB,V9,Orkney,0,0,5
+GB,K2,Oxfordshire,0,0,143
+GB,Y7,Pembrokeshire,0,0,45
+GB,W1,Perth and Kinross,0,0,37
+GB,K3,Peterborough,0,0,3
+GB,K4,Plymouth,0,0,5
+GB,K5,Poole,0,0,1
+GB,K6,Portsmouth,0,0,2
+GB,Y8,Powys,0,0,38
+GB,K7,Reading,0,0,10
+GB,K8,Redbridge,0,0,12
+GB,K9,Redcar and Cleveland,0,0,4
+GB,W2,Renfrewshire,0,0,25
+GB,Y9,Rhondda Cynon Taff,0,0,16
+GB,L1,Richmond upon Thames,0,0,1
+GB,L2,Rochdale,0,0,2
+GB,L3,Rotherham,0,0,11
+GB,L4,Rutland,0,0,3
+GB,L5,Salford,0,0,4
+GB,L7,Sandwell,0,0,1
+GB,T9,"Scottish Borders, The",0,0,63
+GB,L8,Sefton,0,0,5
+GB,L9,Sheffield,0,0,4
+GB,W3,Shetland Islands,0,0,6
+GB,L6,Shropshire,0,0,96
+GB,M1,Slough,0,0,25
+GB,M2,Solihull,0,0,11
+GB,M3,Somerset,0,0,124
+GB,W4,South Ayrshire,0,0,15
+GB,96,South Glamorgan,51.548506,-3.32428,0
+GB,M6,South Gloucestershire,0,0,27
+GB,W5,South Lanarkshire,0,0,7
+GB,M7,South Tyneside,0,0,2
+GB,37,South Yorkshire,0,0,4
+GB,M4,Southampton,0,0,5
+GB,M5,Southend-on-Sea,0,0,3
+GB,M8,Southwark,0,0,1
+GB,N1,St. Helens,0,0,10
+GB,M9,Staffordshire,0,0,84
+GB,W6,Stirling,0,0,21
+GB,N2,Stockport,0,0,8
+GB,N3,Stockton-on-Tees,0,0,1
+GB,N4,Stoke-on-Trent,0,0,12
+GB,T4,Strabane,0,0,5
+GB,87,Strathclyde,0,0,6
+GB,N5,Suffolk,0,0,74
+GB,N6,Sunderland,0,0,3
+GB,N7,Surrey,0,0,186
+GB,N8,Sutton,0,0,1
+GB,Z1,Swansea,0,0,14
+GB,N9,Swindon,0,0,6
+GB,O1,Tameside,0,0,7
+GB,88,Tayside,55.87392,-3.989278,0
+GB,O2,Telford and Wrekin,0,0,3
+GB,O3,Thurrock,0,0,4
+GB,O4,Torbay,0,0,1
+GB,Z2,Torfaen,0,0,5
+GB,O5,Tower Hamlets,0,0,1
+GB,O6,Trafford,0,0,1
+GB,41,Tyne and Wear,55.053928,-2.017697,0
+GB,Z3,"Vale of Glamorgan, The",0,0,12
+GB,O7,Wakefield,0,0,1
+GB,O8,Walsall,0,0,6
+GB,O9,Waltham Forest,0,0,1
+GB,P1,Wandsworth,0,0,1
+GB,P2,Warrington,0,0,6
+GB,P3,Warwickshire,0,0,63
+GB,P4,West Berkshire,0,0,5
+GB,W7,West Dunbartonshire,0,0,6
+GB,97,West Glamorgan,51.801831,-3.810818,0
+GB,W9,West Lothian,0,0,14
+GB,43,West Midlands,0,0,8
+GB,P6,West Sussex,0,0,31
+GB,45,West Yorkshire,0,0,4
+GB,P5,Westminster,0,0,1
+GB,P7,Wigan,0,0,7
+GB,P8,Wiltshire,0,0,77
+GB,P9,Windsor and Maidenhead,0,0,4
+GB,Q1,Wirral,0,0,2
+GB,Q2,Wokingham,0,0,10
+GB,Q3,Wolverhampton,0,0,3
+GB,Q4,Worcestershire,0,0,45
+GB,Z4,Wrexham,0,0,7
+GB,Q5,York,0,0,326
+GD,1,Saint Andrew,0,0,1
+GD,2,Saint David,12.04876,-61.664089,0
+GD,3,Saint George,0,0,5
+GD,4,Saint John,0,0,1
+GD,5,Saint Mark,12.19327,-61.696461,0
+GD,6,Saint Patrick,0,0,0
+GE,1,Abashis Raion,0,0,0
+GE,2,Abkhazia,0,0,0
+GE,3,Adigenis Raioni,0,0,0
+GE,4,Ajaria,0,0,0
+GE,5,Akhalgoris Raioni,0,0,0
+GE,6,Akhalk'alak'is Raioni,0,0,0
+GE,7,Akhalts'ikhis Raioni,0,0,0
+GE,8,Akhmetis Raioni,0,0,0
+GE,9,Ambrolauris Raioni,0,0,0
+GE,10,Aspindzis Raioni,0,0,0
+GE,11,Baghdat'is Raioni,0,0,0
+GE,12,Bolnisis Raioni,0,0,0
+GE,13,Borjomis Raioni,0,0,0
+GE,15,Ch'khorotsqus Raioni,0,0,0
+GE,16,Ch'okhatauris Raioni,0,0,0
+GE,14,Chiat'ura,0,0,0
+GE,17,Dedop'listsqaros Raioni,0,0,0
+GE,18,Dmanisis Raioni,0,0,0
+GE,19,Dushet'is Raioni,0,0,3
+GE,20,Gardabanis Raioni,0,0,0
+GE,21,Gori,41.981361,44.109539,0
+GE,22,Goris Raioni,0,0,3
+GE,23,Gurjaanis Raioni,0,0,0
+GE,24,Javis Raioni,0,0,0
+GE,25,K'arelis Raioni,0,0,1
+GE,31,K'ut'aisi,0,0,1
+GE,26,Kaspis Raioni,0,0,1
+GE,27,Kharagaulis Raioni,0,0,0
+GE,28,Khashuris Raioni,0,0,1
+GE,29,Khobis Raioni,0,0,0
+GE,30,Khonis Raioni,0,0,0
+GE,32,Lagodekhis Raioni,0,0,0
+GE,33,Lanch'khut'is Raioni,0,0,0
+GE,34,Lentekhis Raioni,0,0,0
+GE,35,Marneulis Raioni,0,0,0
+GE,36,Martvilis Raioni,0,0,0
+GE,37,Mestiis Raioni,0,0,0
+GE,38,Mts'khet'is Raioni,0,0,1
+GE,39,Ninotsmindis Raioni,0,0,0
+GE,40,Onis Raioni,0,0,0
+GE,41,Ozurget'is Raioni,0,0,0
+GE,42,P'ot'i,0,0,0
+GE,43,Qazbegis Raioni,0,0,0
+GE,44,Qvarlis Raioni,0,0,0
+GE,45,Rust'avi,0,0,0
+GE,46,Sach'kheris Raioni,0,0,0
+GE,47,Sagarejos Raioni,0,0,1
+GE,48,Samtrediis Raioni,0,0,0
+GE,49,Senakis Raioni,0,0,0
+GE,50,Sighnaghis Raioni,0,0,0
+GE,51,T'bilisi,41.709981,44.792998,0
+GE,52,T'elavis Raioni,0,0,0
+GE,53,T'erjolis Raioni,0,0,0
+GE,54,T'et'ritsqaros Raioni,0,0,0
+GE,55,T'ianet'is Raioni,0,0,0
+GE,56,Tqibuli,0,0,0
+GE,57,Ts'ageris Raioni,0,0,0
+GE,58,Tsalenjikhis Raioni,0,0,0
+GE,59,Tsalkis Raioni,0,0,0
+GE,60,Tsqaltubo,0,0,0
+GE,61,Vanis Raioni,0,0,0
+GE,62,Zestap'onis Raioni,0,0,1
+GE,63,Zugdidi,42.502129,41.86095,0
+GE,64,Zugdidis Raioni,0,0,0
+GH,2,Ashanti,0,0,3
+GH,3,Brong-Ahafo,0,0,1
+GH,4,Central,0,0,2
+GH,5,Eastern,6.443033,-0.458333,0
+GH,1,Greater Accra,0,0,1
+GH,6,Northern,0,0,1
+GH,10,Upper East,10.733333,-0.753362,0
+GH,11,Upper West,0,0,1
+GH,8,Volta,0,0,12
+GH,9,Western,0,0,4
+GL,1,Nordgronland,0,0,4
+GL,2,Ostgronland,0,0,3
+GL,3,Vestgronland,0,0,19
+GM,1,Banjul,0,0,1
+GM,2,Lower River,13.4,-15.691666,0
+GM,3,MacCarthy Island,0,0,0
+GM,7,North Bank,13.463586,-15.933333,0
+GM,4,Upper River,13.384087,-14.166666,0
+GM,5,Western,0,0,2
+GN,1,Beyla,8.708333,-8.325438,0
+GN,2,Boffa,10.297138,-14.117445,0
+GN,3,Boke,11.057385,-14.408333,0
+GN,4,Conakry,0,0,1
+GN,30,Coyah,9.991666,-13.509133,0
+GN,5,Dabola,10.620505,-10.9208,0
+GN,6,Dalaba,11.82565,-12.549234,0
+GN,7,Dinguiraye,11.627974,-10.691666,0
+GN,31,Dubreka,9.77487,-13.48532,0
+GN,9,Faranah,9.85,-10.79884,0
+GN,10,Forecariah,9.393325,-13.041667,0
+GN,11,Fria,11.911633,-12.663922,0
+GN,12,Gaoual,11.741666,-13.358333,0
+GN,13,Gueckedou,8.691579,-10.200025,0
+GN,32,Kankan,10.6375,-9.78145,0
+GN,15,Kerouane,11.426489,-9.596666,0
+GN,16,Kindia,10.35795,-13.60195,0
+GN,17,Kissidougou,9.266667,-9.858333,0
+GN,33,Koubia,12.175571,-12.286126,0
+GN,18,Koundara,12.358333,-13.159111,0
+GN,19,Kouroussa,10.533333,-10.068091,0
+GN,34,Labe,11.497561,-12.825444,0
+GN,35,Lelouma,11.458334,-12.741666,0
+GN,36,Lola,7.908334,-8.325,0
+GN,21,Macenta,8.378457,-9.383333,0
+GN,22,Mali,12.071596,-12.100296,0
+GN,23,Mamou,10.149622,-11.955389,0
+GN,37,Mandiana,10.686393,-8.658333,0
+GN,38,Nzerekore,8.4547,-9.18,0
+GN,25,Pita,11.398633,-10.8042,0
+GN,39,Siguiri,11.662141,-9.314431,0
+GN,27,Telimele,10.8538,-13.482125,0
+GN,28,Tougue,11.508334,-11.6,0
+GN,29,Yomou,10.6723,-12.273633,0
+GQ,3,Annobon,0,0,0
+GQ,4,Bioko Norte,0,0,1
+GQ,5,Bioko Sur,3.441717,8.696038,0
+GQ,6,Centro Sur,1.591667,10.475,0
+GQ,7,Kie-Ntem,1.958334,10.875,0
+GQ,8,Litoral,0,0,1
+GQ,9,Wele-Nzas,1.478656,10.95,0
+GR,31,Aitolia kai Akarnania,0,0,0
+GR,38,Akhaia,0,0,1
+GR,36,Argolis,0,0,0
+GR,41,Arkadhia,0,0,0
+GR,20,Arta,39.257078,21.131045,0
+GR,35,Attiki,0,0,13
+GR,47,Dhodhekanisos,0,0,2
+GR,4,Drama,41.271417,24.158333,0
+GR,30,Evritania,0,0,0
+GR,1,Evros,41.030616,26.05834,0
+GR,34,Evvoia,38.512075,23.713319,0
+GR,8,Florina,40.740591,21.424662,0
+GR,32,Fokis,0,0,0
+GR,29,Fthiotis,38.956575,22.956264,0
+GR,10,Grevena,40.05029,21.412603,0
+GR,39,Ilia,0,0,0
+GR,12,Imathia,0,0,1
+GR,17,Ioannina,39.655955,20.834226,0
+GR,45,Iraklion,0,0,1
+GR,23,Kardhitsa,0,0,1
+GR,9,Kastoria,40.466667,21.139247,0
+GR,14,Kavala,40.895889,24.360599,0
+GR,27,Kefallinia,38.277131,20.580682,0
+GR,25,Kerkira,0,0,1
+GR,15,Khalkidhiki,40.508111,23.664907,0
+GR,43,Khania,0,0,0
+GR,50,Khios,38.373409,26.139219,0
+GR,49,Kikladhes,0,0,2
+GR,6,Kilkis,41.033333,22.763585,0
+GR,37,Korinthia,0,0,1
+GR,11,Kozani,0,0,2
+GR,42,Lakonia,36.902534,22.688189,0
+GR,21,Larisa,39.645269,22.350711,0
+GR,46,Lasithi,35.185535,25.88944,0
+GR,51,Lesvos,39.510497,25.810257,0
+GR,26,Levkas,38.910519,21.998131,0
+GR,24,Magnisia,39.298579,23.134485,0
+GR,40,Messinia,0,0,2
+GR,7,Pella,40.89761,22.189165,0
+GR,16,Pieria,0,0,1
+GR,19,Preveza,39.153955,20.69682,0
+GR,44,Rethimni,0,0,0
+GR,2,Rodhopi,0,0,0
+GR,48,Samos,37.661529,26.502899,0
+GR,5,Serrai,41.093391,23.56204,0
+GR,18,Thesprotia,0,0,1
+GR,13,Thessaloniki,0,0,2
+GR,22,Trikala,39.63895,21.708649,0
+GR,33,Voiotia,38.375765,23.079725,0
+GR,3,Xanthi,41.1484,24.850591,0
+GR,28,Zakinthos,37.782879,20.897779,0
+GT,1,Alta Verapaz,15.596932,-90.114359,0
+GT,2,Baja Verapaz,0,0,3
+GT,3,Chimaltenango,0,0,4
+GT,4,Chiquimula,0,0,2
+GT,5,El Progreso,0,0,2
+GT,6,Escuintla,14.191499,-91.059039,0
+GT,7,Guatemala,0,0,9
+GT,8,Huehuetenango,0,0,2
+GT,9,Izabal,0,0,1
+GT,10,Jalapa,0,0,3
+GT,11,Jutiapa,14.149869,-89.89818,0
+GT,12,Peten,0,0,2
+GT,13,Quetzaltenango,0,0,1
+GT,14,Quiche,0,0,1
+GT,15,Retalhuleu,14.453467,-91.841876,0
+GT,16,Sacatepequez,0,0,1
+GT,17,San Marcos,0,0,1
+GT,18,Santa Rosa,0,0,3
+GT,19,Solola,14.709968,-91.289426,0
+GT,20,Suchitepequez,14.376171,-91.440007,0
+GT,21,Totonicapan,15.038409,-91.365361,0
+GT,22,Zacapa,0,0,3
+GW,1,Bafata,12.166445,-14.684685,0
+GW,12,Biombo,11.88055,-15.79065,0
+GW,11,Bissau,0,0,1
+GW,5,Bolama,11.588865,-15.468925,0
+GW,6,Cacheu,12.26849,-16.165205,0
+GW,10,Gabu,12.12055,-14.0982,0
+GW,4,Oio,12.28655,-15.2986,0
+GW,2,Quinara,11.5737,-15.3887,0
+GW,7,Tombali,11.300838,-15.409939,0
+GY,10,Barima-Waini,7.769285,-59.748726,0
+GY,11,Cuyuni-Mazaruni,6.196833,-59.979461,0
+GY,12,Demerara-Mahaica,0,0,2
+GY,13,East Berbice-Corentyne,3.888603,-57.499504,0
+GY,14,Essequibo Islands-West Demerara,6.614159,-58.500341,0
+GY,15,Mahaica-Berbice,6.278418,-57.828646,0
+GY,16,Pomeroon-Supenaam,0,0,0
+GY,17,Potaro-Siparuni,4.861596,-59.218071,0
+GY,18,Upper Demerara-Berbice,0,0,1
+GY,19,Upper Takutu-Upper Essequibo,0,0,0
+HN,1,Atlantida,0,0,7
+HN,2,Choluteca,0,0,2
+HN,3,Colon,15.548755,-85.728193,0
+HN,4,Comayagua,14.551193,-87.648525,0
+HN,5,Copan,0,0,1
+HN,6,Cortes,0,0,7
+HN,7,El Paraiso,13.961111,-86.397265,0
+HN,8,Francisco Morazan,0,0,5
+HN,9,Gracias a Dios,15.297685,-84.074761,0
+HN,10,Intibuca,14.254961,-88.179536,0
+HN,11,Islas de la Bahia,0,0,1
+HN,12,La Paz,14.127596,-87.913945,0
+HN,13,Lempira,14.454659,-88.648798,0
+HN,14,Ocotepeque,14.475017,-89.035606,0
+HN,15,Olancho,14.820052,-85.995711,0
+HN,16,Santa Barbara,0,0,3
+HN,17,Valle,13.549931,-87.580012,0
+HN,18,Yoro,0,0,2
+HR,1,Bjelovarsko-Bilogorska,0,0,3
+HR,2,Brodsko-Posavska,0,0,3
+HR,3,Dubrovacko-Neretvanska,0,0,15
+HR,21,Grad Zagreb,0,0,22
+HR,4,Istarska,0,0,36
+HR,5,Karlovacka,0,0,6
+HR,6,Koprivnicko-Krizevacka,0,0,3
+HR,7,Krapinsko-Zagorska,0,0,13
+HR,8,Licko-Senjska,0,0,4
+HR,9,Medimurska,0,0,1
+HR,10,Osjecko-Baranjska,0,0,5
+HR,11,Pozesko-Slavonska,0,0,4
+HR,12,Primorsko-Goranska,0,0,27
+HR,13,Sibensko-Kninska,0,0,3
+HR,14,Sisacko-Moslavacka,0,0,9
+HR,15,Splitsko-Dalmatinska,0,0,15
+HR,16,Varazdinska,0,0,5
+HR,17,Viroviticko-Podravska,0,0,4
+HR,18,Vukovarsko-Srijemska,0,0,5
+HR,19,Zadarska,0,0,0
+HR,20,Zagrebacka,0,0,18
+HT,6,Artibonite,19.338183,-72.631967,0
+HT,7,Centre,19.008885,-72.025,0
+HT,8,Grand' Anse,18.512105,-73.769989,0
+HT,9,Nord,19.5753,-72.333333,0
+HT,10,Nord-Est,19.508756,-71.895558,0
+HT,3,Nord-Ouest,19.852331,-73.046462,0
+HT,11,Ouest,0,0,5
+HT,12,Sud,18.227232,-73.696853,0
+HT,13,Sud-Est,18.258334,-72.436863,0
+HU,1,Bacs-Kiskun,0,0,25
+HU,2,Baranya,0,0,15
+HU,3,Bekes,0,0,19
+HU,26,Bekescsaba,46.684216,21.086753,0
+HU,4,Borsod-Abauj-Zemplen,0,0,38
+HU,5,Budapest,0,0,4
+HU,6,Csongrad,0,0,10
+HU,7,Debrecen,0,0,1
+HU,27,Dunaujvaros,46.980668,18.912706,0
+HU,28,Eger,47.903198,20.373107,0
+HU,8,Fejer,0,0,26
+HU,25,Gyor,0,0,1
+HU,9,Gyor-Moson-Sopron,0,0,23
+HU,10,Hajdu-Bihar,0,0,14
+HU,11,Heves,0,0,23
+HU,29,Hodmezovasarhely,46.430411,20.318829,0
+HU,20,Jasz-Nagykun-Szolnok,0,0,14
+HU,30,Kaposvar,46.36653,17.782483,0
+HU,31,Kecskemet,46.9062,19.689988,0
+HU,12,Komarom-Esztergom,0,0,15
+HU,13,Miskolc,0,0,1
+HU,32,Nagykanizsa,46.455237,16.995341,0
+HU,14,Nograd,0,0,10
+HU,33,Nyiregyhaza,47.953161,21.726792,0
+HU,15,Pecs,0,0,1
+HU,16,Pest,0,0,53
+HU,17,Somogy,0,0,23
+HU,34,Sopron,47.684898,16.583053,0
+HU,18,Szabolcs-Szatmar-Bereg,0,0,39
+HU,19,Szeged,0,0,1
+HU,35,Szekesfehervar,47.188715,18.413808,0
+HU,36,Szolnok,47.174662,20.17628,0
+HU,37,Szombathely,47.23514,16.621917,0
+HU,38,Tatabanya,47.586186,18.394766,0
+HU,21,Tolna,0,0,16
+HU,22,Vas,0,0,20
+HU,23,Veszprem,0,0,26
+HU,24,Zala,0,0,21
+HU,40,Zalaegerszeg,46.845389,16.847235,0
+ID,1,Aceh,0,0,15
+ID,2,Bali,0,0,11
+ID,33,Banten,-6.412115,105.961223,0
+ID,3,Bengkulu,0,0,1
+ID,34,Gorontalo,0.699133,122.161024,0
+ID,4,Jakarta Raya,0,0,1
+ID,5,Jambi,0,0,4
+ID,30,Jawa Barat,0,0,51
+ID,7,Jawa Tengah,0,0,60
+ID,8,Jawa Timur,0,0,43
+ID,11,Kalimantan Barat,0,0,11
+ID,12,Kalimantan Selatan,0,0,6
+ID,13,Kalimantan Tengah,0,0,4
+ID,14,Kalimantan Timur,0,0,8
+ID,35,Kepulauan Bangka Belitung,-2.402084,106.923316,0
+ID,15,Lampung,0,0,4
+ID,28,Maluku,-3.636802,130.307541,0
+ID,29,Maluku Utara,0.079817,126.894764,0
+ID,17,Nusa Tenggara Barat,0,0,6
+ID,18,Nusa Tenggara Timur,0,0,14
+ID,9,Papua,0,0,15
+ID,19,Riau,0,0,11
+ID,20,Sulawesi Selatan,0,0,26
+ID,21,Sulawesi Tengah,0,0,16
+ID,22,Sulawesi Tenggara,0,0,13
+ID,31,Sulawesi Utara,0,0,10
+ID,24,Sumatera Barat,0,0,7
+ID,32,Sumatera Selatan,-3.22161,106.214485,0
+ID,26,Sumatera Utara,0,0,11
+ID,10,Yogyakarta,0,0,6
+IE,1,Carlow,0,0,6
+IE,2,Cavan,0,0,7
+IE,3,Clare,0,0,27
+IE,4,Cork,0,0,31
+IE,6,Donegal,0,0,15
+IE,7,Dublin,0,0,65
+IE,10,Galway,0,0,21
+IE,11,Kerry,0,0,18
+IE,12,Kildare,0,0,20
+IE,13,Kilkenny,0,0,7
+IE,15,Laois,0,0,8
+IE,14,Leitrim,0,0,1
+IE,16,Limerick,0,0,12
+IE,18,Longford,0,0,4
+IE,19,Louth,0,0,10
+IE,20,Mayo,0,0,16
+IE,21,Meath,0,0,21
+IE,22,Monaghan,0,0,6
+IE,23,Offaly,0,0,9
+IE,24,Roscommon,0,0,12
+IE,25,Sligo,0,0,7
+IE,26,Tipperary,0,0,15
+IE,27,Waterford,0,0,10
+IE,29,Westmeath,0,0,4
+IE,30,Wexford,0,0,11
+IE,31,Wicklow,0,0,11
+IL,1,HaDarom,0,0,54
+IL,2,HaMerkaz,0,0,71
+IL,3,HaZafon,0,0,96
+IL,4,Hefa,0,0,36
+IL,5,Tel Aviv,0,0,20
+IL,6,Yerushalayim,0,0,12
+IN,1,Andaman and Nicobar Islands,0,0,2
+IN,2,Andhra Pradesh,0,0,66
+IN,30,Arunachal Pradesh,0,0,2
+IN,3,Assam,0,0,15
+IN,34,Bihar,0,0,12
+IN,5,Chandigarh,0,0,1
+IN,37,Chhattisgarh,0,0,9
+IN,6,Dadra and Nagar Haveli,0,0,1
+IN,32,Daman and Diu,0,0,1
+IN,7,Delhi,0,0,8
+IN,33,Goa,0,0,25
+IN,9,Gujarat,0,0,67
+IN,10,Haryana,0,0,35
+IN,11,Himachal Pradesh,0,0,22
+IN,12,Jammu and Kashmir,0,0,26
+IN,38,Jharkhand,0,0,12
+IN,19,Karnataka,0,0,53
+IN,13,Kerala,0,0,47
+IN,14,Lakshadweep,10.332617,72.74059,0
+IN,35,Madhya Pradesh,0,0,43
+IN,16,Maharashtra,0,0,107
+IN,17,Manipur,0,0,2
+IN,18,Meghalaya,0,0,3
+IN,31,Mizoram,0,0,1
+IN,20,Nagaland,0,0,1
+IN,21,Orissa,0,0,21
+IN,22,Pondicherry,0,0,1
+IN,23,Punjab,0,0,38
+IN,24,Rajasthan,0,0,48
+IN,29,Sikkim,0,0,2
+IN,25,Tamil Nadu,0,0,110
+IN,26,Tripura,0,0,1
+IN,36,Uttar Pradesh,0,0,50
+IN,39,Uttaranchal,0,0,28
+IN,28,West Bengal,0,0,55
+IQ,1,Al Anbar,0,0,3
+IQ,2,Al Basrah,0,0,1
+IQ,3,Al Muthanna,0,0,1
+IQ,4,Al Qadisiyah,31.837274,45.101553,0
+IQ,17,An Najaf,0,0,2
+IQ,11,Arbil,0,0,5
+IQ,5,As Sulaymaniyah,0,0,4
+IQ,13,At Ta'mim,0,0,1
+IQ,6,Babil,32.656051,44.531958,0
+IQ,7,Baghdad,0,0,3
+IQ,8,Dahuk,0,0,2
+IQ,9,Dhi Qar,0,0,1
+IQ,10,Diyala,0,0,1
+IQ,12,Karbala',0,0,1
+IQ,14,Maysan,31.99154,47.083365,0
+IQ,15,Ninawa,0,0,2
+IQ,18,Salah ad Din,34.544936,43.702881,0
+IQ,16,Wasit,32.694176,45.558189,0
+IR,32,Ardabil,0,0,8
+IR,1,Azarbayjan-e Bakhtari,0,0,20
+IR,2,Azarbayjan-e Khavari,0,0,14
+IR,13,Bakhtaran,0,0,11
+IR,22,Bushehr,0,0,13
+IR,3,Chahar Mahall va Bakhtiari,0,0,8
+IR,28,Esfahan,0,0,31
+IR,7,Fars,0,0,49
+IR,8,Gilan,0,0,12
+IR,37,Golestan,0,0,3
+IR,9,Hamadan,0,0,9
+IR,11,Hormozgan,0,0,17
+IR,10,Ilam,0,0,9
+IR,29,Kerman,0,0,19
+IR,30,Khorasan,0,0,62
+IR,15,Khuzestan,0,0,30
+IR,5,Kohkiluyeh va Buyer Ahmadi,0,0,6
+IR,16,Kordestan,0,0,10
+IR,23,Lorestan,0,0,14
+IR,34,Markazi,0,0,1
+IR,35,Mazandaran,0,0,4
+IR,38,Qazvin,0,0,0
+IR,39,Qom,0,0,0
+IR,25,Semnan,0,0,8
+IR,4,Sistan va Baluchestan,0,0,14
+IR,26,Tehran,0,0,15
+IR,31,Yazd,0,0,11
+IR,36,Zanjan,0,0,0
+IS,1,Akranes,64.322357,-22.07443,0
+IS,2,Akureyri,65.683868,-18.11046,0
+IS,3,Arnessysla,0,0,5
+IS,4,Austur-Bardastrandarsysla,0,0,0
+IS,5,Austur-Hunavatnssysla,0,0,0
+IS,6,Austur-Skaftafellssysla,0,0,1
+IS,7,Borgarfjardarsysla,0,0,2
+IS,8,Dalasysla,0,0,0
+IS,9,Eyjafjardarsysla,0,0,1
+IS,10,Gullbringusysla,0,0,2
+IS,11,Hafnarfjordur,0,0,0
+IS,12,Husavik,66.04763,-17.343599,0
+IS,13,Isafjordur,66.070558,-23.12886,0
+IS,14,Keflavik,64.006538,-22.5721,0
+IS,15,Kjosarsysla,0,0,1
+IS,16,Kopavogur,64.11103,-21.905692,0
+IS,17,Myrasysla,0,0,2
+IS,18,Neskaupstadur,0,0,0
+IS,19,Nordur-Isafjardarsysla,0,0,0
+IS,20,Nordur-Mulasysla,0,0,0
+IS,21,Nordur-Tingeyjarsysla,0,0,0
+IS,22,Olafsfjordur,66.06517,-18.657633,0
+IS,23,Rangarvallasysla,0,0,2
+IS,24,Reykjavik,64.135338,-21.89521,0
+IS,25,Saudarkrokur,0,0,0
+IS,26,Seydisfjordur,65.266667,-14,0
+IS,27,Siglufjordur,0,0,0
+IS,28,Skagafjardarsysla,0,0,0
+IS,29,Snafellsnes- og Hnappadalssysla,0,0,2
+IS,30,Strandasysla,0,0,0
+IS,31,Sudur-Mulasysla,0,0,0
+IS,32,Sudur-Tingeyjarsysla,0,0,0
+IS,33,Vestmannaeyjar,63.437679,-20.267321,0
+IS,34,Vestur-Bardastrandarsysla,0,0,0
+IS,35,Vestur-Hunavatnssysla,0,0,0
+IS,36,Vestur-Isafjardarsysla,0,0,1
+IS,37,Vestur-Skaftafellssysla,0,0,0
+IT,1,Abruzzi,0,0,302
+IT,2,Basilicata,0,0,70
+IT,3,Calabria,0,0,354
+IT,4,Campania,0,0,333
+IT,5,Emilia-Romagna,0,0,823
+IT,6,Friuli-Venezia Giulia,0,0,249
+IT,7,Lazio,0,0,394
+IT,8,Liguria,0,0,431
+IT,9,Lombardia,0,0,729
+IT,10,Marche,0,0,150
+IT,11,Molise,0,0,58
+IT,12,Piemonte,0,0,434
+IT,13,Puglia,0,0,247
+IT,14,Sardegna,0,0,218
+IT,15,Sicilia,0,0,430
+IT,16,Toscana,0,0,400
+IT,17,Trentino-Alto Adige,0,0,245
+IT,18,Umbria,0,0,203
+IT,19,Valle d'Aosta,0,0,34
+IT,20,Veneto,0,0,753
+JM,1,Clarendon,0,0,2
+JM,2,Hanover,0,0,1
+JM,17,Kingston,17.992731,-76.792009,0
+JM,4,Manchester,0,0,1
+JM,7,Portland,18.124961,-76.508211,0
+JM,8,Saint Andrew,0,0,1
+JM,9,Saint Ann,0,0,3
+JM,10,Saint Catherine,0,0,5
+JM,11,Saint Elizabeth,0,0,1
+JM,12,Saint James,0,0,3
+JM,13,Saint Mary,0,0,1
+JM,14,Saint Thomas,17.967124,-76.422687,0
+JM,15,Trelawny,0,0,1
+JM,16,Westmoreland,0,0,1
+JO,2,Al Balqa',0,0,2
+JO,9,Al Karak,0,0,2
+JO,10,Al Mafraq,0,0,3
+JO,16,Amman,31.949685,35.92635,0
+JO,12,At Tafilah,0,0,0
+JO,13,Az Zarqa,32.041149,36.08147,0
+JO,14,Irbid,0,0,4
+JO,7,Ma,0,0,2
+JP,1,Aichi,0,0,73
+JP,2,Akita,0,0,24
+JP,3,Aomori,0,0,45
+JP,4,Chiba,0,0,65
+JP,5,Ehime,0,0,39
+JP,6,Fukui,0,0,21
+JP,7,Fukuoka,0,0,68
+JP,8,Fukushima,0,0,63
+JP,9,Gifu,0,0,35
+JP,10,Gumma,0,0,29
+JP,11,Hiroshima,0,0,91
+JP,12,Hokkaido,0,0,194
+JP,13,Hyogo,0,0,72
+JP,14,Ibaraki,0,0,49
+JP,15,Ishikawa,0,0,39
+JP,16,Iwate,0,0,43
+JP,17,Kagawa,0,0,24
+JP,18,Kagoshima,0,0,102
+JP,19,Kanagawa,0,0,62
+JP,20,Kochi,0,0,18
+JP,21,Kumamoto,0,0,45
+JP,22,Kyoto,0,0,50
+JP,23,Mie,0,0,42
+JP,24,Miyagi,0,0,55
+JP,25,Miyazaki,0,0,49
+JP,26,Nagano,0,0,68
+JP,27,Nagasaki,0,0,102
+JP,28,Nara,0,0,27
+JP,29,Niigata,0,0,76
+JP,30,Oita,0,0,32
+JP,31,Okayama,0,0,45
+JP,47,Okinawa,0,0,99
+JP,32,Osaka,0,0,47
+JP,33,Saga,0,0,33
+JP,34,Saitama,0,0,77
+JP,35,Shiga,0,0,41
+JP,36,Shimane,0,0,47
+JP,37,Shizuoka,0,0,52
+JP,38,Tochigi,0,0,43
+JP,39,Tokushima,0,0,42
+JP,40,Tokyo,0,0,97
+JP,41,Tottori,0,0,16
+JP,42,Toyama,0,0,47
+JP,43,Wakayama,0,0,51
+JP,44,Yamagata,0,0,49
+JP,45,Yamaguchi,0,0,54
+JP,46,Yamanashi,0,0,20
+KE,1,Central,0,0,9
+KE,2,Coast,0,0,3
+KE,3,Eastern,0,0,2
+KE,5,Nairobi Area,0,0,2
+KE,6,North-Eastern,1.123543,40.293748,0
+KE,7,Nyanza,0,0,4
+KE,8,Rift Valley,0,0,6
+KE,9,Western,0,0,2
+KG,9,Batken,0,0,1
+KG,1,Bishkek,0,0,8
+KG,2,Chuy,0,0,7
+KG,3,Jalal-Abad,0,0,2
+KG,4,Naryn,0,0,2
+KG,8,Osh,39.977753,73.09539,0
+KG,6,Talas,0,0,1
+KG,7,Ysyk-Kol,0,0,6
+KH,29,Batdambang,13.1122,103.2126,0
+KH,2,Kampong Cham,12.061499,105.642132,0
+KH,3,Kampong Chhnang,12.174812,104.544854,0
+KH,4,Kampong Spoe,11.4582,104.5088,0
+KH,5,Kampong Thum,12.7206,104.8882,0
+KH,6,Kampot,10.785451,104.32603,0
+KH,7,Kandal,11.39354,104.978661,0
+KH,8,Kaoh Kong,11.42569,103.018997,0
+KH,9,Kracheh,12.4924,106.0252,0
+KH,10,Mondol Kiri,12.741562,106.979027,0
+KH,30,Pailin,12.85,102.583333,0
+KH,11,Phnum Penh,0,0,1
+KH,12,Pouthisat,12.5279,103.925,0
+KH,13,Preah Vihear,13.766696,105.120397,0
+KH,14,Prey Veng,11.357923,105.470314,0
+KH,15,Rotanokiri,0,0,0
+KH,16,Siemreab-Otdar Meanchey,0,0,0
+KH,17,Stoeng Treng,13.5181,105.9695,0
+KH,18,Svay Rieng,11.188251,105.895714,0
+KH,19,Takev,0,0,0
+KI,1,Gilbert Islands,0.359344,173.186325,0
+KI,2,Line Islands,-3.356279,-155.317575,0
+KI,3,Phoenix Islands,-3.730257,-172.62754,0
+KM,1,Anjouan,-12.223382,44.37088,0
+KM,2,Grande Comore,0,0,1
+KM,3,Moheli,-12.315185,43.741028,0
+KN,1,Christ Church Nichola Town,0,0,0
+KN,2,Saint Anne Sandy Point,0,0,1
+KN,3,Saint George Basseterre,0,0,1
+KN,4,Saint George Gingerland,0,0,0
+KN,5,Saint James Windward,0,0,0
+KN,6,Saint John Capisterre,0,0,0
+KN,7,Saint John Figtree,0,0,1
+KN,8,Saint Mary Cayon,0,0,1
+KN,9,Saint Paul Capisterre,0,0,0
+KN,10,Saint Paul Charlestown,0,0,0
+KN,11,Saint Peter Basseterre,0,0,0
+KN,12,Saint Thomas Lowland,0,0,0
+KN,13,Saint Thomas Middle Island,0,0,1
+KN,15,Trinity Palmetto Point,0,0,0
+KP,1,Chagang-do,0,0,0
+KP,17,Hamgyong-bukto,0,0,0
+KP,3,Hamgyong-namdo,0,0,0
+KP,7,Hwanghae-bukto,0,0,0
+KP,6,Hwanghae-namdo,0,0,0
+KP,8,Kaesong-si,0,0,0
+KP,9,Kangwon-do,0,0,0
+KP,18,Najin Sonbong-si,0,0,0
+KP,14,Namp'o-si,0,0,0
+KP,11,P'yongan-bukto,0,0,0
+KP,15,P'yongan-namdo,0,0,0
+KP,12,P'yongyang-si,0,0,0
+KP,13,Yanggang-do,0,0,0
+KR,5,Ch'ungch'ong-bukto,0,0,49
+KR,17,Ch'ungch'ong-namdo,0,0,44
+KR,1,Cheju-do,0,0,9
+KR,3,Cholla-bukto,0,0,65
+KR,16,Cholla-namdo,0,0,151
+KR,12,Inch'on-jikhalsi,0,0,10
+KR,6,Kangwon-do,0,0,34
+KR,18,Kwangju-jikhalsi,0,0,23
+KR,13,Kyonggi-do,0,0,80
+KR,14,Kyongsang-bukto,0,0,78
+KR,20,Kyongsang-namdo,0,0,80
+KR,10,Pusan-jikhalsi,0,0,17
+KR,11,Seoul-t'ukpyolsi,0,0,33
+KR,15,Taegu-jikhalsi,0,0,10
+KR,19,Taejon-jikhalsi,0,0,3
+KR,21,Ulsan-gwangyoksi,0,0,26
+KW,1,Al Ahmadi,28.887016,48.005989,0
+KW,5,Al Jahra,29.332001,47.695549,0
+KW,2,Al Kuwayt,0,0,28
+KW,3,Hawalli,29.329404,48.00393,0
+KY,1,Creek,19.75,-79.766667,0
+KY,2,Eastern,0,0,0
+KY,3,Midland,0,0,0
+KY,4,South Town,0,0,0
+KY,5,Spot Bay,0,0,0
+KY,6,Stake Bay,0,0,0
+KY,7,West End,0,0,0
+KY,8,Western,0,0,0
+KZ,4,Abai,0,0,7
+KZ,1,Almaty,0,0,40
+KZ,2,Almaty City,0,0,2
+KZ,3,Aqmola,0,0,19
+KZ,5,Astana,0,0,2
+KZ,6,Atyrau,0,0,6
+KZ,8,Bayqonyr,45.865312,63.325149,0
+KZ,15,East Kazakhstan,0,0,18
+KZ,9,Mangghystau,0,0,9
+KZ,16,North Kazakhstan,0,0,14
+KZ,11,Pavlodar,0,0,18
+KZ,12,Qaraghandy,0,0,14
+KZ,13,Qostanay,0,0,18
+KZ,14,Qyzylorda,0,0,8
+KZ,10,South Kazakhstan,0,0,12
+KZ,7,West Kazakhstan,0,0,30
+KZ,17,Zhambyl,0,0,7
+LA,1,Attapu,0,0,0
+LA,2,Champasak,0,0,0
+LA,3,Houaphan,0,0,0
+LA,4,Khammouan,0,0,0
+LA,5,Louang Namtha,0,0,0
+LA,17,Louangphrabang,0,0,1
+LA,7,Oudomxai,0,0,0
+LA,8,Phongsali,0,0,0
+LA,9,Saravan,0,0,0
+LA,10,Savannakhet,0,0,0
+LA,11,Vientiane,0,0,1
+LA,13,Xaignabouri,0,0,0
+LA,14,Xiangkhoang,0,0,0
+LB,1,Beqaa,0,0,3
+LB,4,Beyrouth,0,0,6
+LB,3,Liban-Nord,0,0,2
+LB,6,Liban-Sud,0,0,1
+LB,5,Mont-Liban,0,0,8
+LB,7,Nabatiye,0,0,0
+LC,1,Anse-la-Raye,0,0,1
+LC,3,Castries,0,0,1
+LC,4,Choiseul,0,0,0
+LC,2,Dauphin,-27.48884,153.015094,0
+LC,5,Dennery,13.91555,-60.89183,0
+LC,6,Gros-Islet,14.07784,-60.945,0
+LC,7,Laborie,0,0,0
+LC,8,Micoud,13.816667,-60.916667,0
+LC,11,Praslin,0,0,0
+LC,9,Soufriere,13.85323,-61.052071,0
+LC,10,Vieux-Fort,13.73037,-60.94738,0
+LI,1,Balzers,0,0,1
+LI,2,Eschen,0,0,1
+LI,3,Gamprin,47.220298,9.509629,0
+LI,4,Mauren,0,0,1
+LI,5,Planken,0,0,1
+LI,6,Ruggell,0,0,1
+LI,7,Schaan,0,0,2
+LI,8,Schellenberg,47.230886,9.546729,0
+LI,9,Triesen,0,0,1
+LI,10,Triesenberg,0,0,1
+LI,11,Vaduz,0,0,1
+LK,1,Amparai,7.3333,81.6166,0
+LK,2,Anuradhapura,8.301361,80.426498,0
+LK,3,Badulla,6.9935,81.0473,0
+LK,4,Batticaloa,7.704834,81.677055,0
+LK,23,Colombo,6.921484,79.852779,0
+LK,6,Galle,6.0308,80.2387,0
+LK,24,Gampaha,7.089895,79.999413,0
+LK,7,Hambantota,6.1233,81.1174,0
+LK,25,Jaffna,9.6663,80.0203,0
+LK,9,Kalutara,6.5894,79.9573,0
+LK,10,Kandy,7.3016,80.6476,0
+LK,11,Kegalla,7.2546,80.3411,0
+LK,12,Kurunegala,7.4805,80.3664,0
+LK,26,Mannar,8.9725,79.911,0
+LK,14,Matale,7.4437,80.6114,0
+LK,15,Matara,5.976,80.425,0
+LK,16,Moneragala,0,0,0
+LK,27,Mullaittivu,9.223421,80.790939,0
+LK,17,Nuwara Eliya,6.9658,80.7578,0
+LK,18,Polonnaruwa,7.932857,81.008087,0
+LK,19,Puttalam,8.033396,79.82579,0
+LK,20,Ratnapura,6.6847,80.4036,0
+LK,21,Trincomalee,8.5766,81.2309,0
+LK,28,Vavuniya,8.756166,80.493141,0
+LR,1,Bong,6.616856,-9.199711,0
+LR,11,Grand Bassa,0,0,1
+LR,4,Grand Cape Mount,0,0,0
+LR,2,Grand Jide,0,0,0
+LR,5,Lofa,0,0,0
+LR,6,Maryland,38.903555,-76.896904,0
+LR,7,Monrovia,6.300387,-10.79573,0
+LR,14,Montserrado,0,0,1
+LR,9,Nimba,7.5,-8.583333,0
+LR,10,Sino,5.284467,-8.941356,0
+LS,10,Berea,-29.2,27.808333,0
+LS,11,Butha-Buthe,-28.830807,28.455025,0
+LS,12,Leribe,-28.958333,28.108333,0
+LS,13,Mafeteng,-29.82243,27.23902,0
+LS,14,Maseru,0,0,2
+LS,15,Mohales Hoek,-30.158529,27.480089,0
+LS,16,Mokhotlong,-29.28936,29.06063,0
+LS,17,Qachas Nek,-30.125959,28.702419,0
+LS,18,Quthing,-30.411449,27.716221,0
+LS,19,Thaba-Tseka,-29.625,28.484013,0
+LT,56,Alytaus Apskritis,0,0,9
+LT,57,Kauno Apskritis,0,0,19
+LT,58,Klaipedos Apskritis,0,0,9
+LT,59,Marijampoles Apskritis,0,0,9
+LT,60,Panevezio Apskritis,0,0,33
+LT,61,Siauliu Apskritis,0,0,11
+LT,62,Taurages Apskritis,0,0,9
+LT,63,Telsiu Apskritis,0,0,8
+LT,64,Utenos Apskritis,0,0,5
+LT,65,Vilniaus Apskritis,0,0,15
+LU,1,Diekirch,0,0,43
+LU,2,Grevenmacher,0,0,24
+LU,3,Luxembourg,0,0,129
+LV,5,Kurzeme,0,0,7
+LV,1,Aizkraukles,0,0,7
+LV,2,Aluksnes,0,0,1
+LV,3,Balvu,0,0,3
+LV,4,Bauskas,0,0,6
+LV,6,Daugavpils,0,0,1
+LV,8,Dobeles,0,0,6
+LV,9,Gulbenes,0,0,4
+LV,11,Jelgava,56.648416,23.713941,0
+LV,12,Jelgavas,0,0,2
+LV,13,Jurmala,56.968154,23.770527,0
+LV,15,Kuldigas,0,0,7
+LV,18,Limbazu,0,0,4
+LV,19,Ludzas,0,0,2
+LV,20,Madonas,0,0,5
+LV,21,Ogres,0,0,7
+LV,22,Preilu,0,0,3
+LV,25,Riga,0,0,8
+LV,26,Rigas,0,0,20
+LV,27,Saldus,0,0,5
+LV,28,Talsu,0,0,7
+LV,29,Tukuma,0,0,13
+LV,30,Valkas,0,0,6
+LV,31,Valmieras,0,0,9
+LV,32,Ventspils,0,0,1
+LY,47,Ajdabiya,30.105851,20.836091,0
+LY,3,Al,32.652599,14.27167,0
+LY,48,Al Fatih,32.142551,20.883333,0
+LY,49,Al Jabal al Akhdar,32.54438,21.680775,0
+LY,5,Al Jufrah,28.491796,16.677305,0
+LY,50,Al Khums,32.652599,14.27167,0
+LY,8,Al Kufrah,24.132549,23.268591,0
+LY,51,An Nuqat al Khams,32.775,12.066666,0
+LY,13,Ash Shati',27.540315,13.987545,0
+LY,52,Awbari,26.679131,12.72949,0
+LY,53,Az Zawiyah,31.983333,24.666667,0
+LY,54,Banghazi,0,0,2
+LY,55,Darnah,32.75735,22.6455,0
+LY,56,Ghadamis,30.139495,9.489738,0
+LY,57,Gharyan,30.350834,13.1,0
+LY,58,Misratah,0,0,1
+LY,30,Murzuq,24.844416,15.750545,0
+LY,34,Sabha,0,0,1
+LY,59,Sawfajjin,31.275,14.833639,0
+LY,60,Surt,31.20528,16.588369,0
+LY,61,Tarabulus,0,0,1
+LY,41,Tarhunah,32.291528,13.568472,0
+LY,42,Tubruq,32.087,23.9642,0
+LY,62,Yafran,31.675,12.199305,0
+LY,45,Zlitan,32.378107,14.583333,0
+MA,1,Agadir,0,0,1
+MA,2,Al Hoceima,35.249299,-3.937112,0
+MA,3,Azilal,31.9669,-6.5662,0
+MA,4,Ben Slimane,33.62328,-7.120642,0
+MA,5,Beni Mellal,32.350201,-6.358787,0
+MA,6,Boulemane,0,0,1
+MA,7,Casablanca,0,0,4
+MA,8,Chaouen,0,0,2
+MA,9,El Jadida,33.255909,-8.50783,0
+MA,10,El Kelaa des Srarhna,0,0,1
+MA,11,Er Rachidia,31.94474,-4.4006,0
+MA,12,Essaouira,0,0,3
+MA,13,Fes,0,0,2
+MA,14,Figuig,0,0,1
+MA,33,Guelmim,0,0,1
+MA,34,Ifrane,34.05,-3.766667,0
+MA,15,Kenitra,0,0,2
+MA,16,Khemisset,0,0,2
+MA,17,Khenifra,32.9382,-5.6674,0
+MA,18,Khouribga,32.88475,-6.91615,0
+MA,35,Laayoune,26.858333,-13.125,0
+MA,41,Larache,35.1918,-6.1536,0
+MA,19,Marrakech,0,0,13
+MA,20,Meknes,0,0,4
+MA,21,Nador,0,0,1
+MA,22,Ouarzazate,30.9173,-6.919119,0
+MA,23,Oujda,0,0,8
+MA,24,Rabat-Sale,0,0,4
+MA,25,Safi,0,0,2
+MA,26,Settat,0,0,1
+MA,38,Sidi Kacem,0,0,2
+MA,36,Tan-Tan,28.432649,-11.10033,0
+MA,27,Tanger,0,0,2
+MA,37,Taounate,0,0,1
+MA,39,Taroudannt,0,0,1
+MA,29,Tata,29.7428,-7.9726,0
+MA,30,Taza,34.2234,-4.0069,0
+MA,40,Tetouan,0,0,2
+MA,32,Tiznit,0,0,1
+MC,1,La Condamine,43.734664,7.421143,0
+MC,2,Monaco,43.732529,7.418907,0
+MC,3,Monte-Carlo,43.740439,7.425577,0
+MD,46,Balti,0,0,2
+MD,47,Cahul,0,0,0
+MD,48,Chisinau,0,0,6
+MD,50,Edinet,0,0,2
+MD,51,Gagauzia,0,0,2
+MD,52,Lapusna,0,0,3
+MD,53,Orhei,0,0,1
+MD,54,Soroca,0,0,2
+MD,49,Stinga Nistrului,0,0,3
+MD,55,Tighina,0,0,6
+MD,56,Ungheni,0,0,1
+MG,5,Antananarivo,0,0,13
+MG,1,Antsiranana,-13.96909,49.165152,0
+MG,2,Fianarantsoa,0,0,1
+MG,3,Mahajanga,0,0,1
+MG,4,Toamasina,0,0,2
+MG,6,Toliara,-21.930395,45.291124,0
+MK,1,Aracinovo,0,0,1
+MK,2,Bac,0,0,0
+MK,3,Belcista,0,0,0
+MK,4,Berovo,41.711871,22.864028,0
+MK,5,Bistrica,0,0,0
+MK,6,Bitola,0,0,1
+MK,7,Blatec,41.839661,22.593161,0
+MK,8,Bogdanci,0,0,1
+MK,9,Bogomila,41.59623,21.48348,0
+MK,10,Bogovinje,0,0,1
+MK,11,Bosilovo,0,0,0
+MK,12,Brvenica,0,0,0
+MK,13,Cair,0,0,0
+MK,14,Capari,41.05,21.183333,0
+MK,15,Caska,0,0,0
+MK,16,Cegrane,41.844662,20.99925,0
+MK,17,Centar,0,0,0
+MK,18,Centar Zupa,0,0,0
+MK,19,Cesinovo,0,0,0
+MK,20,Cucer-Sandevo,0,0,0
+MK,21,Debar,41.525927,20.536737,0
+MK,22,Delcevo,0,0,1
+MK,23,Delogozdi,0,0,1
+MK,24,Demir Hisar,0,0,1
+MK,25,Demir Kapija,41.424385,22.267475,0
+MK,26,Dobrusevo,0,0,0
+MK,27,Dolna Banjica,0,0,0
+MK,28,Dolneni,41.428208,21.454711,0
+MK,29,Dorce Petrov,0,0,0
+MK,30,Drugovo,41.487342,20.933831,0
+MK,31,Dzepciste,0,0,0
+MK,32,Gazi Baba,0,0,0
+MK,33,Gevgelija,0,0,1
+MK,34,Gostivar,0,0,1
+MK,35,Gradsko,0,0,1
+MK,36,Ilinden,0,0,1
+MK,37,Izvor,41.563822,21.685935,0
+MK,38,Jegunovce,0,0,1
+MK,39,Kamenjane,0,0,1
+MK,40,Karbinci,0,0,1
+MK,41,Karpos,0,0,1
+MK,42,Kavadarci,0,0,1
+MK,43,Kicevo,0,0,1
+MK,44,Kisela Voda,0,0,0
+MK,45,Klecevce,0,0,0
+MK,46,Kocani,0,0,1
+MK,47,Konce,0,0,0
+MK,48,Kondovo,0,0,0
+MK,49,Konopiste,0,0,0
+MK,50,Kosel,0,0,0
+MK,51,Kratovo,42.077669,22.188454,0
+MK,52,Kriva Palanka,42.198016,22.333701,0
+MK,53,Krivogastani,41.3482,21.34119,0
+MK,54,Krusevo,41.378222,21.249313,0
+MK,55,Kuklis,0,0,0
+MK,56,Kukurecani,0,0,1
+MK,57,Kumanovo,0,0,1
+MK,58,Labunista,0,0,0
+MK,59,Lipkovo,42.147407,21.589199,0
+MK,60,Lozovo,0,0,0
+MK,61,Lukovo,0,0,0
+MK,62,Makedonska Kamenica,0,0,1
+MK,63,Makedonski Brod,0,0,1
+MK,64,Mavrovi Anovi,0,0,0
+MK,65,Meseista,41.243191,20.78484,0
+MK,66,Miravci,41.303411,22.431497,0
+MK,67,Mogila,41.111762,21.393068,0
+MK,68,Murtino,41.419395,22.706132,0
+MK,69,Negotino,0,0,1
+MK,70,Negotino-Polosko,0,0,0
+MK,71,Novaci,41.04707,21.469955,0
+MK,72,Novo Selo,41.418178,22.87933,0
+MK,73,Oblesevo,41.89201,22.334049,0
+MK,74,Ohrid,0,0,1
+MK,75,Orasac,0,0,1
+MK,76,Orizari,41.925785,22.436979,0
+MK,77,Oslomej,0,0,1
+MK,78,Pehcevo,41.768509,22.901895,0
+MK,79,Petrovec,0,0,1
+MK,80,Plasnica,41.462608,21.138651,0
+MK,81,Podares,0,0,1
+MK,82,Prilep,0,0,1
+MK,83,Probistip,0,0,0
+MK,84,Radovis,0,0,1
+MK,85,Rankovce,42.181734,22.120188,0
+MK,86,Resen,0,0,1
+MK,87,Rosoman,0,0,1
+MK,88,Rostusa,0,0,0
+MK,89,Samokov,0,0,2
+MK,90,Saraj,0,0,1
+MK,91,Sipkovica,0,0,0
+MK,92,Sopiste,0,0,1
+MK,93,Sopotnica,41.298389,21.16424,0
+MK,94,Srbinovo,0,0,0
+MK,96,Star Dojran,0,0,1
+MK,95,Staravina,41.090305,21.760409,0
+MK,97,Staro Nagoricane,0,0,0
+MK,98,Stip,0,0,1
+MK,99,Struga,0,0,1
+MK,A1,Strumica,0,0,1
+MK,A2,Studenicani,0,0,1
+MK,A3,Suto Orizari,0,0,0
+MK,A4,Sveti Nikole,0,0,1
+MK,A5,Tearce,42.108794,21.046225,0
+MK,A6,Tetovo,0,0,1
+MK,A7,Topolcani,0,0,0
+MK,A8,Valandovo,0,0,1
+MK,A9,Vasilevo,0,0,0
+MK,B1,Veles,0,0,1
+MK,B2,Velesta,41.24696,20.65213,0
+MK,B3,Vevcani,0,0,0
+MK,B4,Vinica,41.879848,22.513377,0
+MK,B5,Vitoliste,0,0,0
+MK,B6,Vranestica,0,0,0
+MK,B7,Vrapciste,0,0,0
+MK,B8,Vratnica,0,0,1
+MK,B9,Vrutok,41.76563,20.824766,0
+MK,C1,Zajas,41.593868,20.952858,0
+MK,C2,Zelenikovo,0,0,1
+MK,C3,Zelino,0,0,1
+MK,C4,Zitose,0,0,0
+MK,C5,Zletovo,41.981483,22.197522,0
+MK,C6,Zrnovci,0,0,1
+ML,1,Bamako,0,0,1
+ML,9,Gao,16.2668,-0.042694,0
+ML,3,Kayes,0,0,1
+ML,10,Kidal,18.444309,1.401523,0
+ML,7,Koulikoro,12.863795,-7.569686,0
+ML,4,Mopti,14.480395,-4.190015,0
+ML,5,Segou,13.439598,-6.268461,0
+ML,6,Sikasso,11.315983,-5.669683,0
+ML,8,Tombouctou,16.77206,-3.007782,0
+MM,2,Chin State,0,0,0
+MM,3,Irrawaddy,0,0,0
+MM,4,Kachin State,0,0,0
+MM,5,Karan State,0,0,0
+MM,6,Kayah State,0,0,0
+MM,7,Magwe,20.1253,94.9318,0
+MM,8,Mandalay,21.526697,95.859206,0
+MM,13,Mon State,0,0,0
+MM,9,Pegu,17.3291,96.4991,0
+MM,1,Rakhine State,0,0,0
+MM,14,Rangoon,16.867,96.1419,0
+MM,10,Sagaing,24.473055,95.52068,0
+MM,11,Shan State,0,0,0
+MM,12,Tenasserim,12.569545,97.854305,0
+MM,17,Yangon,0,0,2
+MN,1,Arhangay,48.081193,100.954934,0
+MN,3,Bayan-Olgiy,48.202342,89.95168,0
+MN,2,Bayanhongor,45.016666,99.325,0
+MN,21,Bulgan,48.779655,103.346699,0
+MN,5,Darhan,49.90258,106.175003,0
+MN,23,Darhan Uul,0,0,0
+MN,6,Dornod,48.266506,115.745317,0
+MN,7,Dornogovi,44.55355,109.866666,0
+MN,8,Dundgovi,45.4,106.365114,0
+MN,9,Dzavhan,48.283333,96.492791,0
+MN,22,Erdenet,48.988945,104.140419,0
+MN,10,Govi-Altay,46.100966,95.908333,0
+MN,24,Govi-Sumber,0,0,0
+MN,11,Hentiy,47.783333,110.458065,0
+MN,12,Hovd,47.337268,92.396063,0
+MN,13,Hovsgol,49.975,99.841666,0
+MN,14,Omnogovi,43.410993,103.741667,0
+MN,25,Orhon,0,0,1
+MN,15,Ovorhangay,45.797805,102.917962,0
+MN,16,Selenge,49.489476,106.425434,0
+MN,17,Suhbaatar,46.3,113.579001,0
+MN,18,Tov,47.598993,106.5,0
+MN,20,Ulaanbaatar,0,0,1
+MN,19,Uvs,49.718135,92.766792,0
+MO,1,Ilhas,0,0,3
+MO,2,Macau,22.201874,113.544202,0
+MR,7,Adrar,20.413935,-12.469033,0
+MR,3,Assaba,16.136835,-11.82893,0
+MR,5,Brakna,16.642385,-13.833333,0
+MR,8,Dakhlet Nouadhibou,20.88364,-17.041511,0
+MR,4,Gorgol,15.965265,-13.09689,0
+MR,10,Guidimaka,15.383333,-12.133333,0
+MR,1,Hodh Ech Chargui,16.491667,-7.092829,0
+MR,2,Hodh El Gharbi,16.322221,-9.672034,0
+MR,12,Inchiri,19.747311,-14.39091,0
+MR,9,Tagant,18.15149,-10.912906,0
+MR,11,Tiris Zemmour,24.255131,-9.245411,0
+MR,6,Trarza,0,0,1
+MS,1,Saint Anthony,0,0,1
+MS,2,Saint Georges,0,0,0
+MS,3,Saint Peter,0,0,2
+MU,21,Agalega Islands,0,0,0
+MU,12,Black River,0,0,3
+MU,22,Cargados Carajos,0,0,0
+MU,13,Flacq,0,0,2
+MU,14,Grand Port,0,0,3
+MU,15,Moka,0,0,9
+MU,16,Pamplemousses,0,0,7
+MU,17,Plaines Wilhems,0,0,7
+MU,18,Port Louis,0,0,1
+MU,19,Riviere du Rempart,0,0,3
+MU,23,Rodrigues,0,0,1
+MU,20,Savanne,0,0,0
+MV,2,Aliff,0,0,0
+MV,20,Baa,5.086287,73.002712,0
+MV,17,Daalu,0,0,0
+MV,14,Faafu,3.162773,72.937028,0
+MV,27,Gaafu Aliff,0,0,0
+MV,28,Gaafu Daalu,0,0,0
+MV,7,Haa Aliff,0,0,0
+MV,23,Haa Daalu,0,0,0
+MV,26,Kaafu,0,0,1
+MV,5,Laamu,1.956545,73.406176,0
+MV,3,Laviyani,0,0,0
+MV,12,Meemu,2.940104,73.501436,0
+MV,29,Naviyani,0,0,0
+MV,25,Noonu,5.824573,73.305436,0
+MV,13,Raa,5.671056,72.925614,0
+MV,1,Seenu,-0.639219,73.158331,0
+MV,24,Shaviyani,6.210959,73.104339,0
+MV,8,Thaa,2.362182,73.137205,0
+MV,4,Waavu,0,0,0
+MW,26,Balaka,-14.982065,34.95803,0
+MW,24,Blantyre,0,0,2
+MW,2,Chikwawa,-16.02433,34.786751,0
+MW,3,Chiradzulu,-15.68867,35.11969,0
+MW,4,Chitipa,-9.700939,33.27325,0
+MW,6,Dedza,-14.383815,34.335994,0
+MW,7,Dowa,-13.703316,33.963566,0
+MW,8,Karonga,-9.930657,33.937891,0
+MW,9,Kasungu,-13.033366,33.484166,0
+MW,27,Likoma,-12.067111,34.734153,0
+MW,11,Lilongwe,0,0,1
+MW,28,Machinga,0,0,0
+MW,12,Mangochi,-14.483333,35.266667,0
+MW,13,Mchinji,-13.79977,32.881305,0
+MW,29,Mulanje,-16.023616,35.49595,0
+MW,25,Mwanza,-15.6051,34.527014,0
+MW,15,Mzimba,-11.897435,33.597809,0
+MW,17,Nkhata Bay,-11.607,34.27942,0
+MW,18,Nkhotakota,-12.9691,34.2665,0
+MW,19,Nsanje,-16.92071,35.261884,0
+MW,16,Ntcheu,-14.7968,34.6251,0
+MW,20,Ntchisi,-13.3531,33.9211,0
+MW,30,Phalombe,-15.80015,35.646465,0
+MW,21,Rumphi,-11.017475,33.814855,0
+MW,22,Salima,-13.78197,34.45899,0
+MW,5,Thyolo,-16.0643,35.1342,0
+MW,23,Zomba,0,0,1
+MX,1,Aguascalientes,0,0,4
+MX,2,Baja California,0,0,12
+MX,3,Baja California Sur,0,0,9
+MX,4,Campeche,0,0,7
+MX,5,Chiapas,0,0,34
+MX,6,Chihuahua,0,0,11
+MX,7,Coahuila de Zaragoza,0,0,22
+MX,8,Colima,0,0,4
+MX,9,Distrito Federal,0,0,31
+MX,10,Durango,0,0,9
+MX,11,Guanajuato,0,0,44
+MX,12,Guerrero,0,0,18
+MX,13,Hidalgo,0,0,33
+MX,14,Jalisco,0,0,52
+MX,15,Mexico,0,0,74
+MX,16,Michoacan de Ocampo,0,0,34
+MX,17,Morelos,0,0,23
+MX,18,Nayarit,0,0,12
+MX,19,Nuevo Leon,0,0,20
+MX,20,Oaxaca,0,0,34
+MX,21,Puebla,0,0,54
+MX,22,Queretaro de Arteaga,0,0,10
+MX,23,Quintana Roo,0,0,7
+MX,24,San Luis Potosi,0,0,11
+MX,25,Sinaloa,0,0,22
+MX,26,Sonora,0,0,25
+MX,27,Tabasco,0,0,20
+MX,28,Tamaulipas,0,0,18
+MX,29,Tlaxcala,0,0,30
+MX,30,Veracruz-Llave,0,0,65
+MX,31,Yucatan,0,0,10
+MX,32,Zacatecas,0,0,18
+MY,1,Johor,0,0,30
+MY,2,Kedah,0,0,13
+MY,3,Kelantan,0,0,5
+MY,15,Labuan,0,0,1
+MY,4,Melaka,0,0,11
+MY,5,Negeri Sembilan,0,0,27
+MY,6,Pahang,0,0,20
+MY,7,Perak,0,0,32
+MY,8,Perlis,0,0,6
+MY,9,Pulau Pinang,0,0,22
+MY,16,Sabah,0,0,27
+MY,11,Sarawak,0,0,19
+MY,12,Selangor,0,0,22
+MY,13,Terengganu,0,0,14
+MY,14,Wilayah Persekutuan,0,0,7
+MZ,1,Cabo Delgado,-12.333612,39.380555,0
+MZ,2,Gaza,-23.304747,32.899948,0
+MZ,3,Inhambane,-23.87167,35.38688,0
+MZ,10,Manica,-20.0749,34.719261,0
+MZ,4,Maputo,0,0,1
+MZ,6,Nampula,0,0,1
+MZ,7,Niassa,0,0,1
+MZ,5,Sofala,0,0,2
+MZ,8,Tete,0,0,2
+MZ,9,Zambezia,0,0,1
+NA,1,Bethanien,-26.50238,17.16074,0
+NA,3,Boesmanland,0,0,0
+NA,28,Caprivi,0,0,0
+NA,2,Caprivi Oos,0,0,0
+NA,22,Damaraland,0,0,0
+NA,29,Erongo,0,0,2
+NA,4,Gobabis,-22.505,18.97028,0
+NA,5,Grootfontein,-25.016667,16.75,0
+NA,30,Hardap,0,0,1
+NA,23,Hereroland Oos,0,0,0
+NA,24,Hereroland Wes,0,0,0
+NA,6,Kaokoland,0,0,0
+NA,31,Karas,0,0,0
+NA,20,Karasburg,-28,18.716667,0
+NA,7,Karibib,-21.938294,15.85231,0
+NA,25,Kavango,0,0,0
+NA,8,Keetmanshoop,-26.5762,18.1466,0
+NA,32,Kunene,0,0,0
+NA,9,Luderitz,-26.6762,15.2468,0
+NA,10,Maltahohe,-24.84044,16.979435,0
+NA,26,Mariental,-24.6247,17.961,0
+NA,27,Namaland,0,0,0
+NA,33,Ohangwena,-17.467409,15.897137,0
+NA,11,Okahandja,-21.977849,16.907895,0
+NA,34,Okavango,0,0,0
+NA,35,Omaheke,0,0,0
+NA,12,Omaruru,-21.42582,15.95642,0
+NA,36,Omusati,0,0,0
+NA,37,Oshana,0,0,1
+NA,38,Oshikoto,0,0,0
+NA,13,Otjiwarongo,-18.083333,13.083333,0
+NA,39,Otjozondjupa,0,0,0
+NA,14,Outjo,-20.105135,16.143895,0
+NA,15,Owambo,0,0,0
+NA,16,Rehoboth,-23.321605,17.079619,0
+NA,17,Swakopmund,-22.6709,14.5686,0
+NA,18,Tsumeb,-19.2666,17.7333,0
+NA,21,Windhoek,0,0,1
+NE,1,Agadez,16.9918,7.985669,0
+NE,2,Diffa,13.31166,12.60946,0
+NE,3,Dosso,13.04794,3.201155,0
+NE,4,Maradi,0,0,1
+NE,5,Niamey,13.51405,2.1073,0
+NE,6,Tahoua,14.89715,5.264483,0
+NE,7,Zinder,13.7986,8.9891,0
+NG,45,Abia,0,0,1
+NG,11,Abuja Capital Territory,0,0,2
+NG,35,Adamawa,0,0,2
+NG,21,Akwa Ibom,0,0,2
+NG,25,Anambra,0,0,3
+NG,46,Bauchi,0,0,1
+NG,52,Bayelsa,0,0,0
+NG,26,Benue,0,0,1
+NG,27,Borno,0,0,1
+NG,22,Cross River,0,0,1
+NG,36,Delta,0,0,2
+NG,53,Ebonyi,0,0,4
+NG,37,Edo,0,0,4
+NG,54,Ekiti,7.6,5.1,0
+NG,47,Enugu,0,0,3
+NG,55,Gombe,0,0,1
+NG,28,Imo,0,0,1
+NG,39,Jigawa,0,0,1
+NG,23,Kaduna,0,0,2
+NG,29,Kano,0,0,1
+NG,24,Katsina,0,0,1
+NG,40,Kebbi,12.033333,4.633333,0
+NG,41,Kogi,0,0,1
+NG,30,Kwara,0,0,1
+NG,5,Lagos,0,0,9
+NG,56,Nassarawa,0,0,2
+NG,31,Niger,0,0,1
+NG,16,Ogun,0,0,6
+NG,48,Ondo,0,0,1
+NG,42,Osun,0,0,2
+NG,32,Oyo,0,0,18
+NG,49,Plateau,0,0,0
+NG,50,Rivers,0,0,2
+NG,51,Sokoto,0,0,2
+NG,43,Taraba,8.716667,13.15,0
+NG,44,Yobe,0,0,0
+NG,57,Zamfara,0,0,2
+NI,1,Boaco,0,0,2
+NI,2,Carazo,0,0,1
+NI,3,Chinandega,0,0,1
+NI,4,Chontales,12.130165,-85.10038,0
+NI,5,Esteli,13.147049,-86.423076,0
+NI,6,Granada,0,0,3
+NI,7,Jinotega,13.804153,-85.54496,0
+NI,8,Leon,0,0,4
+NI,9,Madriz,13.427183,-86.418978,0
+NI,10,Managua,0,0,3
+NI,11,Masaya,0,0,3
+NI,12,Matagalpa,0,0,1
+NI,13,Nueva Segovia,13.771502,-86.269413,0
+NI,14,Rio San Juan,11.294,-84.423649,0
+NI,15,Rivas,0,0,2
+NI,16,Zelaya,0,0,0
+NL,1,Drenthe,0,0,212
+NL,12,Dronten,52.523516,5.717889,0
+NL,16,Flevoland,0,0,19
+NL,2,Friesland,0,0,337
+NL,3,Gelderland,0,0,413
+NL,4,Groningen,0,0,188
+NL,14,Lelystad,52.510007,5.477723,0
+NL,5,Limburg,0,0,269
+NL,6,Noord-Brabant,0,0,412
+NL,7,Noord-Holland,0,0,283
+NL,8,Overijssel,52.486132,6.42529,0
+NL,9,Utrecht,0,0,106
+NL,10,Zeeland,0,0,135
+NL,11,Zuid-Holland,0,0,294
+NL,13,Zuidelijke IJsselmeerpolders,0,0,0
+NO,1,Akershus,0,0,84
+NO,2,Aust-Agder,0,0,37
+NO,4,Buskerud,0,0,55
+NO,5,Finnmark,0,0,40
+NO,6,Hedmark,0,0,67
+NO,7,Hordaland,0,0,232
+NO,8,More og Romsdal,0,0,113
+NO,10,Nord-Trondelag,0,0,64
+NO,9,Nordland,0,0,87
+NO,11,Oppland,0,0,67
+NO,12,Oslo,0,0,13
+NO,13,Ostfold,0,0,42
+NO,14,Rogaland,0,0,94
+NO,15,Sogn og Fjordane,0,0,67
+NO,16,Sor-Trondelag,0,0,85
+NO,17,Telemark,0,0,55
+NO,18,Troms,0,0,104
+NO,19,Vest-Agder,0,0,54
+NO,20,Vestfold,0,0,32
+NP,1,Bagmati,27.830105,85.345552,0
+NP,2,Bheri,28.497206,81.721542,0
+NP,3,Dhawalagiri,28.65681,83.533581,0
+NP,4,Gandaki,28.328066,84.316917,0
+NP,5,Janakpur,27.369043,85.949856,0
+NP,6,Karnali,29.571586,82.472812,0
+NP,7,Kosi,27.15545,87.333866,0
+NP,8,Lumbini,27.802501,83.561152,0
+NP,9,Mahakali,29.386108,80.587177,0
+NP,10,Mechi,27.139403,87.83413,0
+NP,11,Narayani,27.314321,84.715374,0
+NP,12,Rapti,28.337317,82.451027,0
+NP,13,Sagarmatha,27.267533,86.653414,0
+NP,14,Seti,29.232908,81.159915,0
+NR,1,Aiwo,0,0,0
+NR,2,Anabar,0,0,0
+NR,3,Anetan,0,0,0
+NR,4,Anibare,0,0,0
+NR,5,Baiti,0,0,0
+NR,6,Boe,0,0,0
+NR,7,Buada,0,0,0
+NR,8,Denigomodu,0,0,0
+NR,9,Ewa,0,0,0
+NR,10,Ijuw,0,0,0
+NR,11,Meneng,0,0,0
+NR,12,Nibok,0,0,0
+NR,13,Uaboe,0,0,0
+NR,14,Yaren,-0.547189,166.911617,0
+NZ,1,Akaroa,-43.806031,172.966568,0
+NZ,3,Amuri,-43.537445,172.518814,0
+NZ,4,Ashburton,-43.902496,171.749326,0
+NZ,7,Bay of Islands,-35.181293,174.199209,0
+NZ,8,Bruce,-40.75173,175.604404,0
+NZ,9,Buller,-41.78452,172.12283,0
+NZ,10,Chatham Islands,-44.004282,-176.38372,0
+NZ,11,Cheviot,-42.813045,173.273989,0
+NZ,12,Clifton,-46.45028,168.367828,0
+NZ,13,Clutha,-41.248878,174.788564,0
+NZ,14,Cook,-41.301431,174.77384,0
+NZ,16,Dannevirke,-40.207508,176.104084,0
+NZ,17,Egmont,-39.266982,174.059744,0
+NZ,18,Eketahuna,-40.645019,175.703102,0
+NZ,19,Ellesmere,-43.663895,172.356444,0
+NZ,20,Eltham,-39.429715,174.299222,0
+NZ,21,Eyre,-43.379619,172.369483,0
+NZ,22,Featherston,-41.117026,175.322651,0
+NZ,24,Franklin,-36.851153,174.749257,0
+NZ,26,Golden Bay,-40.686377,172.687033,0
+NZ,27,Great Barrier Island,-36.199793,175.428669,0
+NZ,28,Grey,-36.860581,174.734626,0
+NZ,29,Hauraki Plains,-37.337252,175.454916,0
+NZ,30,Hawera,-39.593354,174.278291,0
+NZ,31,Hawke's Bay,-39.505076,177.030104,0
+NZ,32,Heathcote,-43.577533,172.707428,0
+NZ,D9,Hikurangi,-35.598386,174.286615,0
+NZ,33,Hobson,-36.849814,174.760834,0
+NZ,34,Hokianga,-35.935355,173.861988,0
+NZ,35,Horowhenua,-40.607551,175.253554,0
+NZ,D4,Hurunui,-42.880287,172.7509,0
+NZ,36,Hutt,-43.524026,171.62063,0
+NZ,37,Inangahua,-41.859783,171.949586,0
+NZ,38,Inglewood,-39.155985,174.20723,0
+NZ,39,Kaikoura,-42.402306,173.680563,0
+NZ,40,Kairanga,-40.348207,175.531938,0
+NZ,41,Kiwitea,-40.108114,175.721985,0
+NZ,43,Lake,-46.013211,170.080408,0
+NZ,45,Mackenzie,-44.257969,170.094554,0
+NZ,46,Malvern,-45.846128,170.506364,0
+NZ,E1,Manaia,-39.550919,174.124862,0
+NZ,47,Manawatu,-39.504299,175.645004,0
+NZ,48,Mangonui,-34.992104,173.531193,0
+NZ,49,Maniototo,-45.1975,170.028363,0
+NZ,50,Marlborough,-41.688202,173.516998,0
+NZ,51,Masterton,-40.948949,175.660764,0
+NZ,52,Matamata,-37.809565,175.773252,0
+NZ,53,Mount Herbert,-43.689447,172.741565,0
+NZ,54,Ohinemuri,-37.371702,175.675373,0
+NZ,55,Opotiki,-38.004206,177.287115,0
+NZ,56,Oroua,-40.332362,175.411409,0
+NZ,57,Otamatea,-39.906905,175.021554,0
+NZ,58,Otorohanga,-38.184058,175.212606,0
+NZ,59,Oxford,-43.299089,172.184525,0
+NZ,60,Pahiatua,-40.453381,175.840662,0
+NZ,61,Paparua,-43.518313,172.448371,0
+NZ,63,Patea,-39.757187,174.47666,0
+NZ,65,Piako,-37.678821,175.394655,0
+NZ,66,Pohangina,-40.172709,175.793708,0
+NZ,67,Raglan,-37.802571,174.872606,0
+NZ,68,Rangiora,-43.304038,172.59056,0
+NZ,69,Rangitikei,-40.345488,175.602947,0
+NZ,70,Rodney,-42.527041,172.703428,0
+NZ,71,Rotorua,-38.139826,176.247073,0
+NZ,E2,Runanga,-42.400668,171.251443,0
+NZ,E3,Saint Kilda,-45.904729,170.503053,0
+NZ,D5,Silverpeaks,-45.728374,170.463893,0
+NZ,72,Southland,-45.465301,167.925995,0
+NZ,73,Stewart Island,-47,167.866667,0
+NZ,74,Stratford,-39.337746,174.284045,0
+NZ,D6,Strathallan,-45.888365,170.50409,0
+NZ,76,Taranaki,-39.300201,174.371994,0
+NZ,77,Taumarunui,-38.883033,175.262876,0
+NZ,78,Taupo,-38.686594,176.069694,0
+NZ,79,Tauranga,0,0,0
+NZ,E4,Thames-Coromandel,-36.959957,175.613249,0
+NZ,81,Tuapeka,-45.936123,169.551691,0
+NZ,82,Vincent,-36.900084,174.922168,0
+NZ,83,Waiapu,-38.00997,178.272191,0
+NZ,D8,Waiheke,-36.79504,175.097165,0
+NZ,84,Waihemo,-45.324555,170.569918,0
+NZ,85,Waikato,-40.621122,172.678871,0
+NZ,86,Waikohu,-38.391125,177.719561,0
+NZ,88,Waimairi,-43.480428,172.719679,0
+NZ,89,Waimarino,-37.044409,174.870204,0
+NZ,90,Waimate,-44.734039,171.046498,0
+NZ,91,Waimate West,-35.273059,173.901139,0
+NZ,92,Waimea,-45.872306,168.683312,0
+NZ,93,Waipa,-38.450698,175.394441,0
+NZ,95,Waipawa,-39.942547,176.588587,0
+NZ,96,Waipukurau,-39.995673,176.556677,0
+NZ,97,Wairarapa South,0,0,0
+NZ,98,Wairewa,-43.769883,172.795367,0
+NZ,99,Wairoa,-39.039527,177.42539,0
+NZ,A4,Waitaki,-44.937925,171.09713,0
+NZ,A6,Waitomo,-38.260916,175.112533,0
+NZ,A8,Waitotara,-39.80589,174.734355,0
+NZ,E6,Wallace,-36.95069,174.776967,0
+NZ,B2,Wanganui,-39.930326,175.047663,0
+NZ,E5,Waverley,-39.761033,174.629861,0
+NZ,B3,Westland,-45.902388,170.424167,0
+NZ,B4,Whakatane,-37.958434,176.985889,0
+NZ,A1,Whangarei,-35.72287,174.322685,0
+NZ,A2,Whangaroa,-35.052229,173.741948,0
+NZ,A3,Woodville,-40.337094,175.866697,0
+OM,1,Ad Dakhiliyah,0,0,0
+OM,2,Al Batinah,0,0,4
+OM,3,Al Wusta,0,0,0
+OM,4,Ash Sharqiyah,0,0,2
+OM,5,Az Zahirah,0,0,0
+OM,6,Masqat,0,0,4
+OM,7,Musandam,0,0,0
+OM,8,Zufar,0,0,1
+PA,1,Bocas del Toro,0,0,4
+PA,2,Chiriqui,0,0,7
+PA,3,Cocle,0,0,5
+PA,4,Colon,0,0,6
+PA,5,Darien,0,0,2
+PA,6,Herrera,7.855381,-80.677398,0
+PA,7,Los Santos,0,0,6
+PA,8,Panama,0,0,26
+PA,9,San Blas,0,0,1
+PA,10,Veraguas,0,0,4
+PE,1,Amazonas,0,0,3
+PE,2,Ancash,0,0,8
+PE,3,Apurimac,0,0,2
+PE,4,Arequipa,0,0,5
+PE,5,Ayacucho,0,0,3
+PE,6,Cajamarca,0,0,4
+PE,7,Callao,0,0,1
+PE,8,Cusco,0,0,4
+PE,9,Huancavelica,0,0,4
+PE,10,Huanuco,0,0,3
+PE,11,Ica,0,0,7
+PE,12,Junin,0,0,8
+PE,13,La Libertad,0,0,8
+PE,14,Lambayeque,0,0,4
+PE,15,Lima,0,0,21
+PE,16,Loreto,0,0,1
+PE,17,Madre de Dios,0,0,3
+PE,18,Moquegua,0,0,4
+PE,19,Pasco,0,0,3
+PE,20,Piura,0,0,8
+PE,21,Puno,0,0,4
+PE,22,San Martin,0,0,10
+PE,23,Tacna,0,0,7
+PE,24,Tumbes,0,0,2
+PE,25,Ucayali,0,0,3
+PG,1,Central,-9.078217,148.097753,0
+PG,8,Chimbu,-6.30067,144.67245,0
+PG,10,East New Britain,-5.069804,151.587379,0
+PG,11,East Sepik,-4.156437,143.123997,0
+PG,9,Eastern Highlands,-6.512004,145.650747,0
+PG,19,Enga,-5.467761,143.567908,0
+PG,2,Gulf,-7.65354,144.92883,0
+PG,12,Madang,-4.991999,145.673834,0
+PG,13,Manus,-1.728484,145.514313,0
+PG,3,Milne Bay,0,0,2
+PG,14,Morobe,0,0,1
+PG,20,National Capital,0,0,2
+PG,15,New Ireland,-3.086389,151.620537,0
+PG,7,North Solomons,0,0,0
+PG,4,Northern,-8.951506,148.271852,0
+PG,18,Sandaun,-3.997003,142.091103,0
+PG,5,Southern Highlands,-5.842113,143.491669,0
+PG,17,West New Britain,-5.430028,150.076101,0
+PG,6,Western,-7.091743,142.383453,0
+PG,16,Western Highlands,-5.645085,144.616932,0
+PH,1,Abra,0,0,7
+PH,2,Agusan del Norte,0,0,7
+PH,3,Agusan del Sur,0,0,9
+PH,4,Aklan,0,0,8
+PH,5,Albay,0,0,13
+PH,A1,Angeles,0,0,2
+PH,6,Antique,0,0,6
+PH,G8,Aurora,0,0,1
+PH,A2,Bacolod,0,0,1
+PH,A3,Bago,0,0,1
+PH,A4,Baguio,0,0,2
+PH,A5,Bais,9.595244,123.122299,0
+PH,22,Basilan,0,0,4
+PH,A6,Basilan City,0,0,0
+PH,7,Bataan,0,0,10
+PH,8,Batanes,0,0,1
+PH,9,Batangas,0,0,21
+PH,A7,Batangas City,0,0,1
+PH,10,Benguet,0,0,5
+PH,11,Bohol,0,0,12
+PH,12,Bukidnon,0,0,7
+PH,13,Bulacan,0,0,41
+PH,A8,Butuan,0,0,2
+PH,A9,Cabanatuan,0,0,2
+PH,B1,Cadiz,0,0,1
+PH,14,Cagayan,0,0,13
+PH,B2,Cagayan de Oro,0,0,4
+PH,B3,Calbayog,0,0,5
+PH,B4,Caloocan,0,0,4
+PH,15,Camarines Norte,0,0,4
+PH,16,Camarines Sur,0,0,13
+PH,17,Camiguin,0,0,1
+PH,B5,Canlaon,0,0,1
+PH,18,Capiz,0,0,11
+PH,19,Catanduanes,0,0,1
+PH,20,Cavite,0,0,17
+PH,B6,Cavite City,0,0,1
+PH,21,Cebu,0,0,44
+PH,B7,Cebu City,0,0,8
+PH,B8,Cotabato,0,0,1
+PH,B9,Dagupan,16.0382,120.337196,0
+PH,C1,Danao,0,0,3
+PH,C2,Dapitan,8.657005,123.432198,0
+PH,24,Davao,0,0,14
+PH,C3,Davao City,0,0,10
+PH,25,Davao del Sur,0,0,19
+PH,26,Davao Oriental,0,0,5
+PH,C4,Dipolog,0,0,1
+PH,C5,Dumaguete,0,0,1
+PH,23,Eastern Samar,0,0,8
+PH,C6,General Santos,0,0,4
+PH,C7,Gingoog,0,0,1
+PH,27,Ifugao,0,0,2
+PH,C8,Iligan,0,0,1
+PH,28,Ilocos Norte,0,0,11
+PH,29,Ilocos Sur,0,0,15
+PH,30,Iloilo,0,0,39
+PH,C9,Iloilo City,0,0,3
+PH,D1,Iriga,0,0,1
+PH,31,Isabela,0,0,12
+PH,32,Kalinga-Apayao,0,0,2
+PH,D2,La Carlota,0,0,1
+PH,36,La Union,0,0,15
+PH,33,Laguna,0,0,34
+PH,34,Lanao del Norte,0,0,6
+PH,35,Lanao del Sur,0,0,3
+PH,D3,Laoag,0,0,1
+PH,D4,Lapu-Lapu,0,0,2
+PH,D5,Legaspi,0,0,4
+PH,37,Leyte,0,0,22
+PH,D6,Lipa,0,0,2
+PH,D7,Lucena,0,0,1
+PH,56,Maguindanao,0,0,13
+PH,D8,Mandaue,0,0,1
+PH,D9,Manila,0,0,6
+PH,E1,Marawi,0,0,1
+PH,38,Marinduque,0,0,3
+PH,39,Masbate,0,0,9
+PH,40,Mindoro Occidental,0,0,6
+PH,41,Mindoro Oriental,0,0,7
+PH,42,Misamis Occidental,0,0,6
+PH,43,Misamis Oriental,0,0,8
+PH,44,Mountain,0,0,1
+PH,E2,Naga,0,0,2
+PH,H3,Negros Occidental,0,0,22
+PH,46,Negros Oriental,0,0,12
+PH,57,North Cotabato,0,0,7
+PH,67,Northern Samar,0,0,11
+PH,47,Nueva Ecija,0,0,36
+PH,48,Nueva Vizcaya,0,0,4
+PH,E3,Olongapo,0,0,1
+PH,E4,Ormoc,0,0,2
+PH,E5,Oroquieta,0,0,1
+PH,E6,Ozamis,0,0,3
+PH,E7,Pagadian,7.829801,123.437103,0
+PH,49,Palawan,0,0,3
+PH,E8,Palayan,0,0,0
+PH,50,Pampanga,0,0,45
+PH,51,Pangasinan,0,0,39
+PH,E9,Pasay,0,0,8
+PH,F1,Puerto Princesa,0,0,2
+PH,H2,Quezon,0,0,21
+PH,F2,Quezon City,0,0,12
+PH,68,Quirino,0,0,0
+PH,53,Rizal,0,0,54
+PH,54,Romblon,0,0,5
+PH,F3,Roxas,0,0,2
+PH,55,Samar,0,0,6
+PH,F4,San Carlos,0,0,11
+PH,F6,San Jose,10.75484,121.944298,0
+PH,F7,San Pablo,0,0,3
+PH,F8,Silay,0,0,2
+PH,69,Siquijor,0,0,1
+PH,58,Sorsogon,0,0,4
+PH,70,South Cotabato,0,0,18
+PH,59,Southern Leyte,0,0,11
+PH,71,Sultan Kudarat,0,0,5
+PH,60,Sulu,0,0,7
+PH,F9,Surigao,0,0,1
+PH,61,Surigao del Norte,0,0,9
+PH,62,Surigao del Sur,0,0,10
+PH,G1,Tacloban,0,0,2
+PH,G2,Tagaytay,0,0,1
+PH,G3,Tagbilaran,0,0,1
+PH,G4,Tangub,8.064722,123.750198,0
+PH,63,Tarlac,0,0,30
+PH,72,Tawitawi,0,0,0
+PH,G5,Toledo,0,0,1
+PH,G6,Trece Martires,0,0,0
+PH,64,Zambales,0,0,8
+PH,G7,Zamboanga,0,0,2
+PH,65,Zamboanga del Norte,0,0,1
+PH,66,Zamboanga del Sur,0,0,19
+PK,6,Azad Jammu  & Kashmir,0,0,3
+PK,2,Balochistan,0,0,4
+PK,8,Islamabad,0,0,1
+PK,3,Khyber Pakhtunkhwa,0,0,14
+PK,7,Gilgit Baltistan,35.920834,74.308334,0
+PK,4,Punjab,0,0,30
+PK,5,Sindh,0,0,9
+PL,23,Biala Podlaska,0,0,33
+PL,24,Bialystok,0,0,84
+PL,25,Bielsko,0,0,125
+PL,26,Bydgoszcz,0,0,96
+PL,27,Chelm,0,0,59
+PL,28,Ciechanow,0,0,72
+PL,29,Czestochowa,0,0,62
+PL,72,Dolnoslaskie,0,0,15
+PL,30,Elblag,0,0,45
+PL,31,Gdansk,0,0,110
+PL,32,Gorzow,0,0,61
+PL,33,Jelenia Gora,0,0,42
+PL,34,Kalisz,0,0,92
+PL,35,Katowice,0,0,287
+PL,36,Kielce,0,0,76
+PL,37,Konin,0,0,50
+PL,38,Koszalin,54.189998,16.18,0
+PL,39,Krakow,0,0,127
+PL,40,Krosno,0,0,65
+PL,73,Kujawsko-Pomorskie,0,0,1
+PL,41,Legnica,0,0,25
+PL,42,Leszno,0,0,81
+PL,43,Lodz,0,0,37
+PL,74,Lodzkie,0,0,1
+PL,44,Lomza,0,0,36
+PL,75,Lubelskie,0,0,1
+PL,45,Lublin,0,0,56
+PL,76,Lubuskie,52.242405,15.482204,0
+PL,77,Malopolskie,0,0,2
+PL,78,Mazowieckie,52.247862,21.195099,0
+PL,46,Nowy Sacz,0,0,88
+PL,47,Olsztyn,0,0,83
+PL,48,Opole,0,0,81
+PL,79,Opolskie,0,0,1
+PL,49,Ostroleka,0,0,47
+PL,50,Pila,0,0,81
+PL,51,Piotrkow,0,0,51
+PL,52,Plock,0,0,111
+PL,80,Podkarpackie,49.907897,22.348303,0
+PL,81,Podlaskie,0,0,1
+PL,82,Pomorskie,0,0,1
+PL,53,Poznan,0,0,164
+PL,54,Przemysl,0,0,40
+PL,55,Radom,0,0,39
+PL,56,Rzeszow,0,0,102
+PL,57,Siedlce,0,0,65
+PL,58,Sieradz,0,0,43
+PL,59,Skierniewice,0,0,96
+PL,83,Slaskie,0,0,1
+PL,60,Slupsk,0,0,64
+PL,61,Suwalki,0,0,71
+PL,84,Swietokrzyskie,0,0,1
+PL,62,Szczecin,53.43,14.529999,0
+PL,63,Tarnobrzeg,0,0,74
+PL,64,Tarnow,0,0,79
+PL,65,Torun,0,0,47
+PL,66,Walbrzych,0,0,61
+PL,85,Warminsko-Mazurskie,0,0,1
+PL,67,Warszawa,0,0,169
+PL,86,Wielkopolskie,0,0,1
+PL,68,Wloclawek,0,0,58
+PL,69,Wroclaw,0,0,162
+PL,87,Zachodniopomorskie,0,0,281
+PL,70,Zamosc,0,0,68
+PL,71,Zielona Gora,0,0,88
+PT,2,Aveiro,0,0,39
+PT,23,Azores,0,0,19
+PT,3,Beja,0,0,13
+PT,4,Braga,0,0,46
+PT,5,Braganca,0,0,6
+PT,6,Castelo Branco,0,0,10
+PT,7,Coimbra,0,0,45
+PT,8,Evora,0,0,16
+PT,9,Faro,0,0,26
+PT,11,Guarda,0,0,28
+PT,13,Leiria,0,0,32
+PT,14,Lisboa,0,0,80
+PT,10,Madeira,0,0,4
+PT,16,Portalegre,0,0,10
+PT,17,Porto,0,0,86
+PT,18,Santarem,0,0,36
+PT,19,Setubal,0,0,33
+PT,20,Viana do Castelo,0,0,14
+PT,21,Vila Real,0,0,16
+PT,22,Viseu,0,0,47
+PY,23,Alto Paraguay,-20.83925,-59.863866,0
+PY,1,Alto Parana,0,0,5
+PY,2,Amambay,-22.95641,-56.159425,0
+PY,3,Boqueron,-21.968387,-60.965015,0
+PY,4,Caaguazu,-25.46982,-56.01535,0
+PY,5,Caazapa,-26.158247,-56.047562,0
+PY,19,Canindeyu,-24.160003,-55.21221,0
+PY,6,Central,0,0,4
+PY,20,Chaco,-26.046581,-60.895736,0
+PY,7,Concepcion,-22.793709,-57.057619,0
+PY,8,Cordillera,-25.25101,-56.990919,0
+PY,10,Guaira,-24.079426,-54.257415,0
+PY,11,Itapua,0,0,2
+PY,12,Misiones,-26.985538,-57.190626,0
+PY,13,Neembucu,0,0,1
+PY,21,Nueva Asuncion,-20.70307,-61.92321,0
+PY,15,Paraguari,-26.000989,-57.144513,0
+PY,16,Presidente Hayes,-23.662047,-58.967518,0
+PY,17,San Pedro,-24.158676,-56.636503,0
+QA,1,Ad Dawhah,0,0,4
+QA,2,Al Ghuwariyah,0,0,0
+QA,3,Al Jumaliyah,0,0,0
+QA,4,Al Khawr,0,0,2
+QA,10,Al Wakrah,25.1665,51.5961,0
+QA,6,Ar Rayyan,25.302711,51.334335,0
+QA,11,Jariyan al Batnah,0,0,0
+QA,8,Madinat ach Shamal,0,0,0
+QA,12,Umm Sa'id,0,0,0
+QA,9,Umm Salal,25.52039,51.369194,0
+RO,1,Alba,0,0,21
+RO,2,Arad,0,0,5
+RO,3,Arges,0,0,9
+RO,4,Bacau,0,0,16
+RO,5,Bihor,0,0,14
+RO,6,Bistrita-Nasaud,0,0,22
+RO,7,Botosani,0,0,21
+RO,8,Braila,0,0,12
+RO,9,Brasov,0,0,27
+RO,10,Bucuresti,0,0,15
+RO,11,Buzau,0,0,17
+RO,41,Calarasi,0,0,24
+RO,12,Caras-Severin,0,0,24
+RO,13,Cluj,0,0,40
+RO,14,Constanta,0,0,25
+RO,15,Covasna,0,0,14
+RO,16,Dambovita,0,0,16
+RO,17,Dolj,0,0,7
+RO,18,Galati,0,0,17
+RO,42,Giurgiu,0,0,98
+RO,19,Gorj,0,0,8
+RO,20,Harghita,0,0,25
+RO,21,Hunedoara,0,0,15
+RO,22,Ialomita,0,0,8
+RO,23,Iasi,0,0,33
+RO,43,Ilfov,0,0,21
+RO,25,Maramures,0,0,20
+RO,26,Mehedinti,0,0,37
+RO,27,Mures,0,0,38
+RO,28,Neamt,0,0,24
+RO,29,Olt,0,0,10
+RO,30,Prahova,0,0,22
+RO,31,Salaj,0,0,18
+RO,32,Satu Mare,0,0,15
+RO,33,Sibiu,0,0,14
+RO,34,Suceava,0,0,21
+RO,35,Teleorman,0,0,19
+RO,36,Timis,0,0,49
+RO,37,Tulcea,0,0,8
+RO,39,Valcea,0,0,10
+RO,38,Vaslui,0,0,69
+RO,40,Vrancea,0,0,11
+RU,1,"Adygeya, Republic of",0,0,9
+RU,2,Aginsky Buryatsky AO,0,0,0
+RU,4,Altaisky krai,0,0,17
+RU,5,Amur,0,0,17
+RU,6,Arkhangel'sk,0,0,16
+RU,7,Astrakhan',0,0,20
+RU,8,Bashkortostan,0,0,29
+RU,9,Belgorod,0,0,19
+RU,10,Bryansk,0,0,26
+RU,11,Buryat,0,0,13
+RU,12,Chechnya,0,0,0
+RU,13,Chelyabinsk,0,0,30
+RU,14,Chita,0,0,13
+RU,15,Chukot,0,0,6
+RU,16,Chuvashia,0,0,6
+RU,17,Dagestan,0,0,15
+RU,18,Evenk,0,0,4
+RU,3,Gorno-Altay,0,0,1
+RU,19,Ingush,0,0,0
+RU,20,Irkutsk,0,0,26
+RU,21,Ivanovo,0,0,17
+RU,22,Kabardin-Balkar,0,0,7
+RU,23,Kaliningrad,0,0,24
+RU,24,Kalmyk,0,0,10
+RU,25,Kaluga,0,0,55
+RU,26,Kamchatka,0,0,3
+RU,27,Karachay-Cherkess,0,0,9
+RU,28,Karelia,0,0,20
+RU,29,Kemerovo,0,0,20
+RU,30,Khabarovsk,0,0,31
+RU,31,Khakass,0,0,6
+RU,32,Khanty-Mansiy,0,0,18
+RU,33,Kirov,0,0,50
+RU,34,Komi,0,0,24
+RU,35,Komi-Permyak,0,0,41
+RU,36,Koryak,0,0,4
+RU,37,Kostroma,0,0,6
+RU,38,Krasnodar,0,0,135
+RU,39,Krasnoyarsk,0,0,45
+RU,40,Kurgan,0,0,14
+RU,41,Kursk,0,0,14
+RU,42,Leningrad,0,0,65
+RU,43,Lipetsk,0,0,13
+RU,44,Magadan,0,0,10
+RU,45,Mariy-El,0,0,7
+RU,46,Mordovia,0,0,10
+RU,48,Moscow City,0,0,15
+RU,47,Moskva,0,0,126
+RU,49,Murmansk,0,0,16
+RU,50,Nenets,0,0,3
+RU,51,Nizhegorod,0,0,29
+RU,68,North Ossetia,0,0,14
+RU,52,Novgorod,0,0,43
+RU,53,Novosibirsk,0,0,69
+RU,54,Omsk,0,0,13
+RU,56,Orel,0,0,18
+RU,55,Orenburg,0,0,27
+RU,57,Penza,0,0,10
+RU,58,Perm',0,0,50
+RU,59,Primor'ye,0,0,68
+RU,60,Pskov,0,0,15
+RU,61,Rostov,0,0,101
+RU,62,Ryazan',0,0,16
+RU,66,Saint Petersburg City,0,0,13
+RU,63,Sakha,0,0,36
+RU,64,Sakhalin,0,0,39
+RU,65,Samara,0,0,21
+RU,67,Saratov,0,0,58
+RU,69,Smolensk,0,0,83
+RU,70,Stavropol',0,0,46
+RU,71,Sverdlovsk,0,0,81
+RU,72,Tambovskaya oblast,0,0,13
+RU,73,Tatarstan,0,0,22
+RU,74,Taymyr,0,0,7
+RU,75,Tomsk,0,0,16
+RU,76,Tula,0,0,17
+RU,79,Tuva,0,0,3
+RU,77,Tver',0,0,39
+RU,78,Tyumen',0,0,20
+RU,80,Udmurt,0,0,15
+RU,81,Ul'yanovsk,0,0,9
+RU,82,Ust-Orda Buryat,0,0,4
+RU,83,Vladimir,0,0,25
+RU,84,Volgograd,0,0,144
+RU,85,Vologda,0,0,44
+RU,86,Voronezh,0,0,43
+RU,87,Yamal-Nenets,0,0,10
+RU,88,Yaroslavl',0,0,17
+RU,89,Yevrey,0,0,5
+RW,1,Butare,0,0,1
+RW,2,Byumba,-1.622023,30.12122,0
+RW,3,Cyangugu,-2.4868,28.903087,0
+RW,4,Gikongoro,-2.5075,29.5954,0
+RW,5,Gisenyi,-1.69535,29.260534,0
+RW,6,Gitarama,-2.079396,29.7552,0
+RW,7,Kibungo,-2.178961,30.545739,0
+RW,8,Kibuye,-2.053539,29.375439,0
+RW,9,Kigali,0,0,1
+RW,10,Ruhengeri,-1.503638,29.628554,0
+SA,2,Al Bahah,0,0,1
+SA,15,Al Hudud ash Shamaliyah,29.809083,41.890762,0
+SA,3,Al Jawf,29.563376,39.879017,0
+SA,5,Al Madinah,0,0,3
+SA,8,Al Qasim,25.974025,43.117052,0
+SA,9,Al Qurayyat,0,0,0
+SA,10,Ar Riyad,0,0,6
+SA,6,Ash Sharqiyah,0,0,17
+SA,13,Ha'il,27.091878,41.895261,0
+SA,17,Jizan,0,0,5
+SA,14,Makkah,0,0,11
+SA,16,Najran,18.209735,45.682905,0
+SA,19,Tabuk,28.150092,37.33449,0
+SB,5,Central,0,0,0
+SB,6,Guadalcanal,-9.595812,160.208984,0
+SB,7,Isabel,0,0,0
+SB,8,Makira,0,0,1
+SB,3,Malaita,-8.979573,160.9702,0
+SB,9,Temotu,0,0,0
+SB,4,Western,0,0,0
+SC,1,Anse aux Pins,0,0,0
+SC,2,Anse Boileau,-4.7137,55.486,0
+SC,3,Anse Etoile,0,0,0
+SC,4,Anse Louis,0,0,0
+SC,5,Anse Royale,0,0,0
+SC,6,Baie Lazare,0,0,0
+SC,7,Baie Sainte Anne,0,0,0
+SC,8,Beau Vallon,0,0,1
+SC,9,Bel Air,0,0,0
+SC,10,Bel Ombre,0,0,0
+SC,11,Cascade,0,0,0
+SC,12,Glacis,0,0,0
+SC,13,Grand' Anse,0,0,0
+SC,15,La Digue,-4.353773,55.836973,0
+SC,16,La Riviere Anglaise,0,0,0
+SC,17,Mont Buxton,0,0,0
+SC,18,Mont Fleuri,0,0,0
+SC,19,Plaisance,0,0,0
+SC,20,Pointe La Rue,0,0,0
+SC,21,Port Glaud,0,0,0
+SC,22,Saint Louis,0,0,0
+SC,23,Takamaka,0,0,0
+SD,28,Al Istiwa'iyah,0,0,0
+SD,29,Al Khartum,0,0,1
+SD,27,Al Wusta,0,0,0
+SD,30,Ash Shamaliyah,0,0,0
+SD,31,Ash Sharqiyah,0,0,0
+SD,32,Bahr al Ghazal,0,0,0
+SD,33,Darfur,13.4,24,0
+SD,34,Kurdufan,0,0,0
+SE,1,Alvsborgs Lan,56.437575,12.889097,0
+SE,2,Blekinge Lan,0,0,10
+SE,10,Dalarnas Lan,0,0,72
+SE,3,Gavleborgs Lan,0,0,62
+SE,4,Goteborgs och Bohus Lan,0,0,0
+SE,5,Gotlands Lan,0,0,10
+SE,6,Hallands Lan,0,0,37
+SE,7,Jamtlands Lan,0,0,49
+SE,8,Jonkopings Lan,0,0,77
+SE,9,Kalmar Lan,0,0,51
+SE,11,Kristianstads Lan,56.428945,13.117327,0
+SE,12,Kronobergs Lan,0,0,33
+SE,13,Malmohus Lan,55.60223,12.987279,0
+SE,14,Norrbottens Lan,0,0,54
+SE,15,Orebro Lan,0,0,44
+SE,16,Ostergotlands Lan,0,0,39
+SE,27,Skane Lan,0,0,159
+SE,17,Skaraborgs Lan,58.384175,13.436919,0
+SE,18,Sodermanlands Lan,0,0,46
+SE,26,Stockholms Lan,0,0,90
+SE,21,Uppsala Lan,0,0,48
+SE,22,Varmlands Lan,0,0,73
+SE,23,Vasterbottens Lan,0,0,86
+SE,24,Vasternorrlands Lan,0,0,47
+SE,25,Vastmanlands Lan,0,0,51
+SE,28,Vastra Gotaland,0,0,236
+SH,1,Ascension,-7.940109,-14.358208,0
+SH,2,Saint Helena,0,0,0
+SH,3,Tristan da Cunha,-37.113628,-12.283934,0
+SI,1,Ajdovscina,45.88885,13.903935,0
+SI,2,Beltinci,46.6068,16.2412,0
+SI,3,Bled,46.36831,14.11469,0
+SI,4,Bohinj,0,0,184
+SI,5,Borovnica,45.92261,14.36275,0
+SI,6,Bovec,46.33694,13.55172,0
+SI,7,Brda,45.44687,13.762882,0
+SI,8,Brezice,45.90252,15.59985,0
+SI,9,Brezovica,0,0,200
+SI,11,Celje,46.23955,15.2666,0
+SI,12,Cerklje na Gorenjskem,0,0,0
+SI,13,Cerknica,45.79722,14.36063,0
+SI,14,Cerkno,46.12619,13.98425,0
+SI,15,Crensovci,46.57548,16.28954,0
+SI,16,Crna na Koroskem,0,0,0
+SI,17,Crnomelj,45.57516,15.19419,0
+SI,19,Divaca,45.68291,13.96974,0
+SI,20,Dobrepolje,0,0,0
+SI,G4,Dobrova-Horjul-Polhov Gradec,46.05516,14.41665,0
+SI,22,Dol pri Ljubljani,0,0,0
+SI,G7,Domzale,46.13606,14.59767,0
+SI,24,Dornava,46.43526,15.95499,0
+SI,25,Dravograd,46.59028,15.02837,0
+SI,26,Duplek,46.51439,15.71835,0
+SI,27,Gorenja Vas-Poljane,46.10573,14.14394,0
+SI,28,Gorisnica,0,0,0
+SI,29,Gornja Radgona,46.67893,15.9888,0
+SI,30,Gornji Grad,46.29534,14.80781,0
+SI,31,Gornji Petrovci,0,0,0
+SI,32,Grosuplje,45.95653,14.66033,0
+SI,34,Hrastnik,46.14653,15.0845,0
+SI,35,Hrpelje-Kozina,45.60822,13.93432,0
+SI,36,Idrija,45.99968,14.01831,0
+SI,37,Ig,45.95857,14.52719,0
+SI,38,Ilirska Bistrica,45.57012,14.24184,0
+SI,39,Ivancna Gorica,0,0,0
+SI,40,Izola-Isola,0,0,0
+SI,H4,Jesenice,46.43431,14.07109,0
+SI,42,Jursinci,46.48496,15.97223,0
+SI,H6,Kamnik,45.95512,14.40879,0
+SI,44,Kanal,46.0853,13.6343,0
+SI,45,Kidricevo,0,0,0
+SI,46,Kobarid,46.245005,13.579075,0
+SI,47,Kobilje,0,0,0
+SI,H7,Kocevje,45.6431,14.8607,0
+SI,49,Komen,45.81752,13.7483,0
+SI,50,Koper-Capodistria,0,0,0
+SI,51,Kozje,46.07299,15.56108,0
+SI,52,Kranj,46.23668,14.355915,0
+SI,53,Kranjska Gora,46.4832,13.78589,0
+SI,54,Krsko,45.9563,15.49155,0
+SI,55,Kungota,0,0,0
+SI,I2,Kuzma,0,0,0
+SI,57,Lasko,46.15434,15.23581,0
+SI,I3,Lenart,46.57702,15.83262,0
+SI,I5,Litija,46.05942,14.82245,0
+SI,61,Ljubljana,46.05456,14.50443,0
+SI,62,Ljubno,46.34217,14.83341,0
+SI,I6,Ljutomer,46.51834,16.19556,0
+SI,64,Logatec,45.91217,14.22831,0
+SI,I7,Loska Dolina,45.62288,14.46245,0
+SI,66,Loski Potok,0,0,0
+SI,I9,Luce,46.353843,14.735691,0
+SI,68,Lukovica,46.167024,14.686032,0
+SI,J1,Majsperk,46.3515,15.735,0
+SI,J2,Maribor,46.549225,15.637075,0
+SI,71,Medvode,46.14444,14.41181,0
+SI,72,Menges,46.15864,14.56965,0
+SI,73,Metlika,45.64857,15.31298,0
+SI,74,Mezica,0,0,0
+SI,J5,Miren-Kostanjevica,45.89463,13.60842,0
+SI,76,Mislinja,46.44171,15.19576,0
+SI,77,Moravce,0,0,0
+SI,78,Moravske Toplice,46.69053,16.22297,0
+SI,79,Mozirje,46.34033,14.96121,0
+SI,80,Murska Sobota,46.662855,16.143385,0
+SI,81,Muta,46.60977,15.16304,0
+SI,82,Naklo,46.30009,14.297552,0
+SI,83,Nazarje,0,0,0
+SI,84,Nova Gorica,45.95578,13.655045,0
+SI,J7,Novo Mesto,45.80565,15.175815,0
+SI,86,Odranci,0,0,0
+SI,87,Ormoz,46.405859,16.153339,0
+SI,88,Osilnica,0,0,0
+SI,89,Pesnica,46.617744,15.673751,0
+SI,J9,Piran,45.52217,13.574225,0
+SI,91,Pivka,45.6829,14.1973,0
+SI,92,Podcetrtek,46.15655,15.59705,0
+SI,94,Postojna,45.791316,14.288754,0
+SI,K5,Preddvor,46.30168,14.42151,0
+SI,K7,Ptuj,46.42563,15.886445,0
+SI,97,Puconci,0,0,0
+SI,98,Racam,0,0,0
+SI,99,Radece,46.0667,15.18197,0
+SI,A1,Radenci,46.64041,16.04427,0
+SI,A2,Radlje ob Dravi,46.61434,15.22557,0
+SI,A3,Radovljica,46.34531,14.1713,0
+SI,L1,Ribnica,45.7407,14.7289,0
+SI,A7,Rogaska Slatina,46.232489,15.499192,0
+SI,A6,Rogasovci,0,0,0
+SI,A8,Rogatec,46.22594,15.70001,0
+SI,L3,Ruse,46.53986,15.50778,0
+SI,B1,Semic,45.65196,15.18209,0
+SI,B2,Sencur,46.24234,14.42114,0
+SI,B3,Sentilj,46.6748,15.65691,0
+SI,B4,Sentjernej,45.84353,15.33806,0
+SI,L7,Sentjur pri Celju,46.219165,15.396265,0
+SI,B6,Sevnica,46.01058,15.30682,0
+SI,B7,Sezana,45.708835,13.87134,0
+SI,B8,Skocjan,45.9065,15.29222,0
+SI,B9,Skofja Loka,46.167,14.315315,0
+SI,C1,Skofljica,45.98451,14.57416,0
+SI,C2,Slovenj Gradec,46.481447,15.031987,0
+SI,L8,Slovenska Bistrica,46.389915,15.569075,0
+SI,C4,Slovenske Konjice,46.33689,15.42299,0
+SI,C5,Smarje pri Jelsah,0,0,0
+SI,C6,Smartno ob Paki,46.3292,15.03216,0
+SI,C7,Sostanj,46.38086,15.04798,0
+SI,C8,Starse,0,0,0
+SI,C9,Store,0,0,0
+SI,D1,Sveti Jurij,0,0,0
+SI,D2,Tolmin,46.184098,13.734267,0
+SI,D3,Trbovlje,46.152185,15.045935,0
+SI,D4,Trebnje,45.90765,15.00592,0
+SI,D5,Trzic,46.367,14.30885,0
+SI,D6,Turnisce,46.62843,16.30905,0
+SI,D7,Velenje,46.362975,15.11395,0
+SI,D8,Velike Lasce,0,0,0
+SI,N2,Videm,46.576224,16.039306,0
+SI,E1,Vipava,45.845295,13.955126,0
+SI,E2,Vitanje,46.38106,15.29411,0
+SI,E3,Vodice,45.48419,14.0524,0
+SI,N3,Vojnik,46.29307,15.3024,0
+SI,E5,Vrhnika,45.9652,14.29766,0
+SI,E6,Vuzenica,46.59925,15.16423,0
+SI,E7,Zagorje ob Savi,46.135333,14.99566,0
+SI,N5,Zalec,46.25197,15.16514,0
+SI,E9,Zavrc,0,0,0
+SI,F1,Zelezniki,0,0,0
+SI,F2,Ziri,46.04701,14.10966,0
+SI,F3,Zrece,46.37523,15.38652,0
+SK,1,Banska Bystrica,0,0,81
+SK,2,Bratislava,0,0,41
+SK,3,Kosice,0,0,57
+SK,4,Nitra,0,0,51
+SK,5,Presov,0,0,89
+SK,6,Trencin,0,0,40
+SK,7,Trnava,0,0,41
+SK,8,Zilina,0,0,55
+SL,1,Eastern,8.208333,-10.941666,0
+SL,2,Northern,9.155364,-11.983333,0
+SL,3,Southern,7.725,-12.089071,0
+SL,4,Western Area,0,0,1
+SM,1,Acquaviva,43.944991,12.418439,0
+SM,6,Borgo Maggiore,43.943274,12.445957,0
+SM,2,Chiesanuova,43.904549,12.4204,0
+SM,3,Domagnano,43.952856,12.469444,0
+SM,4,Faetano,43.925494,12.498368,0
+SM,5,Fiorentino,43.911795,12.456732,0
+SM,8,Monte Giardino,41.730857,13.336183,0
+SM,7,San Marino,43.932156,12.448625,0
+SM,9,Serravalle,0,0,2
+SN,1,Dakar,0,0,5
+SN,3,Diourbel,0,0,1
+SN,9,Fatick,14.34066,-16.427,0
+SN,10,Kaolack,14.13996,-16.087395,0
+SN,11,Kolda,0,0,2
+SN,8,Louga,15.61494,-16.233534,0
+SN,4,Saint-Louis,0,0,1
+SN,5,Tambacounda,13.77234,-13.67311,0
+SN,7,Thies,0,0,6
+SN,12,Ziguinchor,0,0,1
+SO,1,Bakool,4.223603,43.683333,0
+SO,2,Banaadir,0,0,1
+SO,3,Bari,0,0,1
+SO,4,Bay,2.641667,43.5,0
+SO,5,Galguduud,4.891667,46.708333,0
+SO,6,Gedo,3.216667,42.016666,0
+SO,7,Hiiraan,4.361235,45.416667,0
+SO,8,Jubbada Dhexe,1.338283,42.158333,0
+SO,9,Jubbada Hoose,-0.170939,42,0
+SO,10,Mudug,6.241706,47.981551,0
+SO,11,Nugaal,0,0,1
+SO,12,Sanaag,10.266605,47.408333,0
+SO,13,Shabeellaha Dhexe,3.033333,46.066549,0
+SO,14,Shabeellaha Hoose,2,44.22205,0
+SO,15,Togdheer,9.120683,45.783333,0
+SO,16,Woqooyi Galbeed,0,0,3
+SR,10,Brokopondo,4.690863,-55.123655,0
+SR,11,Commewijne,5.744181,-54.891968,0
+SR,12,Coronie,5.637872,-56.242824,0
+SR,13,Marowijne,5.603088,-54.362373,0
+SR,14,Nickerie,0,0,1
+SR,15,Para,5.345529,-55.334812,0
+SR,16,Paramaribo,0,0,1
+SR,17,Saramacca,5.692437,-55.638452,0
+SR,18,Sipaliwini,3.683723,-56.032028,0
+SR,19,Wanica,5.7987,-55.218486,0
+ST,1,Principe,1.614602,7.405555,0
+ST,2,Sao Tome,0.20618,6.607102,0
+SV,1,Ahuachapan,0,0,1
+SV,2,Cabanas,0,0,1
+SV,3,Chalatenango,0,0,1
+SV,4,Cuscatlan,0,0,1
+SV,5,La Libertad,0,0,8
+SV,6,La Paz,0,0,1
+SV,7,La Union,0,0,1
+SV,8,Morazan,0,0,2
+SV,9,San Miguel,13.476998,-88.178441,0
+SV,10,San Salvador,0,0,10
+SV,12,San Vicente,13.641905,-88.78577,0
+SV,11,Santa Ana,0,0,5
+SV,13,Sonsonate,0,0,2
+SV,14,Usulutan,13.422174,-88.468132,0
+SY,1,Al Hasakah,0,0,0
+SY,2,Al Ladhiqiyah,0,0,1
+SY,3,Al Qunaytirah,0,0,0
+SY,4,Ar Raqqah,0,0,0
+SY,5,As Suwayda',0,0,0
+SY,6,Dar,0,0,0
+SY,7,Dayr az Zawr,0,0,0
+SY,13,Dimashq,0,0,1
+SY,9,Halab,0,0,1
+SY,10,Hamah,0,0,0
+SY,11,Hims,0,0,2
+SY,12,Idlib,0,0,1
+SY,8,Rif Dimashq,0,0,1
+SY,14,Tartus,0,0,0
+SZ,1,Hhohho,0,0,4
+SZ,2,Lubomb,-26.55,31.802285,0
+SZ,3,Manzini,0,0,3
+SZ,5,Praslin,0,0,0
+SZ,4,Shiselweni,0,0,1
+TD,1,Batha,13.782158,18.681625,0
+TD,2,Biltine,14.5307,20.924815,0
+TD,3,Borkou-Ennedi-Tibesti,18.68913,19.855669,0
+TD,4,Chari-Baguirmi,0,0,1
+TD,5,Guera,11.387535,18.603342,0
+TD,6,Kanem,14.566666,15.63487,0
+TD,7,Lac,13.766545,14.729583,0
+TD,8,Logone Occidental,0,0,1
+TD,9,Logone Oriental,8.291667,16.291666,0
+TD,10,Mayo-Kebbi,0,0,0
+TD,11,Moyen-Chari,9.158334,18.339196,0
+TD,12,Ouaddai,12.758333,21.414515,0
+TD,13,Salamat,10.81178,20.428268,0
+TD,14,Tandjile,9.595649,16.497499,0
+TG,1,Amlame,7.4543,0.9019,0
+TG,2,Aneho,0,0,0
+TG,3,Atakpame,7.525017,1.125518,0
+TG,15,Badou,7.5982,0.6266,0
+TG,4,Bafilo,9.343246,1.24226,0
+TG,5,Bassar,9.2651,0.7854,0
+TG,6,Dapaong,0,0,0
+TG,7,Kante,0,0,0
+TG,8,Klouto,0,0,0
+TG,14,Kpagouda,0,0,0
+TG,9,Lama-Kara,0,0,1
+TG,10,Lome,6.1228,1.2255,0
+TG,11,Mango,10.367909,0.466608,0
+TG,12,Niamtougou,9.766111,1.113331,0
+TG,13,Notse,0,0,0
+TG,16,Sotouboua,8.556385,0.983688,0
+TG,17,Tabligbo,6.583,1.4974,0
+TG,19,Tchamba,9.015612,1.414918,0
+TG,20,Tchaoudjo,0,0,0
+TG,18,Tsevie,6.420987,1.209735,0
+TG,21,Vogan,6.333333,1.266667,0
+TH,35,Ang Thong,0,0,1
+TH,28,Buriram,0,0,2
+TH,44,Chachoengsao,0,0,1
+TH,32,Chai Nat,0,0,0
+TH,26,Chaiyaphum,0,0,1
+TH,48,Chanthaburi,0,0,2
+TH,2,Chiang Mai,0,0,5
+TH,3,Chiang Rai,0,0,3
+TH,46,Chon Buri,0,0,9
+TH,58,Chumphon,0,0,2
+TH,23,Kalasin,0,0,1
+TH,11,Kamphaeng Phet,0,0,1
+TH,50,Kanchanaburi,0,0,1
+TH,22,Khon Kaen,0,0,3
+TH,63,Krabi,0,0,2
+TH,40,Krung Thep,0,0,2
+TH,6,Lampang,0,0,2
+TH,5,Lamphun,0,0,2
+TH,18,Loei,17.486709,101.494309,0
+TH,34,Lop Buri,15.075617,100.947713,0
+TH,1,Mae Hong Son,18.725606,97.998701,0
+TH,24,Maha Sarakham,0,0,1
+TH,78,Mukdahan,0,0,2
+TH,43,Nakhon Nayok,14.237058,101.209333,0
+TH,53,Nakhon Pathom,13.914143,100.083365,0
+TH,21,Nakhon Phanom,17.405801,104.395027,0
+TH,27,Nakhon Ratchasima,0,0,3
+TH,16,Nakhon Sawan,0,0,1
+TH,64,Nakhon Si Thammarat,0,0,1
+TH,4,Nan,0,0,2
+TH,31,Narathiwat,0,0,1
+TH,17,Nong Khai,17.884109,102.746597,0
+TH,38,Nonthaburi,0,0,3
+TH,39,Pathum Thani,0,0,3
+TH,69,Pattani,0,0,1
+TH,61,Phangnga,8.746739,98.169915,0
+TH,66,Phatthalung,7.492232,100.080615,0
+TH,41,Phayao,0,0,1
+TH,14,Phetchabun,16.248186,101.214188,0
+TH,56,Phetchaburi,0,0,3
+TH,13,Phichit,0,0,1
+TH,12,Phitsanulok,0,0,2
+TH,36,Phra Nakhon Si Ayutthaya,0,0,5
+TH,7,Phrae,0,0,3
+TH,62,Phuket,0,0,2
+TH,45,Prachin Buri,14.04907,101.377701,0
+TH,57,Prachuap Khiri Khan,0,0,2
+TH,59,Ranong,0,0,1
+TH,52,Ratchaburi,0,0,2
+TH,47,Rayong,0,0,2
+TH,25,Roi Et,0,0,3
+TH,20,Sakon Nakhon,0,0,1
+TH,42,Samut Prakan,0,0,7
+TH,55,Samut Sakhon,0,0,1
+TH,54,Samut Songkhram,13.376162,99.962131,0
+TH,37,Saraburi,0,0,1
+TH,67,Satun,0,0,1
+TH,33,Sing Buri,0,0,1
+TH,30,Sisaket,0,0,2
+TH,68,Songkhla,0,0,5
+TH,9,Sukhothai,0,0,2
+TH,51,Suphan Buri,0,0,1
+TH,60,Surat Thani,0,0,2
+TH,29,Surin,0,0,3
+TH,8,Tak,0,0,1
+TH,65,Trang,0,0,1
+TH,49,Trat,0,0,3
+TH,75,Ubon Ratchathani,0,0,2
+TH,76,Udon Thani,0,0,4
+TH,15,Uthai Thani,15.369906,99.544996,0
+TH,10,Uttaradit,0,0,1
+TH,70,Yala,0,0,1
+TH,72,Yasothon,0,0,1
+TJ,2,Khatlon,0,0,1
+TJ,1,Kuhistoni Badakhshon,38.071476,72.676879,0
+TJ,3,Sughd,39.984178,69.185734,0
+TM,1,Ahal,0,0,3
+TM,2,Balkan,39.82634,54.820579,0
+TM,3,Dashoguz,41.130877,58.686151,0
+TM,4,Lebap,39.071209,63.437088,0
+TM,5,Mary,37.327348,62.566437,0
+TN,15,Al Mahdiyah,35.30503,10.65756,0
+TN,16,Al Munastir,0,0,7
+TN,2,Al Qasrayn,35.241667,8.849488,0
+TN,3,Al Qayrawan,0,0,1
+TN,38,Ariana,36.875,9.958333,0
+TN,17,Bajah,0,0,0
+TN,18,Banzart,0,0,4
+TN,27,Bin,36.75,8.75,0
+TN,6,Jundubah,36.703344,8.625,0
+TN,14,Kef,36.1804,8.706,0
+TN,28,Madanin,0,0,0
+TN,39,Manouba,36.798,10.1055,0
+TN,19,Nabul,0,0,6
+TN,29,Qabis,33.702363,9.983333,0
+TN,10,Qafsah,34.493192,8.715203,0
+TN,31,Qibili,0,0,0
+TN,32,Safaqis,0,0,2
+TN,33,Sidi Bu Zayd,34.925984,9.575,0
+TN,22,Silyanah,0,0,1
+TN,23,Susah,0,0,6
+TN,34,Tatawin,32.094028,10.614583,0
+TN,35,Tawzar,0,0,1
+TN,36,Tunis,0,0,3
+TN,37,Zaghwan,36.30436,10,0
+TO,1,Ha,52.401714,5.316288,0
+TO,2,Tongatapu,-21.167938,-175.195999,0
+TO,3,Vava,0,0,0
+TR,81,Adana,38.633333,28.883333,15
+TR,2,Adiyaman,37.747799,38.373163,0
+TR,3,Afyon,38.76376,30.54034,9
+TR,4,Agri,39.686932,43.038892,9
+TR,75,Aksaray,38.37105,34.032576,0
+TR,5,Amasya,40.651232,35.834431,8
+TR,68,Ankara,39.715266,32.36064,13
+TR,7,Antalya,36.900297,30.690083,20
+TR,86,Ardahan,41.122547,42.896898,4
+TR,8,Artvin,41.178585,41.829282,6
+TR,9,Aydin,40.163142,32.666805,5
+TR,10,Balikesir,39.632856,27.904303,20
+TR,87,Bartin,41.636648,32.341384,0
+TR,76,Batman,37.879734,41.129295,0
+TR,77,Bayburt,40.259182,40.226637,0
+TR,11,Bilecik,40.146383,29.981179,9
+TR,12,Bingol,39.731966,37.14135,2
+TR,13,Bitlis,38.397165,42.1158,10
+TR,14,Bolu,40.735938,31.609664,17
+TR,15,Burdur,37.724769,30.285341,2
+TR,16,Bursa,40.189893,29.068779,20
+TR,17,Canakkale,40.146006,26.416786,1
+TR,82,Cankiri,40.600244,33.616235,0
+TR,19,Corum,40.552224,34.958676,6
+TR,20,Denizli,37.814946,29.05015,7
+TR,21,Diyarbakir,37.920467,40.216295,43
+TR,93,Duzce,40.839799,31.162335,0
+TR,22,Edirne,41.673937,26.558576,13
+TR,23,Elazig,38.643979,39.253218,6
+TR,24,Erzincan,39.730759,39.509387,3
+TR,25,Erzurum,39.904959,41.27887,33
+TR,26,Eskisehir,39.771125,30.498696,3
+TR,83,Gaziantep,37.112605,37.265563,11
+TR,28,Giresun,40.902935,38.379531,5
+TR,69,Gumushane,40.337675,39.449653,1
+TR,70,Hakkari,37.571221,43.743495,3
+TR,31,Hatay,36.413806,36.238455,19
+TR,32,Icel / Mersin,36.797532,34.630194,13
+TR,88,Igdir,39.923389,44.046829,0
+TR,33,Isparta,37.809832,30.463214,14
+TR,34,Istanbul,41.19371,28.964975,57
+TR,35,Izmir,38.605073,27.364486,36
+TR,46,Kahramanmaras,37.892831,36.956516,5
+TR,89,Karabuk,41.19465,32.619084,0
+TR,78,Karaman,39.8007,37.9456,1
+TR,84,Kars,40.584247,43.098823,1
+TR,37,Kastamonu,41.351036,33.786152,18
+TR,38,Kayseri,38.526809,35.928311,13
+TR,90,Kilis,36.716952,37.117632,1
+TR,79,Kirikkale,39.848704,33.504503,0
+TR,39,Kirklareli,41.735334,27.212531,8
+TR,40,Kirsehir,39.144329,34.165683,4
+TR,41,Kocaeli,40.871271,29.84654,8
+TR,71,Konya,37.874998,32.487117,4
+TR,43,Kutahya,39.419446,29.982799,4
+TR,44,Malatya,38.352109,38.314724,7
+TR,45,Manisa,38.616931,27.431612,14
+TR,72,Mardin,37.269273,40.691722,0
+TR,48,Mugla,37.195085,28.371466,11
+TR,49,Mus,38.739061,41.575239,2
+TR,50,Nevsehir,38.698784,34.62743,13
+TR,73,Nigde,37.973197,34.685147,4
+TR,52,Ordu,40.962245,37.901365,13
+TR,91,Osmaniye,39.8091,37.8407,1
+TR,53,Rize,41.028637,40.537121,7
+TR,54,Sakarya,40.731412,30.485519,6
+TR,55,Samsun,41.295848,36.326346,6
+TR,63,Sanliurfa,37.346195,39.035403,46
+TR,74,Siirt,37.936014,41.938113,0
+TR,57,Sinop,42.024854,35.116535,6
+TR,80,Sirnak,37.520339,42.463402,5
+TR,58,Sivas,39.748857,37.016708,5
+TR,59,Tekirdag,40.967213,27.502946,10
+TR,60,Tokat,39.2042,29.1389,11
+TR,61,Trabzon,40.991865,39.720844,10
+TR,62,Tunceli,39.106991,39.553872,7
+TR,64,Usak,38.693067,29.405571,2
+TR,65,Van,38.496457,43.402352,14
+TR,92,Yalova,40.255025,26.403637,4
+TR,66,Yozgat,39.818695,34.814665,3
+TR,85,Zonguldak,41.355916,31.613516,0
+TT,1,Arima,0,0,1
+TT,2,Caroni,0,0,6
+TT,3,Mayaro,10.231875,-61.008863,0
+TT,4,Nariva,10.369171,-61.152327,0
+TT,5,Port-of-Spain,0,0,3
+TT,6,Saint Andrew,0,0,1
+TT,7,Saint David,10.799905,-61.03647,0
+TT,8,Saint George,0,0,16
+TT,9,Saint Patrick,10.122195,-61.706165,0
+TT,10,San Fernando,0,0,2
+TT,11,Tobago,0,0,3
+TT,12,Victoria,0,0,4
+TW,1,Fu-chien,0,0,5
+TW,2,Kao-hsiung,0,0,0
+TW,3,T'ai-pei,0,0,8
+TW,4,T'ai-wan,0,0,134
+TZ,1,Arusha,-2.626139,36.178103,0
+TZ,23,Dar es Salaam,0,0,2
+TZ,3,Dodoma,0,0,1
+TZ,4,Iringa,0,0,1
+TZ,19,Kagera,-2.167413,31.726739,0
+TZ,5,Kigoma,-4.826173,30.408824,0
+TZ,6,Kilimanjaro,0,0,1
+TZ,7,Lindi,-9.388834,38.397111,0
+TZ,8,Mara,-1.760268,34.028825,0
+TZ,9,Mbeya,-8.308727,33.486285,0
+TZ,10,Morogoro,-7.886489,36.905426,0
+TZ,11,Mtwara,0,0,1
+TZ,12,Mwanza,0,0,1
+TZ,13,Pemba North,-5.036239,39.745205,0
+TZ,20,Pemba South,-5.32951,39.720403,0
+TZ,2,Pwani,-7.139507,38.862043,0
+TZ,24,Rukwa,-7.129343,31.351351,0
+TZ,14,Ruvuma,-10.466072,36.308987,0
+TZ,15,Shinyanga,-3.359236,33.205161,0
+TZ,16,Singida,-5.685914,34.405224,0
+TZ,17,Tabora,-6.923111,32.52961,0
+TZ,18,Tanga,0,0,4
+TZ,21,Zanzibar Central,-6.265687,39.424463,0
+TZ,22,Zanzibar North,-5.90116,39.29779,0
+TZ,25,Zanzibar Urban,0,0,2
+UA,1,Cherkas'ka Oblast',0,0,6
+UA,2,Chernihivs'ka Oblast',0,0,9
+UA,3,Chernivets'ka Oblast',0,0,9
+UA,4,Dnipropetrovs'ka Oblast',0,0,26
+UA,5,Donets'ka Oblast',0,0,37
+UA,6,Ivano-Frankivs'ka Oblast',0,0,8
+UA,7,Kharkivs'ka Oblast',0,0,28
+UA,8,Khersons'ka Oblast',0,0,15
+UA,9,Khmel'nyts'ka Oblast',0,0,10
+UA,10,Kirovohrads'ka Oblast',0,0,3
+UA,11,Krym,45.373211,36.625011,30
+UA,12,Kyyiv,50.453629,30.503828,0
+UA,13,Kyyivs'ka Oblast',0,0,41
+UA,15,L'vivs'ka Oblast',0,0,13
+UA,14,Luhans'ka Oblast',0,0,11
+UA,16,Mykolayivs'ka Oblast',0,0,3
+UA,17,Odes'ka Oblast',0,0,13
+UA,18,Poltavs'ka Oblast',0,0,6
+UA,19,Rivnens'ka Oblast',0,0,9
+UA,20,Sevastopol',0,0,4
+UA,21,Sums'ka Oblast',0,0,16
+UA,22,Ternopil's'ka Oblast',0,0,12
+UA,23,Vinnyts'ka Oblast',0,0,8
+UA,24,Volyns'ka Oblast',0,0,3
+UA,25,Zakarpats'ka Oblast',0,0,18
+UA,26,Zaporiz'ka Oblast',0,0,13
+UA,27,Zhytomyrs'ka Oblast',0,0,12
+UG,65,Adjumani,3.229969,31.762338,0
+UG,77,Arua,3.02238,30.90199,0
+UG,66,Bugiri,1.083333,33.716667,0
+UG,67,Busia,0.382226,34.007637,0
+UG,5,Busoga,0,0,0
+UG,18,Central,0,0,0
+UG,20,Eastern,0,0,0
+UG,78,Iganga,0.75659,33.550506,0
+UG,79,Kabarole,0.598545,30.274556,0
+UG,80,Kaberamaido,1.7633,33.1506,0
+UG,37,Kampala,0,0,2
+UG,81,Kamwenge,0.189751,30.54713,0
+UG,82,Kanungu,-0.726021,29.737105,0
+UG,8,Karamoja,0,0,0
+UG,69,Katakwi,2.008881,33.786498,0
+UG,83,Kayunga,0,0,1
+UG,84,Kitgum,3.448148,32.954994,0
+UG,85,Kyenjojo,0.548241,30.85638,0
+UG,86,Mayuge,-0.205515,33.498983,0
+UG,87,Mbale,1.078055,34.169515,0
+UG,88,Moroto,2.533495,34.648774,0
+UG,89,Mpigi,0.200358,32.032738,0
+UG,90,Mukono,0,0,1
+UG,91,Nakapiripirit,1.833149,34.632294,0
+UG,73,Nakasongola,1.288161,32.38446,0
+UG,21,Nile,0,0,0
+UG,22,North Buganda,0,0,0
+UG,23,Northern,0,0,0
+UG,92,Pader,2.903747,33.040111,0
+UG,93,Rukungiri,-0.721777,29.893297,0
+UG,74,Sembabule,-0.078723,31.320803,0
+UG,94,Sironko,1.295758,34.365532,0
+UG,95,Soroti,1.711998,33.608196,0
+UG,12,South Buganda,0,0,0
+UG,24,Southern,0,0,0
+UG,96,Wakiso,0,0,1
+UG,25,Western,0.528405,34.544897,0
+UG,97,Yumbe,3.454796,31.339328,0
+US,AL,Alabama,0,0,945
+US,AK,Alaska,0,0,200
+US,AS,American Samoa,0,0,0
+US,AZ,Arizona,0,0,598
+US,AR,Arkansas,0,0,749
+US,AA,Armed Forces Americas,0,0,3
+US,AE,"Armed Forces Europe, Middle East, & Canada",0,0,45
+US,AP,Armed Forces Pacific,0,0,27
+US,CA,California,0,0,3044
+US,CO,Colorado,0,0,739
+US,CT,Connecticut,0,0,595
+US,DE,Delaware,0,0,125
+US,DC,District of Columbia,0,0,166
+US,FM,Federated States of Micronesia,0,0,0
+US,FL,Florida,0,0,1571
+US,GA,Georgia,0,0,1156
+US,GU,Guam,36.902148,-89.823875,0
+US,HI,Hawaii,0,0,163
+US,ID,Idaho,0,0,349
+US,IL,Illinois,0,0,1998
+US,IN,Indiana,0,0,1170
+US,IA,Iowa,0,0,1183
+US,KS,Kansas,0,0,802
+US,KY,Kentucky,0,0,893
+US,LA,Louisiana,0,0,759
+US,ME,Maine,0,0,553
+US,MH,Marshall Islands,42.380762,-70.989544,0
+US,MD,Maryland,0,0,772
+US,MA,Massachusetts,0,0,1043
+US,MI,Michigan,0,0,1533
+US,MN,Minnesota,0,0,1187
+US,MS,Mississippi,0,0,580
+US,MO,Missouri,0,0,1277
+US,MT,Montana,0,0,333
+US,NE,Nebraska,0,0,585
+US,NV,Nevada,0,0,232
+US,NH,New Hapshire,0,0,423
+US,NJ,New Jersey,0,0,1183
+US,NM,New Mexico,0,0,385
+US,NY,New York,0,0,2607
+US,NC,North Carolina,0,0,1387
+US,ND,North Dakota,0,0,305
+US,MP,Northern Mariana Islands,0,0,0
+US,OH,Ohio,0,0,1793
+US,OK,Oklahoma,0,0,935
+US,OR,Oregon,0,0,575
+US,PW,Palau,0,0,1
+US,PA,Pennsylvania,0,0,2618
+US,PR,Puerto Rico,18.199755,-66.583628,0
+US,RI,Rhode Island,0,0,135
+US,SC,South Carolina,0,0,671
+US,SD,South Dakota,0,0,344
+US,TN,Tennessee,0,0,899
+US,TX,Texas,0,0,2847
+US,UT,Utah,0,0,372
+US,VT,Vermont,0,0,409
+US,VI,Virgin Islands,39.955293,-74.232054,0
+US,VA,Virginia,0,0,1394
+US,WA,Washington,0,0,922
+US,WV,West Virginia,0,0,769
+US,WI,Wisconsin,0,0,1216
+US,WY,Wyoming,0,0,195
+UY,1,Artigas,-30.40996,-56.47282,0
+UY,2,Canelones,0,0,5
+UY,3,Cerro Largo,0,0,1
+UY,4,Colonia,0,0,3
+UY,5,Durazno,0,0,1
+UY,6,Flores,-33.546097,-56.878351,0
+UY,7,Florida,0,0,1
+UY,8,Lavalleja,0,0,1
+UY,9,Maldonado,0,0,3
+UY,10,Montevideo,0,0,1
+UY,11,Paysandu,-32.317755,-58.076836,0
+UY,12,Rio Negro,-32.870603,-57.483908,0
+UY,13,Rivera,0,0,1
+UY,14,Rocha,-34.49675,-54.326229,0
+UY,15,Salto,0,0,1
+UY,16,San Jose,-34.303564,-56.761739,0
+UY,17,Soriano,0,0,2
+UY,18,Tacuarembo,-31.697835,-55.964004,0
+UY,19,Treinta y Tres,-33.23148,-54.37455,0
+UZ,1,Andijon,0,0,2
+UZ,2,Bukhoro,0,0,1
+UZ,3,Farghona,0,0,2
+UZ,4,Jizzakh,0,0,0
+UZ,5,Khorazm,0,0,0
+UZ,6,Namangan,41.10049,71.262512,0
+UZ,7,Nawoiy,0,0,1
+UZ,8,Qashqadaryo,0,0,2
+UZ,9,Qoraqalpoghiston,0,0,0
+UZ,10,Samarqand,0,0,1
+UZ,11,Sirdaryo,40.52603,68.604263,0
+UZ,12,Surkhondaryo,0,0,0
+UZ,13,Toshkent,0,0,2
+VC,1,Charlotte,13.32435,-61.148,0
+VC,6,Grenadines,0,0,0
+VC,2,Saint Andrew,0,0,0
+VC,3,Saint David,13.27991,-61.23777,0
+VC,4,Saint George,0,0,1
+VC,5,Saint Patrick,0,0,0
+VE,1,Amazonas,0,0,2
+VE,2,Anzoategui,0,0,9
+VE,3,Apure,0,0,3
+VE,4,Aragua,0,0,10
+VE,5,Barinas,0,0,4
+VE,6,Bolivar,0,0,8
+VE,7,Carabobo,0,0,13
+VE,8,Cojedes,0,0,3
+VE,9,Delta Amacuro,8.837463,-61.156217,0
+VE,24,Dependencias Federales,0,0,0
+VE,25,Distrito Federal,0,0,2
+VE,11,Falcon,0,0,11
+VE,12,Guarico,0,0,3
+VE,13,Lara,0,0,11
+VE,14,Merida,0,0,10
+VE,15,Miranda,0,0,14
+VE,16,Monagas,0,0,15
+VE,17,Nueva Esparta,0,0,2
+VE,18,Portuguesa,0,0,4
+VE,19,Sucre,0,0,6
+VE,20,Tachira,0,0,2
+VE,21,Trujillo,0,0,3
+VE,26,Vargas,0,0,2
+VE,22,Yaracuy,0,0,8
+VE,23,Zulia,0,0,10
+VN,43,An Giang,10.585202,105.163588,0
+VN,53,Ba Ria-Vung Tau,10.575822,107.304838,0
+VN,2,Bac Thai,0,0,1
+VN,3,Ben Tre,0,0,4
+VN,54,Binh Dinh,0,0,1
+VN,55,Binh Thuan,10.794628,108.262245,0
+VN,56,Can Tho,9.981018,105.58881,0
+VN,5,Cao Bang,22.718129,106.043478,0
+VN,44,Dac Lac,0,0,1
+VN,45,Dong Nai,0,0,1
+VN,46,Dong Thap,0,0,1
+VN,57,Gia Lai,13.871016,108.173305,0
+VN,11,Ha Bac,0,0,1
+VN,58,Ha Giang,0,0,1
+VN,51,Ha Noi,21.006875,105.82513,0
+VN,59,Ha Tay,20.917772,105.6389,0
+VN,60,Ha Tinh,0,0,1
+VN,12,Hai Hung,0,0,6
+VN,13,Hai Phong,0,0,1
+VN,52,Ho Chi Minh,10.758,106.6534,0
+VN,61,Hoa Binh,20.717854,105.31692,0
+VN,62,Khanh Hoa,12.3725,109.084479,0
+VN,47,Kien Giang,9.971251,104.684084,0
+VN,63,Kon Tum,0,0,1
+VN,22,Lai Chau,0,0,1
+VN,23,Lam Dong,0,0,1
+VN,39,Lang Son,0,0,3
+VN,64,Lao Cai,22.261412,104.067375,0
+VN,24,Long An,10.724731,106.13171,0
+VN,48,Minh Hai,0,0,1
+VN,65,Nam Ha,0,0,1
+VN,66,Nghe An,0,0,1
+VN,67,Ninh Binh,0,0,2
+VN,68,Ninh Thuan,11.774863,108.922393,0
+VN,69,Phu Yen,0,0,1
+VN,70,Quang Binh,17.488577,106.297138,0
+VN,29,Quang Nam-Da Nang,0,0,4
+VN,71,Quang Ngai,0,0,2
+VN,30,Quang Ninh,21.190077,107.257105,0
+VN,72,Quang Tri,16.740169,106.951332,0
+VN,73,Soc Trang,9.58194,105.917801,0
+VN,32,Son La,0,0,1
+VN,49,Song Be,0,0,1
+VN,33,Tay Ninh,11.363446,106.15206,0
+VN,35,Thai Binh,0,0,2
+VN,34,Thanh Hoa,0,0,4
+VN,74,Thua Thien,0,0,1
+VN,37,Tien Giang,0,0,2
+VN,75,Tra Vinh,9.823053,106.318525,0
+VN,76,Tuyen Quang,22.064272,105.20504,0
+VN,77,Vinh Long,10.110073,105.98819,0
+VN,50,Vinh Phu,9.934227,106.3339,0
+VN,78,Yen Bai,0,0,1
+VU,5,Ambrym,0,0,0
+VU,6,Aoba,0,0,0
+VU,8,Efate,0,0,2
+VU,9,Epi,-16.75,168.333333,0
+VU,10,Malakula,0,0,0
+VU,16,Malampa,0,0,0
+VU,11,Paama,-16.476085,168.236923,0
+VU,17,Penama,0,0,0
+VU,12,Pentecote,0,0,0
+VU,13,Sanma,0,0,0
+VU,18,Shefa,0,0,0
+VU,14,Shepherd,0,0,0
+VU,15,Tafea,0,0,0
+VU,7,Torba,0,0,0
+WS,2,Aiga-i-le-Tai,0,0,0
+WS,3,Atua,0,0,0
+WS,4,Fa,0,0,0
+WS,5,Gaga,0,0,0
+WS,7,Gagaifomauga,0,0,0
+WS,8,Palauli,0,0,0
+WS,9,Satupa,0,0,0
+WS,10,Tuamasaga,0,0,0
+WS,6,Va,37.826274,-81.159709,0
+WS,11,Vaisigano,0,0,0
+YE,1,Abyan,0,0,0
+YE,20,Al Bayda',14.244985,48.794943,0
+YE,8,Al Hudaydah,14.79497,42.9464,0
+YE,21,Al Jawf,18.22,43.18,0
+YE,3,Al Mahrah,0,0,0
+YE,10,Al Mahwit,0,0,0
+YE,11,Dhamar,0,0,1
+YE,4,Hadramawt,0,0,2
+YE,22,Hajjah,15.6975,43.5991,0
+YE,23,Ibb,13.9644,44.182,0
+YE,24,Lahij,13.0541,44.8841,0
+YE,14,Ma'rib,0,0,0
+YE,15,Sa,16.183333,43.366667,0
+YE,16,San,0,0,1
+YE,5,Shabwah,0,0,0
+YE,25,Ta,0,0,0
+ZA,5,Eastern Cape,0,0,42
+ZA,3,Free State,0,0,25
+ZA,6,Gauteng,0,0,74
+ZA,2,KwaZulu-Natal,0,0,67
+ZA,9,Limpopo,0,0,13
+ZA,7,Mpumalanga,0,0,24
+ZA,10,North-West,0,0,15
+ZA,8,Northern Cape,0,0,8
+ZA,11,Western Cape,0,0,76
+ZM,2,Central,0,0,4
+ZM,8,Copperbelt,-13.091666,27.958333,0
+ZM,3,Eastern,-12.64489,31.858586,0
+ZM,4,Luapula,0,0,1
+ZM,9,Lusaka,0,0,1
+ZM,6,North-Western,-12.741667,24.733333,0
+ZM,5,Northern,0,0,1
+ZM,7,Southern,-16.640605,26.941666,0
+ZM,1,Western,0,0,2
+ZW,9,Bulawayo,-20.1678,28.5813,0
+ZW,10,Harare,-17.83115,31.06725,0
+ZW,1,Manicaland,-19.066666,32.208333,0
+ZW,3,Mashonaland Central,-16.602664,31.248373,0
+ZW,4,Mashonaland East,0,0,5
+ZW,5,Mashonaland West,-17.488173,29.532475,0
+ZW,8,Masvingo,-20.879417,31.308333,0
+ZW,6,Matabeleland North,0,0,1
+ZW,7,Matabeleland South,-21.006932,29.075,0
+ZW,2,Midlands,-19.15,29.65,0
+BA,BD,Bosnia and Herzegovina,0,0,0
+BL,0,Saint Barthlemy,17.9,-62.83,
+AI,0,Anguilla,18.25,-63.17,
+AN,0,Netherlands Antilles,12.25,-68.75,
+AQ,0,Antarctica,-90,0,
+AS,0,American Samoa,-14.33,-170,
+AW,0,Aruba,12.5,-69.97,
+AX,0,Åland Islands,0.1,0.1,
+BV,0,Bouvet Island,-54.43,3.4,
+CC,0,Cocos (Keeling) Islands,-12.5,96.83,
+CK,0,Cook Islands,-21.23,-159.77,
+CX,0,Christmas Island,-10.5,105.67,
+EH,0,Western Sahara,24.5,-13,
+ER,0,Eritrea,15,39,
+FK,0,Falkland Islands (Malvinas),-51.75,-59,
+FO,0,Faroe Islands,62,-7,
+GF,0,French Guiana,4,-53,
+GG,0,Guernsey,49.47,-2.59,
+GI,0,Gibraltar,36.18,-5.37,
+GP,0,Guadeloupe,16.25,-61.58,
+GS,0,South Georgia and the South Sandwich Islands,-54.5,-37,
+GU,0,Guam,13.47,144.78,
+HK,0,Hong Kong,22.25,114.17,
+HM,0,Heard Island and McDonald Islands,-53.1,72.52,
+IM,0,Isle of Man,54.24,-4.55,
+IO,0,British Indian Ocean Territory,-6,71.5,
+JE,0,Jersey,49.21,-2.13,
+ME,0,Montenegro,42.57,18.81,
+MF,0,Saint Martin,0,0,
+MH,0,Marshall Islands,9,168,
+MP,0,Northern Mariana Islands,15.2,145.75,
+MQ,0,Martinique,14.67,-61,
+MT,0,Malta,35.83,14.58,
+NC,0,New Caledonia,-21.5,165.5,
+NF,0,Norfolk Island,-29.03,167.95,
+NU,0,Niue,-19.03,-169.87,
+PF,0,French Polynesia,-15,-140,
+PM,0,Saint Pierre and Miquelon,46.83,-56.33,
+PN,0,Pitcairn,-24.7,-127.44,
+PR,0,Puerto Rico,18.25,-66.5,
+PS,0,Palestinian,32,35.25,
+PW,0,Palau,7.5,134.5,
+RE,0,Réunion,-21.1,55.6,
+RS,0,Serbia,44.02,20.73,
+SG,0,Singapore,1.37,103.8,
+SJ,0,Svalbard and Jan Mayen,78,20,
+TC,0,Turks and Caicos Islands,21.75,-71.58,
+TF,0,French Southern Territories,-49.45,70.02,
+TK,0,Tokelau,-9,-172,
+TL,0,Timor-Leste,-8.87,125.73,
+TV,0,Tuvalu,-8,178,
+UM,0,United States Minor Outlying Islands,19.28,166.6,
+VA,0,Holy See (Vatican City State),41.9,12.45,
+VG,0,"Virgin Islands, British",18.5,-64.5,
+VI,0,"Virgin Islands, U.S.",18.33,-64.83,
+WF,0,Wallis and Futuna,-13.3,-176.2,
+YT,0,Mayotte,-12.83,45.17,
